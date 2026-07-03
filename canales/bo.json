@@ -5,26 +5,26 @@
       {
         "name": "Señal Nacional",
         "url": "",
-        "idVideo": "xa0fwio",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gI0YpgJraiR/120x120"
-      },
-      {
-        "name": "Señal Nacional",
-        "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gI0YpgJraiR/120x120"
-      },
-      {
-        "name": "Señal Nacional",
-        "url": "",
         "idVideo": "x9n2qyk",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gI0YpgJraiR/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gI1dlVY-0nN/120x120"
       }
     ]
   },
   {
     "name": "Otros Canales",
     "signals": [
+      {
+        "name": "ATB La Paz (614p) [Not 24/7]",
+        "url": "http://186.121.206.197/live/daniel/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "ATB La Paz",
+        "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
       {
         "name": "Cadena A (720p) [Not 24/7]",
         "url": "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8",
@@ -442,12 +442,6 @@
       {
         "name": "Bolivision Santa Cruz (720p)",
         "url": "https://d1mws3umreue1g.cloudfront.net/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "MegaTV (576p)",
-        "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       }
