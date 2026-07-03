@@ -88,19 +88,15 @@ async function main() {
   
   const canalesManualesRaw = JSON.parse(fs.readFileSync(MANUAL_CHANNELS_PATH, 'utf-8'));
   const listaM3uAVerificar = [];
-  const mapaDailyMotion = {}; // Mapeo dinámico: ownerId -> { grupo, nombreSeñal }
+  const mapaDailyMotion = {}; // ownerId -> [{ grupo }]
 
   for (const grupo of canalesManualesRaw) {
     for (const sig of grupo.signals) {
       if (sig.url) {
-        // Es un streaming M3U8 tradicional
         listaM3uAVerificar.push({ grupo: grupo.name, nombre: sig.name, url: sig.url });
       } else if (sig.dailymotionOwner) {
-        // Es un canal de DailyMotion a rastrear
-        mapaDailyMotion[sig.dailymotionOwner] = {
-          grupo: grupo.name,
-          nombreSeñal: sig.name
-        };
+        if (!mapaDailyMotion[sig.dailymotionOwner]) mapaDailyMotion[sig.dailymotionOwner] = [];
+        mapaDailyMotion[sig.dailymotionOwner].push({ grupo: grupo.name });
       }
     }
   }
@@ -115,7 +111,10 @@ async function main() {
       for (const r of resLote) {
         if (r.online) {
           if (!resultadoFinal[r.grupo]) resultadoFinal[r.grupo] = [];
-          resultadoFinal[r.grupo].push({ name: r.nombre, url: r.url, idVideo: "", logo: "" });
+          const yaExiste = resultadoFinal[r.grupo].some(s => s.url === r.url);
+          if (!yaExiste) {
+            resultadoFinal[r.grupo].push({ name: r.nombre, url: r.url, idVideo: "", logo: "" });
+          }
         }
       }
     }
@@ -129,15 +128,17 @@ async function main() {
     console.log(`✓ DailyMotion reporta ${enVivoDM.length} señales en vivo en este momento.`);
 
     for (const live of enVivoDM) {
-      const configDinamica = mapaDailyMotion[live.owner];
-      if (configDinamica) {
-        if (!resultadoFinal[configDinamica.grupo]) resultadoFinal[configDinamica.grupo] = [];
-        resultadoFinal[configDinamica.grupo].push({
-          name: configDinamica.nombreSeñal,
-          url: "",
-          idVideo: live.id,
-          logo: live['owner.avatar_120_url'] || ""
-        });
+      const gruposOwner = mapaDailyMotion[live.owner];
+      if (gruposOwner) {
+        for (const { grupo } of gruposOwner) {
+          if (!resultadoFinal[grupo]) resultadoFinal[grupo] = [];
+          resultadoFinal[grupo].push({
+            name: live.title,
+            url: "",
+            idVideo: live.id,
+            logo: live['owner.avatar_120_url'] || ""
+          });
+        }
       }
     }
   }
@@ -151,10 +152,11 @@ async function main() {
       const canalesM3U = parsearM3U(textoM3u);
 
       // Obtener set de URLs manuales ya procesadas para evitar duplicidad
+      const normalizarUrl = (u) => u.replace(/:443\//, '/').replace(/:80\//, '/');
       const urlsExistentes = new Set();
-      Object.values(resultadoFinal).flat().forEach(s => { if (s.url) urlsExistentes.add(s.url); });
+      Object.values(resultadoFinal).flat().forEach(s => { if (s.url) urlsExistentes.add(normalizarUrl(s.url)); });
 
-      const m3uFiltrado = canalesM3U.filter(c => !urlsExistentes.has(c.url));
+      const m3uFiltrado = canalesM3U.filter(c => !urlsExistentes.has(normalizarUrl(c.url)));
       console.log(`Verificando ${m3uFiltrado.length} canales públicos de iptv-org...`);
 
       for (let i = 0; i < m3uFiltrado.length; i += BATCH_SIZE) {

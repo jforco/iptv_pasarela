@@ -3,25 +3,53 @@
     "name": "Bolivision",
     "signals": [
       { "name": "Señal SCZ HD", "url": "https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/original.m3u8" },
-      { "name": "Señal LPZ HD", "url": "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/original.m3u8" }
+      { "name": "Señal SCZ", "url": "https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/480p.m3u8" },
+      { "name": "Señal LPZ HD", "url": "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/original.m3u8" },
+      { "name": "Señal LPZ", "url": "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/480p.m3u8" }
     ]
   },
   {
-    "name": "Unitel",
+    "name": "BoliviaTV",
     "signals": [
-      { "name": "Señal en Vivo HD", "dailymotionOwner": "x2elrz6" }
+      { "name": "", "dailymotionOwner": "x36ur4y" }
+    ]
+  },
+  {
+    "name": "ATB Bolivia",
+    "signals": [
+      { "name": "", "dailymotionOwner": "xc71k1" }
     ]
   },
   {
     "name": "Red Uno",
     "signals": [
-      { "name": "Señal Nacional", "dailymotionOwner": "xd61wi" }
+      { "name": "", "dailymotionOwner": "xd61wi" }
     ]
   },
   {
     "name": "PAT",
     "signals": [
-      { "name": "Señal en vivo", "url": "https://www.redpat.tv:8000/play/110/index.m3u8" }
+      { "name": "Señal SCZ", "url": "https://www.redpat.tv:8000/play/110/index.m3u8" },
+      { "name": "Señal LPZ", "url": "https://www.redpat.tv:8000/play/12/index.m3u8" }
+    ]
+  },
+  {
+    "name": "Gigavision",
+    "signals": [
+      { "name": "Señal SCZ", "url": "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8" },
+      { "name": "Señal LPZ", "url": "https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8" }
+    ]
+  },
+  {
+    "name": "Cadena A",
+    "signals": [
+      { "name": "Señal en vivo", "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8" }
+    ]
+  },
+  {
+    "name": "RTP",
+    "signals": [
+      { "name": "Señal en vivo", "url": "https://rtp.noxun.net/hls720/stream3.m3u8" }
     ]
   }
 ]
