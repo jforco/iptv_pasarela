@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Bolivision",
+    "signals": [
+      { "name": "Señal SCZ HD", "url": "https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/original.m3u8" },
+      { "name": "Señal LPZ HD", "url": "https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/original.m3u8" }
+    ]
+  },
+  {
+    "name": "Unitel",
+    "signals": [
+      { "name": "Señal en Vivo HD", "dailymotionOwner": "x2elrz6" }
+    ]
+  },
+  {
+    "name": "Red Uno",
+    "signals": [
+      { "name": "Señal Nacional", "dailymotionOwner": "xd61wi" }
+    ]
+  },
+  {
+    "name": "PAT",
+    "signals": [
+      { "name": "Señal en vivo", "url": "https://www.redpat.tv:8000/play/110/index.m3u8" }
+    ]
+  }
+]

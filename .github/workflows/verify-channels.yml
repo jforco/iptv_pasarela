@@ -1,0 +1,31 @@
+name: Validador de Canales Multi-Source
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Se ejecuta al minuto 0 de cada hora
+  workflow_dispatch: # Permite ejecución manual instantánea desde GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  verify-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar Código
+        uses: actions/checkout@v4
+
+      - name: Inicializar Node.js v20
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Ejecutar Verificación Masiva
+        run: node scripts/verify-channels.js
+
+      - name: Publicar cambios en el JSON
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add canales/
+          git diff --staged --quiet || (git commit -m "Cron: Canales actualizados automáticamente [skip ci]" && git push)
