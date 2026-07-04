@@ -65,6 +65,12 @@
         "logo": ""
       },
       {
+        "name": "ATB La Paz",
+        "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "CEACOM TV (1080p) [Not 24/7]",
         "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
         "idVideo": "",
@@ -263,12 +269,6 @@
         "logo": ""
       },
       {
-        "name": "Bolivia Punto TV",
-        "url": "https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "PTV (720p)",
         "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
         "idVideo": "",
@@ -283,6 +283,12 @@
       {
         "name": "Canal 56 Quiero TV (720p)",
         "url": "http://45.5.118.152:8000/play/a08z/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel Santa Cruz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -331,12 +337,6 @@
       {
         "name": "Unitel Cochabamba (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "SCM TV HD 32.1 (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/cinebes/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -445,6 +445,18 @@
       {
         "name": "Bolivision Santa Cruz (720p)",
         "url": "https://d1mws3umreue1g.cloudfront.net/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "MegaTV (576p)",
+        "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "EL DEBER (1080p)",
+        "url": "https://master.tucableip.com/eldebertv/index.m3u8",
         "idVideo": "",
         "logo": ""
       }
