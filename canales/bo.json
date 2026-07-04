@@ -45,13 +45,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gIBFuZffSVO/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gICWRTMXBkl/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gIBFuZffSVO/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gICWRTMXBkl/120x120"
       }
     ]
   },
@@ -62,13 +62,13 @@
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gI4fUDRIkZe/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gIC4vj0OBau/120x120"
       },
       {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gI4fUDRIkZe/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gIC4vj0OBau/120x120"
       }
     ]
   },
@@ -324,12 +324,6 @@
       {
         "name": "TELE 6 (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "GTV (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
