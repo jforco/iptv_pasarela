@@ -45,13 +45,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gIbdSTZvgbZ/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gIeOf3NNsLJ/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gIbdSTZvgbZ/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gIeOf3NNsLJ/120x120"
       }
     ]
   },
@@ -78,6 +78,12 @@
       {
         "name": "ATB La Paz (614p) [Not 24/7]",
         "url": "http://186.121.206.197/live/daniel/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "ATB La Paz",
+        "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -148,8 +154,20 @@
         "logo": ""
       },
       {
+        "name": "Univalle Televisión (1080p)",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UPEA TV (720p)",
+        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -268,12 +286,6 @@
         "logo": ""
       },
       {
-        "name": "PTV (720p)",
-        "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Unitel La Paz (576p)",
         "url": "http://190.60.39.195:8000/play/a01r/index.m3u8",
         "idVideo": "",
@@ -288,6 +300,18 @@
       {
         "name": "Unitel Santa Cruz (720p)",
         "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel La Paz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel Cochabamba (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
         "idVideo": "",
         "logo": ""
       },
