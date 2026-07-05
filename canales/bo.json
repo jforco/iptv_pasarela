@@ -71,12 +71,6 @@
         "logo": ""
       },
       {
-        "name": "CEACOM TV (1080p) [Not 24/7]",
-        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "F10 HD [Geo-blocked]",
         "url": "https://tv2.bitstreaming.net:3235/multi_live/play.m3u8",
         "idVideo": "",
@@ -185,12 +179,6 @@
         "logo": ""
       },
       {
-        "name": "Red Uno (720p)",
-        "url": "https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "UMSA TVU LP (720p)",
         "url": "https://edge.enhdtv.com/8190/index.m3u8",
         "idVideo": "",
@@ -281,20 +269,8 @@
         "logo": ""
       },
       {
-        "name": "Radio Mega TV Amazonia (720p)",
-        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "As Contenidos (720p)",
         "url": "https://master.tucableip.com/ascontenido/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unica TV (720p)",
-        "url": "https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -389,12 +365,6 @@
         "logo": ""
       },
       {
-        "name": "TDT Multimedia (720p)",
-        "url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Gigavision (720p)",
         "url": "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
         "idVideo": "",
@@ -421,24 +391,6 @@
       {
         "name": "Bolivision Santa Cruz (720p)",
         "url": "https://d1mws3umreue1g.cloudfront.net/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "MegaTV (576p)",
-        "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV Show Oruro (720p)",
-        "url": "http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "EL DEBER (1080p)",
-        "url": "https://master.tucableip.com/eldebertv/index.m3u8",
         "idVideo": "",
         "logo": ""
       }
