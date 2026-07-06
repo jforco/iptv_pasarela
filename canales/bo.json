@@ -39,23 +39,6 @@
     ]
   },
   {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "Cbba 3",
-        "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gI-v7ZBaf1v/120x120"
-      },
-      {
-        "name": "SCZ 6",
-        "url": "",
-        "idVideo": "x9n2qyk",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gI-v7ZBaf1v/120x120"
-      }
-    ]
-  },
-  {
     "name": "ATB Bolivia",
     "signals": [
       {
@@ -79,13 +62,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gI-mnvVkz33/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gJ15tfs-UXd/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gI-mnvVkz33/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gJ15tfs-UXd/120x120"
       }
     ]
   },
@@ -123,6 +106,12 @@
         "logo": ""
       },
       {
+        "name": "FAP TV (480p)",
+        "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "FTV (720p)",
         "url": "https://master.tucableip.com/ftvhd/index.m3u8",
         "idVideo": "",
@@ -137,12 +126,6 @@
       {
         "name": "Red ADvenir TV (360p) [Not 24/7]",
         "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "RTP",
-        "url": "https://rtp.noxun.net/hls/stream.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -167,6 +150,12 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UPEA TV (720p)",
+        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -393,12 +382,6 @@
         "logo": ""
       },
       {
-        "name": "RTV Norte (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/mbocayatyhd/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Bolivision (1080p)",
         "url": "https://d135ohnuotzzyo.cloudfront.net/index.m3u8",
         "idVideo": "",
@@ -485,6 +468,12 @@
       {
         "name": "TV Show Oruro (720p)",
         "url": "http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "EL DEBER (1080p)",
+        "url": "https://master.tucableip.com/eldebertv/index.m3u8",
         "idVideo": "",
         "logo": ""
       }
