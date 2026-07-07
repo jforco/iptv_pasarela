@@ -3,12 +3,6 @@
     "name": "Gigavision",
     "signals": [
       {
-        "name": "Señal SCZ",
-        "url": "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Señal LPZ",
         "url": "https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8",
         "idVideo": "",
@@ -39,13 +33,19 @@
     ]
   },
   {
-    "name": "Red Uno",
+    "name": "BoliviaTV",
     "signals": [
       {
-        "name": "Cbba 3",
+        "name": "Sigue nuestra programación en 7.1",
         "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gJ3N0iPzqkx/120x120"
+        "idVideo": "x9nzqpo",
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gJ89kRjtK7w/120x120"
+      },
+      {
+        "name": "Sigue nuestra programación en 7.2",
+        "url": "",
+        "idVideo": "x9ny70y",
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gJ89kRjtK7w/120x120"
       }
     ]
   },
@@ -67,23 +67,6 @@
     ]
   },
   {
-    "name": "BoliviaTV",
-    "signals": [
-      {
-        "name": "Sigue nuestra programación en 7.1",
-        "url": "",
-        "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gJ45Sj0PCWb/120x120"
-      },
-      {
-        "name": "Sigue nuestra programación en 7.2",
-        "url": "",
-        "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gJ45Sj0PCWb/120x120"
-      }
-    ]
-  },
-  {
     "name": "Otros Canales",
     "signals": [
       {
@@ -95,12 +78,6 @@
       {
         "name": "ATB La Paz",
         "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "CEACOM TV (1080p) [Not 24/7]",
-        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -183,12 +160,6 @@
         "logo": ""
       },
       {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Agenda Minera TV",
         "url": "https://stv2.boliviaplay.com.bo/hls/stream.m3u8",
         "idVideo": "",
@@ -225,12 +196,6 @@
         "logo": ""
       },
       {
-        "name": "Red Uno (720p)",
-        "url": "https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "UMSA TVU LP (720p)",
         "url": "https://edge.enhdtv.com/8190/index.m3u8",
         "idVideo": "",
@@ -255,12 +220,6 @@
         "logo": ""
       },
       {
-        "name": "RA Television (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/ratvbol/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Zuraca TV (720p)",
         "url": "https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8",
         "idVideo": "",
@@ -269,12 +228,6 @@
       {
         "name": "Poder de Dios TV (720p)",
         "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Imperial TV (720p)",
-        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -309,12 +262,6 @@
         "logo": ""
       },
       {
-        "name": "PTV (720p)",
-        "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Unitel La Paz (576p)",
         "url": "http://190.60.39.195:8000/play/a01r/index.m3u8",
         "idVideo": "",
@@ -323,24 +270,6 @@
       {
         "name": "Canal 56 Quiero TV (720p)",
         "url": "http://45.5.118.152:8000/play/a08z/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel La Paz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel Cochabamba (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -387,12 +316,6 @@
         "logo": ""
       },
       {
-        "name": "La Exitosa TV Riberalta (720p)",
-        "url": "https://ares.disfrutaenlared.com:1936/exitosa/exitosa/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Interactivo Television (720p)",
         "url": "https://mist01.homestream.fun/hls/interactivotv/index.m3u8",
         "idVideo": "",
@@ -407,18 +330,6 @@
       {
         "name": "TELE 6 (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "GTV (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "RTV Norte (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/mbocayatyhd/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -461,12 +372,6 @@
       {
         "name": "TVU Sucre (720p)",
         "url": "https://edge.enhdtv.com/8214/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TDT Multimedia (720p)",
-        "url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -515,6 +420,12 @@
       {
         "name": "EL DEBER (1080p)",
         "url": "https://master.tucableip.com/eldebertv/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Canal 6 Master TV Carapari (720p)",
+        "url": "https://edge.enhdtv.com/8064/index.m3u8",
         "idVideo": "",
         "logo": ""
       }
