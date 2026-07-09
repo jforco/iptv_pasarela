@@ -36,16 +36,16 @@
     "name": "ATB Bolivia",
     "signals": [
       {
-        "name": "Atb Cochabamba",
-        "url": "",
-        "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gJvnWSURWd9/120x120"
-      },
-      {
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gJvnWSURWd9/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gJyNxF_WKfc/120x120"
+      },
+      {
+        "name": "Atb Cochabamba",
+        "url": "",
+        "idVideo": "x89sfvo",
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gJyNxF_WKfc/120x120"
       }
     ]
   },
@@ -53,10 +53,33 @@
     "name": "Red Uno",
     "signals": [
       {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gJyd7Pig5DU/120x120"
+      },
+      {
         "name": "SCZ 6",
         "url": "",
         "idVideo": "x9n2qyk",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gJwNdFPs_V2/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gJyd7Pig5DU/120x120"
+      }
+    ]
+  },
+  {
+    "name": "BoliviaTV",
+    "signals": [
+      {
+        "name": "Sigue nuestra programación en 7.2",
+        "url": "",
+        "idVideo": "x9ny70y",
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gJy9U2b2tVZ/120x120"
+      },
+      {
+        "name": "Sigue nuestra programación en 7.1",
+        "url": "",
+        "idVideo": "x9nzqpo",
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gJy9U2b2tVZ/120x120"
       }
     ]
   },
@@ -232,8 +255,20 @@
         "logo": ""
       },
       {
+        "name": "RA Television (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/ratvbol/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Zuraca TV (720p)",
         "url": "https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Poder de Dios TV (720p)",
+        "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -432,12 +467,6 @@
       {
         "name": "TVU Sucre (720p)",
         "url": "https://edge.enhdtv.com/8214/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Radio Uno PST (720p)",
-        "url": "https://master.tucableip.com/pstbolivia/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
