@@ -33,19 +33,30 @@
     ]
   },
   {
-    "name": "ATB Bolivia",
+    "name": "Red Uno",
     "signals": [
       {
-        "name": "Atb Cochabamba",
+        "name": "Cbba 3",
         "url": "",
-        "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gK1nxYTnHS6/120x120"
-      },
+        "idVideo": "xa0qka8",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gK2b8DkLUUy/120x120"
+      }
+    ]
+  },
+  {
+    "name": "ATB Bolivia",
+    "signals": [
       {
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gK1nxYTnHS6/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gK2xsij6WKI/120x120"
+      },
+      {
+        "name": "Atb Cochabamba",
+        "url": "",
+        "idVideo": "x89sfvo",
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gK2xsij6WKI/120x120"
       }
     ]
   },
@@ -56,13 +67,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gJzWcWJ0gDg/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gK3F3ww0p2i/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gJzWcWJ0gDg/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gK3F3ww0p2i/120x120"
       }
     ]
   },
@@ -132,6 +143,12 @@
       {
         "name": "RTP",
         "url": "https://rtp.noxun.net/hls/stream.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UMSA TVU Internacional (720p)",
+        "url": "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -220,6 +237,12 @@
         "logo": ""
       },
       {
+        "name": "UMSA TVU Internacional (720p)",
+        "url": "https://edge.enhdtv.com/8026/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "TV OFF (1080p)",
         "url": "https://edge.enhdtv.com/tvoff/index.m3u8",
         "idVideo": "",
@@ -240,6 +263,12 @@
       {
         "name": "Poder de Dios TV (720p)",
         "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Imperial TV (720p)",
+        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -354,12 +383,6 @@
       {
         "name": "Unitel Cochabamba (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "SCM TV HD 32.1 (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/cinebes/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -486,6 +509,12 @@
       {
         "name": "MegaTV (576p)",
         "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TV Show Oruro (720p)",
+        "url": "http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
