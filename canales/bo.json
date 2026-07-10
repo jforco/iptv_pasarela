@@ -39,36 +39,53 @@
     ]
   },
   {
+    "name": "BoliviaTV",
+    "signals": [
+      {
+        "name": "Sigue nuestra programación en 7.1",
+        "url": "",
+        "idVideo": "x9nzqpo",
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gKFipN2By8b/120x120"
+      },
+      {
+        "name": "Sigue nuestra programación en 7.2",
+        "url": "",
+        "idVideo": "x9ny70y",
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gKFipN2By8b/120x120"
+      }
+    ]
+  },
+  {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gKI3t_Y2_hP/120x120"
+      },
+      {
+        "name": "LA PAZ",
+        "url": "",
+        "idVideo": "xa0fwio",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gKI3t_Y2_hP/120x120"
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gKE2ikRlt3u/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gKHWH03o5hG/120x120"
       },
       {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gKE2ikRlt3u/120x120"
-      }
-    ]
-  },
-  {
-    "name": "BoliviaTV",
-    "signals": [
-      {
-        "name": "Sigue nuestra programación en 7.2",
-        "url": "",
-        "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gKFipN2By8b/120x120"
-      },
-      {
-        "name": "Sigue nuestra programación en 7.1",
-        "url": "",
-        "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gKFipN2By8b/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gKHWH03o5hG/120x120"
       }
     ]
   },
@@ -118,6 +135,12 @@
         "logo": ""
       },
       {
+        "name": "Palenque TV",
+        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Red ADvenir TV (360p) [Not 24/7]",
         "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
         "idVideo": "",
@@ -150,12 +173,6 @@
       {
         "name": "Unifranz (720p)",
         "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Univalle Televisión (1080p)",
-        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -228,6 +245,12 @@
       {
         "name": "TV OFF (1080p)",
         "url": "https://edge.enhdtv.com/tvoff/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "RA Television (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/ratvbol/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -376,6 +399,12 @@
         "logo": ""
       },
       {
+        "name": "GTV (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "RTV Norte (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/mbocayatyhd/playlist.m3u8",
         "idVideo": "",
@@ -504,12 +533,6 @@
       {
         "name": "Red Rubi (720p)",
         "url": "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Radio Universitaria San Andres (720p)",
-        "url": "https://edge.enhdtv.com/8054/index.m3u8",
         "idVideo": "",
         "logo": ""
       }
