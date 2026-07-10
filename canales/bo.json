@@ -51,24 +51,7 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gKFipN2By8b/120x120"
-      }
-    ]
-  },
-  {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "Cbba 3",
-        "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gKJVNn_8dKx/120x120"
-      },
-      {
-        "name": "LA PAZ",
-        "url": "",
-        "idVideo": "xa0fwio",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gKJVNn_8dKx/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gKFipN2By8b/120x120"
       }
     ]
   },
@@ -159,14 +142,14 @@
         "logo": ""
       },
       {
-        "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
-        "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "name": "Univalle Televisión (1080p)",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
+        "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
+        "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -287,6 +270,12 @@
       {
         "name": "Bolivia Punto TV",
         "url": "https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "PTV (720p)",
+        "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -417,6 +406,12 @@
         "logo": ""
       },
       {
+        "name": "SPC Canal 15 (720p)",
+        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "TDT Multimedia (720p)",
         "url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
         "idVideo": "",
@@ -491,6 +486,12 @@
       {
         "name": "Red Rubi (720p)",
         "url": "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Universitaria San Andres (720p)",
+        "url": "https://edge.enhdtv.com/8054/index.m3u8",
         "idVideo": "",
         "logo": ""
       }
