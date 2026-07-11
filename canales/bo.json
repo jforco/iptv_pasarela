@@ -34,13 +34,13 @@
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gKPSmBXFmw_/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gKPSmBXFmw_/120x120"
       },
       {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gKPSmBXFmw_/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gKPSmBXFmw_/120x120"
       }
     ]
   },
@@ -51,13 +51,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gKUk9F6uKaI/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gKWauw_ANzj/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gKUk9F6uKaI/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gKWauw_ANzj/120x120"
       }
     ]
   },
@@ -145,6 +145,12 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UPEA TV (720p)",
+        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -287,12 +293,6 @@
         "logo": ""
       },
       {
-        "name": "Unitel Cochabamba (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Interactivo Television (720p)",
         "url": "https://mist01.homestream.fun/hls/interactivotv/index.m3u8",
         "idVideo": "",
@@ -385,6 +385,36 @@
       {
         "name": "Sucremanta TV (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TV Show Oruro (720p)",
+        "url": "http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "EL DEBER (1080p)",
+        "url": "https://master.tucableip.com/eldebertv/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Canal 6 Master TV Carapari (720p)",
+        "url": "https://edge.enhdtv.com/8064/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Red Rubi (720p)",
+        "url": "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Universitaria San Andres (720p)",
+        "url": "https://edge.enhdtv.com/8054/index.m3u8",
         "idVideo": "",
         "logo": ""
       }
