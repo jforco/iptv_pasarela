@@ -62,13 +62,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gKXzUcIhJBy/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gKZwKMsf1is/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gKXzUcIhJBy/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gKZwKMsf1is/120x120"
       }
     ]
   },
@@ -160,14 +160,14 @@
         "logo": ""
       },
       {
-        "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
-        "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "name": "Univalle Televisión (1080p)",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
+        "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
+        "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -280,6 +280,12 @@
         "logo": ""
       },
       {
+        "name": "Bolivia Punto TV",
+        "url": "https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "PTV (720p)",
         "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
         "idVideo": "",
@@ -336,6 +342,12 @@
       {
         "name": "FAP TV (720p)",
         "url": "https://edge.enhdtv.com/faptv/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "SCM TV HD 32.1 (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/cinebes/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -450,6 +462,12 @@
       {
         "name": "Canal 6 Master TV Carapari (720p)",
         "url": "https://edge.enhdtv.com/8064/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Borjana de Television (720p)",
+        "url": "https://edge.enhdtv.com/8068/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
