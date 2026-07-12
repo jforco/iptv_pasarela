@@ -51,7 +51,7 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gKPSmBXFmw_/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gKPSmBXFmw_/120x120"
       }
     ]
   },
@@ -62,13 +62,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gKpLPsMNftR/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gKwUTRH_6bU/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gKpLPsMNftR/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gKwUTRH_6bU/120x120"
       }
     ]
   },
@@ -106,6 +106,12 @@
         "logo": ""
       },
       {
+        "name": "FAP TV (480p)",
+        "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "FTV (720p)",
         "url": "https://master.tucableip.com/ftvhd/index.m3u8",
         "idVideo": "",
@@ -132,6 +138,36 @@
       {
         "name": "RTP",
         "url": "https://rtp.noxun.net/hls/stream.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UMSA TVU Internacional (720p)",
+        "url": "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UMSA TVU LP (720p)",
+        "url": "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unifranz (720p)",
+        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Univalle Televisión (1080p)",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
+        "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -246,6 +282,12 @@
       {
         "name": "Bolivia Punto TV",
         "url": "https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "PTV (720p)",
+        "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -396,42 +438,6 @@
       {
         "name": "Sucremanta TV (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "EL DEBER (1080p)",
-        "url": "https://master.tucableip.com/eldebertv/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TransMedia (720p)",
-        "url": "https://edge.enhdtv.com/8064/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Radio Gente (720p)",
-        "url": "https://edge.enhdtv.com/8068/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Red Rubi (720p)",
-        "url": "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Radio Universitaria San Andres (720p)",
-        "url": "https://edge.enhdtv.com/8054/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Dmoda Channel (1080p)",
-        "url": "https://master.tucableip.com/dmoda/index.m3u8",
         "idVideo": "",
         "logo": ""
       }
