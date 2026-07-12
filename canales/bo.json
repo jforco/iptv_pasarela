@@ -57,7 +57,7 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gKpLPsMNftR/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gKpLPsMNftR/120x120"
       }
     ]
   },
@@ -131,6 +131,12 @@
         "logo": ""
       },
       {
+        "name": "UPEA TV (720p)",
+        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Amitel TV (720p)",
         "url": "https://stv2.boliviaplay.com.bo/hls/stream.m3u8",
         "idVideo": "",
@@ -193,6 +199,12 @@
       {
         "name": "Poder de Dios TV (720p)",
         "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Imperial TV (720p)",
+        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
         "idVideo": "",
         "logo": ""
       },
