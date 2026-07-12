@@ -17,6 +17,17 @@
     ]
   },
   {
+    "name": "Cadena A",
+    "signals": [
+      {
+        "name": "Señal en vivo",
+        "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "name": "RTP",
     "signals": [
       {
@@ -77,6 +88,12 @@
         "logo": ""
       },
       {
+        "name": "CEACOM TV (1080p) [Not 24/7]",
+        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "CTV",
         "url": "https://live.ctvbolivia.com/hls/ctv.m3u8",
         "idVideo": "",
@@ -85,12 +102,6 @@
       {
         "name": "F10 HD [Geo-blocked]",
         "url": "https://tv2.bitstreaming.net:3235/multi_live/play.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "FAP TV (480p)",
-        "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -121,12 +132,6 @@
       {
         "name": "RTP",
         "url": "https://rtp.noxun.net/hls/stream.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Univalle Televisión (1080p)",
-        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -169,6 +174,12 @@
       {
         "name": "Vos TV",
         "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Red Uno (720p)",
+        "url": "https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -233,8 +244,8 @@
         "logo": ""
       },
       {
-        "name": "PTV (720p)",
-        "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
+        "name": "Bolivia Punto TV",
+        "url": "https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -253,6 +264,12 @@
       {
         "name": "Unitel Santa Cruz (720p)",
         "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Canal 15 Teleor (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/activatv/activatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -277,6 +294,12 @@
       {
         "name": "FAP TV (720p)",
         "url": "https://edge.enhdtv.com/faptv/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "SCM TV HD 32.1 (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/cinebes/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -367,6 +390,12 @@
       {
         "name": "Bolivision Santa Cruz (720p)",
         "url": "https://d1mws3umreue1g.cloudfront.net/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Sucremanta TV (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
