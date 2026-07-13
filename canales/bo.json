@@ -17,17 +17,6 @@
     ]
   },
   {
-    "name": "Cadena A",
-    "signals": [
-      {
-        "name": "Señal en vivo",
-        "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "name": "RTP",
     "signals": [
       {
@@ -45,7 +34,7 @@
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gKPSmBXFmw_/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gKPSmBXFmw_/120x120"
       },
       {
         "name": "Atb Cochabamba",
@@ -56,30 +45,19 @@
     ]
   },
   {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "SCZ 6",
-        "url": "",
-        "idVideo": "x9n2qyk",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gL3pPxARjZt/120x120"
-      }
-    ]
-  },
-  {
     "name": "BoliviaTV",
     "signals": [
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gL4DHzBvIUv/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gL5Fkbl8_Au/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gL4DHzBvIUv/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gL5Fkbl8_Au/120x120"
       }
     ]
   },
@@ -123,12 +101,6 @@
         "logo": ""
       },
       {
-        "name": "Bolivia Punto TV",
-        "url": "https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Bolivision (1080p)",
         "url": "https://d135ohnuotzzyo.cloudfront.net/index.m3u8",
         "idVideo": "",
@@ -149,12 +121,6 @@
       {
         "name": "Canal 56 Quiero TV (720p)",
         "url": "http://45.5.118.152:8000/play/a08z/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "CEACOM TV (1080p) [Not 24/7]",
-        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -225,12 +191,6 @@
         "logo": ""
       },
       {
-        "name": "Imperial TV (720p)",
-        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Interactivo Television (720p)",
         "url": "https://mist01.homestream.fun/hls/interactivotv2/index.m3u8",
         "idVideo": "",
@@ -239,12 +199,6 @@
       {
         "name": "Interactivo Television (720p)",
         "url": "https://mist01.homestream.fun/hls/interactivotv/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "MegaTV (576p)",
-        "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -281,12 +235,6 @@
       {
         "name": "Radio Kollasuyo (720p)",
         "url": "https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Radio Mega TV Amazonia (720p)",
-        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
