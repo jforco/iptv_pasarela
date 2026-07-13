@@ -45,30 +45,13 @@
         "name": "Cbba 3",
         "url": "",
         "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gLH7UFq1dhu/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gLIyYO9bGgC/120x120"
       },
       {
         "name": "SCZ 6",
         "url": "",
         "idVideo": "x9n2qyk",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gLH7UFq1dhu/120x120"
-      }
-    ]
-  },
-  {
-    "name": "ATB Bolivia",
-    "signals": [
-      {
-        "name": "ATB BOLIVIA",
-        "url": "",
-        "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gLGSFs6iXvA/120x120"
-      },
-      {
-        "name": "Atb Cochabamba",
-        "url": "",
-        "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gLGSFs6iXvA/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gLIyYO9bGgC/120x120"
       }
     ]
   },
@@ -85,7 +68,18 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gLFD7X8dW5L/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gLFD7X8dW5L/120x120"
+      }
+    ]
+  },
+  {
+    "name": "ATB Bolivia",
+    "signals": [
+      {
+        "name": "Atb Cochabamba",
+        "url": "",
+        "idVideo": "x89sfvo",
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gLGSFs6iXvA/120x120"
       }
     ]
   },
@@ -101,18 +95,6 @@
       {
         "name": "As Contenidos (720p)",
         "url": "https://master.tucableip.com/ascontenido/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "ATB La Paz (614p) [Not 24/7]",
-        "url": "http://186.121.206.197/live/daniel/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "ATB La Paz",
-        "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -315,6 +297,12 @@
         "logo": ""
       },
       {
+        "name": "Radio Universitaria San Andres (720p)",
+        "url": "https://edge.enhdtv.com/8054/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Red ADvenir TV (360p) [Not 24/7]",
         "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
         "idVideo": "",
@@ -417,6 +405,12 @@
         "logo": ""
       },
       {
+        "name": "TransMedia (720p)",
+        "url": "https://edge.enhdtv.com/8064/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "TV Latina (1080p)",
         "url": "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8",
         "idVideo": "",
@@ -465,6 +459,12 @@
         "logo": ""
       },
       {
+        "name": "Unica TV (720p)",
+        "url": "https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Unifranz (720p)",
         "url": "https://edge.enhdtv.com/8192/index.m3u8",
         "idVideo": "",
@@ -483,32 +483,8 @@
         "logo": ""
       },
       {
-        "name": "Unitel Cochabamba (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel La Paz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Unitel La Paz (576p)",
         "url": "http://190.60.39.195:8000/play/a01r/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Univalle Televisión (1080p)",
-        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
