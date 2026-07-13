@@ -39,6 +39,23 @@
     ]
   },
   {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gLLBsigFEJ6/120x120"
+      },
+      {
+        "name": "SCZ 6",
+        "url": "",
+        "idVideo": "x9n2qyk",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gLLBsigFEJ6/120x120"
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
@@ -56,24 +73,13 @@
     ]
   },
   {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "SCZ 6",
-        "url": "",
-        "idVideo": "x9n2qyk",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gLLBsigFEJ6/120x120"
-      }
-    ]
-  },
-  {
     "name": "BoliviaTV",
     "signals": [
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gLLiEyQ8yWn/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gLLiEyQ8yWn/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
@@ -257,12 +263,6 @@
       {
         "name": "Interactivo Television (720p)",
         "url": "https://mist01.homestream.fun/hls/interactivotv/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "MegaTV (576p)",
-        "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -501,14 +501,26 @@
         "logo": ""
       },
       {
+        "name": "Unitel Cochabamba (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel La Paz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Unitel La Paz (576p)",
         "url": "http://190.60.39.195:8000/play/a01r/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "Univalle Televisión (1080p)",
-        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
+        "name": "Unitel Santa Cruz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
