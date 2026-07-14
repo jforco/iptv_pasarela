@@ -39,19 +39,19 @@
     ]
   },
   {
-    "name": "Red Uno",
+    "name": "ATB Bolivia",
     "signals": [
       {
-        "name": "Cbba 3",
+        "name": "Atb Cochabamba",
         "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gLWiUUkYLWy/120x120"
+        "idVideo": "x89sfvo",
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gLYasAIBdaz/120x120"
       },
       {
-        "name": "SCZ 6",
+        "name": "ATB BOLIVIA",
         "url": "",
-        "idVideo": "x9n2qyk",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gLWiUUkYLWy/120x120"
+        "idVideo": "x84eirw",
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gLYasAIBdaz/120x120"
       }
     ]
   },
@@ -73,19 +73,13 @@
     ]
   },
   {
-    "name": "ATB Bolivia",
+    "name": "Red Uno",
     "signals": [
       {
-        "name": "ATB BOLIVIA",
+        "name": "SCZ 6",
         "url": "",
-        "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gLYasAIBdaz/120x120"
-      },
-      {
-        "name": "Atb Cochabamba",
-        "url": "",
-        "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gLYasAIBdaz/120x120"
+        "idVideo": "x9n2qyk",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gLalQl-H7q8/120x120"
       }
     ]
   },
@@ -273,6 +267,12 @@
         "logo": ""
       },
       {
+        "name": "RA Television (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/ratvbol/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Radio Centro (720p)",
         "url": "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8",
         "idVideo": "",
@@ -305,12 +305,6 @@
       {
         "name": "Radio Universitaria San Andres (720p)",
         "url": "https://edge.enhdtv.com/8054/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Radio Uno PST (720p)",
-        "url": "https://master.tucableip.com/pstbolivia/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -515,12 +509,6 @@
       {
         "name": "Unitel La Paz (576p)",
         "url": "http://190.60.39.195:8000/play/a01r/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
