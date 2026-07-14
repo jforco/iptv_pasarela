@@ -39,13 +39,30 @@
     ]
   },
   {
+    "name": "BoliviaTV",
+    "signals": [
+      {
+        "name": "Sigue nuestra programación en 7.2",
+        "url": "",
+        "idVideo": "x9ny70y",
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gLii6eolMB2/120x120"
+      },
+      {
+        "name": "Sigue nuestra programación en 7.1",
+        "url": "",
+        "idVideo": "x9nzqpo",
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gLii6eolMB2/120x120"
+      }
+    ]
+  },
+  {
     "name": "Red Uno",
     "signals": [
       {
         "name": "Cbba 3",
         "url": "",
         "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gLhtv0ZIW0-/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gLhxx_cQ1Ze/120x120"
       }
     ]
   },
@@ -56,30 +73,13 @@
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gLdUQ3o1Dg3/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gLdUQ3o1Dg3/120x120"
       },
       {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gLdUQ3o1Dg3/120x120"
-      }
-    ]
-  },
-  {
-    "name": "BoliviaTV",
-    "signals": [
-      {
-        "name": "Sigue nuestra programación en 7.2",
-        "url": "",
-        "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gLh3Iy0IjiX/120x120"
-      },
-      {
-        "name": "Sigue nuestra programación en 7.1",
-        "url": "",
-        "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gLh3Iy0IjiX/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gLdUQ3o1Dg3/120x120"
       }
     ]
   },
@@ -101,12 +101,6 @@
       {
         "name": "ATB La Paz (614p) [Not 24/7]",
         "url": "http://186.121.206.197/live/daniel/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "ATB La Paz",
-        "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -371,12 +365,6 @@
       {
         "name": "RTV Norte (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/mbocayatyhd/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "SCM TV HD 32.1 (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/cinebes/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
