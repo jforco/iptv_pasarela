@@ -39,19 +39,36 @@
     ]
   },
   {
+    "name": "BoliviaTV",
+    "signals": [
+      {
+        "name": "Sigue nuestra programación en 7.2",
+        "url": "",
+        "idVideo": "x9ny70y",
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gL_B2r0uMeY/120x120"
+      },
+      {
+        "name": "Sigue nuestra programación en 7.1",
+        "url": "",
+        "idVideo": "x9nzqpo",
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gL_B2r0uMeY/120x120"
+      }
+    ]
+  },
+  {
     "name": "Red Uno",
     "signals": [
       {
         "name": "LA PAZ",
         "url": "",
         "idVideo": "xa0fwio",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gM0uLOcOIL6/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gM1GdQIR5aB/120x120"
       },
       {
         "name": "Cbba 3",
         "url": "",
         "idVideo": "xa0qka8",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gM0uLOcOIL6/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gM1GdQIR5aB/120x120"
       }
     ]
   },
@@ -62,30 +79,13 @@
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gL_KwYzV1li/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gL_KwYzV1li/120x120"
       },
       {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gL_KwYzV1li/120x120"
-      }
-    ]
-  },
-  {
-    "name": "BoliviaTV",
-    "signals": [
-      {
-        "name": "Sigue nuestra programación en 7.2",
-        "url": "",
-        "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gL_B2r0uMeY/120x120"
-      },
-      {
-        "name": "Sigue nuestra programación en 7.1",
-        "url": "",
-        "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gL_B2r0uMeY/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gL_KwYzV1li/120x120"
       }
     ]
   },
@@ -107,12 +107,6 @@
       {
         "name": "ATB La Paz (614p) [Not 24/7]",
         "url": "http://186.121.206.197/live/daniel/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "ATB La Paz",
-        "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -545,6 +539,12 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UPEA TV (720p)",
+        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
