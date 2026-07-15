@@ -39,36 +39,30 @@
     ]
   },
   {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "Cbba 3",
-        "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gLuYZNh6wnv/120x120"
-      },
-      {
-        "name": "SCZ 6",
-        "url": "",
-        "idVideo": "x9n2qyk",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gLuYZNh6wnv/120x120"
-      }
-    ]
-  },
-  {
     "name": "ATB Bolivia",
     "signals": [
+      {
+        "name": "Atb Cochabamba",
+        "url": "",
+        "idVideo": "x89sfvo",
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gLpuLgXY2Gm/120x120"
+      },
       {
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
         "logo": "https://s2.dmcdn.net/u/1E8-X1gLpuLgXY2Gm/120x120"
-      },
+      }
+    ]
+  },
+  {
+    "name": "Red Uno",
+    "signals": [
       {
-        "name": "Atb Cochabamba",
+        "name": "SCZ 6",
         "url": "",
-        "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gLpuLgXY2Gm/120x120"
+        "idVideo": "x9n2qyk",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gLwMWs942d5/120x120"
       }
     ]
   },
@@ -79,13 +73,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gLuTuFmOyv8/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gLuqzXTZ6qg/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gLuTuFmOyv8/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gLuqzXTZ6qg/120x120"
       }
     ]
   },
@@ -137,6 +131,18 @@
       {
         "name": "Bolivision Santa Cruz (720p)",
         "url": "https://d1mws3umreue1g.cloudfront.net/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Canal 15 Teleor (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/activatv/activatv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Canal 56 Quiero TV (720p)",
+        "url": "http://45.5.118.152:8000/play/a08z/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -261,8 +267,20 @@
         "logo": ""
       },
       {
+        "name": "RA Television (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/ratvbol/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Radio Centro (720p)",
         "url": "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Clasica TV (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -279,8 +297,14 @@
         "logo": ""
       },
       {
-        "name": "Radio Uno PST (720p)",
-        "url": "https://master.tucableip.com/pstbolivia/index.m3u8",
+        "name": "Radio Mega TV Amazonia (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Universitaria San Andres (720p)",
+        "url": "https://edge.enhdtv.com/8054/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -293,6 +317,12 @@
       {
         "name": "Red America TV (1080p)",
         "url": "https://edge.enhdtv.com/redamerica/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Red CCTV",
+        "url": "https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -467,12 +497,6 @@
       {
         "name": "Unitel La Paz (576p)",
         "url": "http://190.60.39.195:8000/play/a01r/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
