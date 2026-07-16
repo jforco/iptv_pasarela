@@ -39,36 +39,19 @@
     ]
   },
   {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "LA PAZ",
-        "url": "",
-        "idVideo": "xa0fwio",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gMBjzGZaMXH/120x120"
-      },
-      {
-        "name": "Cbba 3",
-        "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gMBjzGZaMXH/120x120"
-      }
-    ]
-  },
-  {
     "name": "BoliviaTV",
     "signals": [
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gM700N-xtNW/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gMEl7r_piIw/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gM700N-xtNW/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gMEl7r_piIw/120x120"
       }
     ]
   },
@@ -85,7 +68,7 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gL_KwYzV1li/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gL_KwYzV1li/120x120"
       }
     ]
   },
@@ -117,6 +100,12 @@
         "logo": ""
       },
       {
+        "name": "Audiokiss (1080p)",
+        "url": "https://master.tucableip.com/audiokisstv/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "AYNI TV",
         "url": "https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8",
         "idVideo": "",
@@ -137,6 +126,12 @@
       {
         "name": "Canal 15 Teleor (720p)",
         "url": "https://ares.disfrutaenlared.com:1936/activatv/activatv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Canal 56 Quiero TV (720p)",
+        "url": "http://45.5.118.152:8000/play/a08z/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -243,12 +238,6 @@
         "logo": ""
       },
       {
-        "name": "MegaTV (576p)",
-        "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Palenque TV",
         "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
         "idVideo": "",
@@ -297,12 +286,6 @@
         "logo": ""
       },
       {
-        "name": "Radio Uno PST (720p)",
-        "url": "https://master.tucableip.com/pstbolivia/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Red ADvenir TV (360p) [Not 24/7]",
         "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
         "idVideo": "",
@@ -323,6 +306,12 @@
       {
         "name": "Red Rubi (720p)",
         "url": "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Red TV Shop (720p)",
+        "url": "https://master.tucableip.com/redtvshop/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -359,6 +348,12 @@
       {
         "name": "Sol TV (720p)",
         "url": "http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "SPC Canal 15 (720p)",
+        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -406,6 +401,12 @@
       },
       {
         "name": "TV Latina (1080p)",
+        "url": "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TV Latina (1080p)",
         "url": "https://master.tucableip.com/tvlatina/index.m3u8",
         "idVideo": "",
         "logo": ""
@@ -413,6 +414,12 @@
       {
         "name": "TV OFF (1080p)",
         "url": "https://edge.enhdtv.com/tvoff/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TV Show Oruro (720p)",
+        "url": "http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -483,12 +490,6 @@
         "logo": ""
       },
       {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Univalle Televisión (1080p)",
         "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
@@ -497,12 +498,6 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
