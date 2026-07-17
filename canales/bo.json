@@ -39,25 +39,19 @@
     ]
   },
   {
-    "name": "Red Uno",
+    "name": "BoliviaTV",
     "signals": [
       {
-        "name": "LA PAZ",
+        "name": "Sigue nuestra programación en 7.1",
         "url": "",
-        "idVideo": "xa0fwio",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gMa-x9T0Lu5/120x120"
+        "idVideo": "x9nzqpo",
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gMcaBDsLT4f/120x120"
       },
       {
-        "name": "Cbba 3",
+        "name": "Sigue nuestra programación en 7.2",
         "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gMa-x9T0Lu5/120x120"
-      },
-      {
-        "name": "SCZ 6",
-        "url": "",
-        "idVideo": "x9n2qyk",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gMa-x9T0Lu5/120x120"
+        "idVideo": "x9ny70y",
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gMcaBDsLT4f/120x120"
       }
     ]
   },
@@ -68,24 +62,36 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gMXqGAnGEBr/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gMbwCWEJqU5/120x120"
       },
       {
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gMXqGAnGEBr/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gMbwCWEJqU5/120x120"
       }
     ]
   },
   {
-    "name": "BoliviaTV",
+    "name": "Red Uno",
     "signals": [
       {
-        "name": "Sigue nuestra programación en 7.2",
+        "name": "LA PAZ",
         "url": "",
-        "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gMadPHGpWYE/120x120"
+        "idVideo": "xa0fwio",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gMbcykufiRK/120x120"
+      },
+      {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gMbcykufiRK/120x120"
+      },
+      {
+        "name": "SCZ 6",
+        "url": "",
+        "idVideo": "x9n2qyk",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gMbcykufiRK/120x120"
       }
     ]
   },
@@ -273,6 +279,12 @@
         "logo": ""
       },
       {
+        "name": "PTV (720p)",
+        "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "RA Television (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/ratvbol/playlist.m3u8",
         "idVideo": "",
@@ -287,6 +299,12 @@
       {
         "name": "Radio Clasica TV (720p)",
         "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Gente (720p)",
+        "url": "https://edge.enhdtv.com/8068/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -359,12 +377,6 @@
       {
         "name": "Sol TV (720p)",
         "url": "http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "SPC Canal 15 (720p)",
-        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -507,6 +519,12 @@
         "logo": ""
       },
       {
+        "name": "Unitel Santa Cruz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Univalle Televisión (1080p)",
         "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
@@ -515,12 +533,6 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
