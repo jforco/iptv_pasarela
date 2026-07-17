@@ -45,19 +45,19 @@
         "name": "Cbba 3",
         "url": "",
         "idVideo": "xa0qka8",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gMftTFtKYZR/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gMhU0663bi7/120x120"
       },
       {
         "name": "LA PAZ",
         "url": "",
         "idVideo": "xa0fwio",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gMftTFtKYZR/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gMhU0663bi7/120x120"
       },
       {
         "name": "SCZ 6",
         "url": "",
         "idVideo": "x9n2qyk",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gMftTFtKYZR/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gMhU0663bi7/120x120"
       }
     ]
   },
@@ -68,13 +68,13 @@
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gMgLm9BTUWU/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gMgLm9BTUWU/120x120"
       },
       {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gMgLm9BTUWU/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gMgLm9BTUWU/120x120"
       }
     ]
   },
@@ -91,7 +91,7 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gMeagSq8kgm/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gMeagSq8kgm/120x120"
       }
     ]
   },
@@ -219,6 +219,12 @@
         "logo": ""
       },
       {
+        "name": "FAP TV (480p)",
+        "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "FTV (720p)",
         "url": "https://master.tucableip.com/ftvhd/index.m3u8",
         "idVideo": "",
@@ -227,6 +233,12 @@
       {
         "name": "Gigavision (720p)",
         "url": "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "GTV (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -245,6 +257,12 @@
       {
         "name": "Interactivo Television (720p)",
         "url": "https://mist01.homestream.fun/hls/interactivotv/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "MegaTV (576p)",
+        "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -357,12 +375,6 @@
         "logo": ""
       },
       {
-        "name": "SCM TV HD 32.1 (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/cinebes/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Sol TV (720p)",
         "url": "http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8",
         "idVideo": "",
@@ -431,12 +443,6 @@
       {
         "name": "TV OFF (1080p)",
         "url": "https://edge.enhdtv.com/tvoff/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV Show Oruro (720p)",
-        "url": "http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
