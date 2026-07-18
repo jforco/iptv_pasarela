@@ -1,12 +1,51 @@
 [
   {
+    "name": "Gigavision",
+    "signals": [
+      {
+        "name": "Señal SCZ",
+        "url": "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Señal LPZ",
+        "url": "https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8",
+        "idVideo": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "name": "Cadena A",
+    "signals": [
+      {
+        "name": "Señal en vivo",
+        "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "name": "RTP",
+    "signals": [
+      {
+        "name": "Señal en vivo",
+        "url": "https://rtp.noxun.net/hls720/stream3.m3u8",
+        "idVideo": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gMiM5ttrflC/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gMiM5ttrflC/120x120"
       },
       {
         "name": "Atb Cochabamba",
@@ -23,13 +62,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gMm3GvHYcac/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gMmmeYytKH8/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gMm3GvHYcac/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gMmmeYytKH8/120x120"
       }
     ]
   },
@@ -81,12 +120,6 @@
       {
         "name": "Bolivision Santa Cruz (720p)",
         "url": "https://d1mws3umreue1g.cloudfront.net/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Cadena A (720p) [Not 24/7]",
-        "url": "https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -169,18 +202,6 @@
         "logo": ""
       },
       {
-        "name": "Gigavision",
-        "url": "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Imagen TV (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/imagentvpotosib/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Interactivo Television (720p)",
         "url": "https://mist01.homestream.fun/hls/interactivotv2/index.m3u8",
         "idVideo": "",
@@ -189,12 +210,6 @@
       {
         "name": "Interactivo Television (720p)",
         "url": "https://mist01.homestream.fun/hls/interactivotv/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "MegaTV (576p)",
-        "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -235,12 +250,6 @@
         "logo": ""
       },
       {
-        "name": "Radio Mega TV Amazonia (720p)",
-        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Radio Universitaria San Andres (720p)",
         "url": "https://edge.enhdtv.com/8054/index.m3u8",
         "idVideo": "",
@@ -273,12 +282,6 @@
       {
         "name": "Red TV Shop (720p)",
         "url": "https://master.tucableip.com/redtvshop/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "RTP (576p)",
-        "url": "https://rtp.noxun.net/hls720/stream3.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -405,12 +408,6 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
