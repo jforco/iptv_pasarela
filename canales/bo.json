@@ -51,7 +51,7 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gMshdkSu90Q/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gMshdkSu90Q/120x120"
       }
     ]
   },
@@ -68,7 +68,7 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gN22YM4bzEr/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gN22YM4bzEr/120x120"
       }
     ]
   },
@@ -162,6 +162,12 @@
       {
         "name": "F10 HD [Geo-blocked]",
         "url": "https://tv2.bitstreaming.net:3235/multi_live/play.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "FAP TV (720p)",
+        "url": "https://edge.enhdtv.com/faptv/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -330,6 +336,12 @@
       {
         "name": "TV Latina (1080p)",
         "url": "https://master.tucableip.com/tvlatina/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TV OFF (1080p)",
+        "url": "https://edge.enhdtv.com/tvoff/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
