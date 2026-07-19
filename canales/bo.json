@@ -202,6 +202,12 @@
         "logo": ""
       },
       {
+        "name": "GTV (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Interactivo Television (720p)",
         "url": "https://mist01.homestream.fun/hls/interactivotv2/index.m3u8",
         "idVideo": "",
@@ -246,6 +252,12 @@
       {
         "name": "Radio Clasica TV (720p)",
         "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Gente (720p)",
+        "url": "https://edge.enhdtv.com/8068/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -414,12 +426,6 @@
       {
         "name": "UMSA TVU LP (720p)",
         "url": "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unica TV (720p)",
-        "url": "https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
