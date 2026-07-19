@@ -51,7 +51,7 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gMshdkSu90Q/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gMshdkSu90Q/120x120"
       }
     ]
   },
@@ -62,13 +62,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gNIxLmcCGZ4/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gNJo4CeuyWd/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gNIxLmcCGZ4/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gNJo4CeuyWd/120x120"
       }
     ]
   },
@@ -132,12 +132,6 @@
       {
         "name": "CEACOM TV (1080p) [Not 24/7]",
         "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Cinerama Television (720p)",
-        "url": "https://live.cineramatvbo.com/hls/stream.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -336,12 +330,6 @@
       {
         "name": "RTP",
         "url": "https://rtp.noxun.net/hls/stream.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "RTV Norte (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/mbocayatyhd/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
