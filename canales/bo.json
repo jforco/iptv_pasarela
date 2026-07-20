@@ -39,19 +39,30 @@
     ]
   },
   {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gNPEbtTt_cW/120x120"
+      }
+    ]
+  },
+  {
     "name": "BoliviaTV",
     "signals": [
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gNQOv5t9buJ/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gNU9Ni6znHJ/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gNQOv5t9buJ/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gNU9Ni6znHJ/120x120"
       }
     ]
   },
@@ -62,7 +73,7 @@
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gMshdkSu90Q/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gMshdkSu90Q/120x120"
       },
       {
         "name": "Atb Cochabamba",
@@ -190,12 +201,6 @@
         "logo": ""
       },
       {
-        "name": "GTV (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Interactivo Television (720p)",
         "url": "https://mist01.homestream.fun/hls/interactivotv2/index.m3u8",
         "idVideo": "",
@@ -216,12 +221,6 @@
       {
         "name": "Poder de Dios TV (720p)",
         "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "PTV (720p)",
-        "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -282,6 +281,12 @@
       {
         "name": "RTP",
         "url": "https://rtp.noxun.net/hls/stream.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "RTV Norte (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/mbocayatyhd/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
