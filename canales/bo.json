@@ -45,13 +45,13 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gNsB_zaBBuz/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gNv2BMoSHiR/120x120"
       },
       {
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gNsB_zaBBuz/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gNv2BMoSHiR/120x120"
       }
     ]
   },
@@ -59,22 +59,10 @@
     "name": "Red Uno",
     "signals": [
       {
-        "name": "Cbba 3",
-        "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gNtEopcRq8v/120x120"
-      },
-      {
         "name": "SCZ 6",
         "url": "",
         "idVideo": "x9n2qyk",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gNtEopcRq8v/120x120"
-      },
-      {
-        "name": "LA PAZ",
-        "url": "",
-        "idVideo": "xa0fwio",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gNtEopcRq8v/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gNuxEmjP-aX/120x120"
       }
     ]
   },
@@ -85,13 +73,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gNsEeV6ebS7/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gNukYuJmwYQ/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gNsEeV6ebS7/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gNukYuJmwYQ/120x120"
       }
     ]
   },
@@ -219,6 +207,12 @@
         "logo": ""
       },
       {
+        "name": "FAP TV (480p)",
+        "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "FTV (720p)",
         "url": "https://master.tucableip.com/ftvhd/index.m3u8",
         "idVideo": "",
@@ -227,6 +221,12 @@
       {
         "name": "Gigavision (720p)",
         "url": "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "GTV (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -261,8 +261,20 @@
         "logo": ""
       },
       {
+        "name": "Poder de Dios TV (720p)",
+        "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "PTV (720p)",
         "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "RA Television (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/ratvbol/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -299,12 +311,6 @@
       {
         "name": "Radio Universitaria San Andres (720p)",
         "url": "https://edge.enhdtv.com/8054/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Radio Uno PST (720p)",
-        "url": "https://master.tucableip.com/pstbolivia/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -471,6 +477,12 @@
         "logo": ""
       },
       {
+        "name": "Unica TV (720p)",
+        "url": "https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Unitel Cochabamba (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8",
         "idVideo": "",
@@ -495,12 +507,6 @@
         "logo": ""
       },
       {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Univalle Televisión (1080p)",
         "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
@@ -509,12 +515,6 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
