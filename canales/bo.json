@@ -45,19 +45,19 @@
         "name": "LA PAZ",
         "url": "",
         "idVideo": "xa0fwio",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gN_rQdteLfH/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gO2MK10bpB-/120x120"
       },
       {
         "name": "Cbba 3",
         "url": "",
         "idVideo": "xa0qka8",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gN_rQdteLfH/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gO2MK10bpB-/120x120"
       },
       {
         "name": "SCZ 6",
         "url": "",
         "idVideo": "x9n2qyk",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gN_rQdteLfH/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gO2MK10bpB-/120x120"
       }
     ]
   },
@@ -68,13 +68,13 @@
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gNvVzZwCLlU/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gO0sxJd9b65/120x120"
       },
       {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gNvVzZwCLlU/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gO0sxJd9b65/120x120"
       }
     ]
   },
@@ -85,13 +85,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gN_RBc-Ij8T/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gO1k_HNNTlI/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gN_RBc-Ij8T/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gO1k_HNNTlI/120x120"
       }
     ]
   },
@@ -237,12 +237,6 @@
         "logo": ""
       },
       {
-        "name": "GTV (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Imagen TV (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/imagentvpotosib/playlist.m3u8",
         "idVideo": "",
@@ -267,6 +261,12 @@
         "logo": ""
       },
       {
+        "name": "La Exitosa TV Riberalta (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/exitosa/exitosa/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "MegaTV (576p)",
         "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8",
         "idVideo": "",
@@ -285,12 +285,6 @@
         "logo": ""
       },
       {
-        "name": "RA Television (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/ratvbol/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Radio Centro (720p)",
         "url": "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8",
         "idVideo": "",
@@ -299,12 +293,6 @@
       {
         "name": "Radio Clasica TV (720p)",
         "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Radio Gente (720p)",
-        "url": "https://edge.enhdtv.com/8068/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -519,12 +507,6 @@
         "logo": ""
       },
       {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Univalle Televisión (1080p)",
         "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
@@ -551,6 +533,18 @@
       {
         "name": "Zuraca TV (720p)",
         "url": "https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Red Uno Santa Cruz (1080p)",
+        "url": "http://190.181.18.82:4111/play/a006/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Red Uno (720p)",
+        "url": "http://190.181.18.82:4111/play/a005/index.m3u8",
         "idVideo": "",
         "logo": ""
       }
