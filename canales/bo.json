@@ -42,15 +42,15 @@
     "name": "ATB Bolivia",
     "signals": [
       {
-        "name": "Atb Cochabamba",
-        "url": "",
-        "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gP03KECzz8N/120x120"
-      },
-      {
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gP03KECzz8N/120x120"
+      },
+      {
+        "name": "Atb Cochabamba",
+        "url": "",
+        "idVideo": "x89sfvo",
         "logo": "https://s2.dmcdn.net/u/1E8-X1gP03KECzz8N/120x120"
       }
     ]
@@ -62,13 +62,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gPWoT-ToybH/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gPXWtNO5QY6/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gPWoT-ToybH/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gPXWtNO5QY6/120x120"
       }
     ]
   },
@@ -246,12 +246,6 @@
       {
         "name": "Poder de Dios TV (720p)",
         "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "PTV (720p)",
-        "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -442,6 +436,12 @@
         "logo": ""
       },
       {
+        "name": "Unica TV (720p)",
+        "url": "https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Unifranz (720p)",
         "url": "https://edge.enhdtv.com/8192/index.m3u8",
         "idVideo": "",
@@ -480,12 +480,6 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
