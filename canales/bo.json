@@ -45,19 +45,7 @@
         "name": "SCZ 7",
         "url": "",
         "idVideo": "xarufnm",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gPp714RH4Fa/120x120"
-      },
-      {
-        "name": "LA PAZ",
-        "url": "",
-        "idVideo": "xa0fwio",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gPp714RH4Fa/120x120"
-      },
-      {
-        "name": "Cbba 3",
-        "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gPp714RH4Fa/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gPrwdsWnJFr/120x120"
       }
     ]
   },
@@ -85,13 +73,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gPp2Z7WP965/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gPp2Z7WP965/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gPp2Z7WP965/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gPp2Z7WP965/120x120"
       }
     ]
   },
@@ -159,6 +147,12 @@
         "logo": ""
       },
       {
+        "name": "CEACOM TV (1080p) [Not 24/7]",
+        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "CN3 Television (720p)",
         "url": "https://edge.enhdtv.com/cn3/index.m3u8",
         "idVideo": "",
@@ -219,8 +213,20 @@
         "logo": ""
       },
       {
+        "name": "FTV (720p)",
+        "url": "https://master.tucableip.com/ftvhd/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Gigavision (720p)",
         "url": "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Imagen TV (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/imagentvpotosib/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -255,12 +261,6 @@
         "logo": ""
       },
       {
-        "name": "Palenque TV",
-        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Poder de Dios TV (720p)",
         "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
         "idVideo": "",
@@ -281,6 +281,12 @@
       {
         "name": "Radio Clasica TV (720p)",
         "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Gente (720p)",
+        "url": "https://edge.enhdtv.com/8068/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -339,6 +345,12 @@
         "logo": ""
       },
       {
+        "name": "Red Uno (720p)",
+        "url": "https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "RTP (480p)",
         "url": "https://rtp.noxun.net/hls480/stream2.m3u8",
         "idVideo": "",
@@ -363,8 +375,20 @@
         "logo": ""
       },
       {
+        "name": "Sucremanta TV (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "TDT Multimedia (720p)",
         "url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TELE 6 (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
