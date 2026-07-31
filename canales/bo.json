@@ -39,30 +39,42 @@
     ]
   },
   {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "SCZ 7",
-        "url": "",
-        "idVideo": "xarufnm",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gRBm7ky-W2C/120x120"
-      }
-    ]
-  },
-  {
     "name": "BoliviaTV",
     "signals": [
-      {
-        "name": "Sigue nuestra programación en 7.1",
-        "url": "",
-        "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gRA2Y7kTbsL/120x120"
-      },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
         "logo": "https://s1.dmcdn.net/u/BVvRY1gRA2Y7kTbsL/120x120"
+      },
+      {
+        "name": "Sigue nuestra programación en 7.1",
+        "url": "",
+        "idVideo": "x9nzqpo",
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gRA2Y7kTbsL/120x120"
+      }
+    ]
+  },
+  {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gRDD6CiKL31/120x120"
+      },
+      {
+        "name": "LA PAZ",
+        "url": "",
+        "idVideo": "xa0fwio",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gRDD6CiKL31/120x120"
+      },
+      {
+        "name": "SCZ 7",
+        "url": "",
+        "idVideo": "xarufnm",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gRDD6CiKL31/120x120"
       }
     ]
   },
@@ -70,16 +82,16 @@
     "name": "ATB Bolivia",
     "signals": [
       {
-        "name": "ATB BOLIVIA",
-        "url": "",
-        "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gR96fMbEu8A/120x120"
-      },
-      {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gR96fMbEu8A/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gRC72kvq96O/120x120"
+      },
+      {
+        "name": "ATB BOLIVIA",
+        "url": "",
+        "idVideo": "x84eirw",
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gRC72kvq96O/120x120"
       }
     ]
   },
@@ -207,12 +219,6 @@
         "logo": ""
       },
       {
-        "name": "FTV (720p)",
-        "url": "https://master.tucableip.com/ftvhd/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Gigavision (720p)",
         "url": "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
         "idVideo": "",
@@ -251,6 +257,12 @@
       {
         "name": "MegaTV (576p)",
         "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Palenque TV",
+        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -477,6 +489,12 @@
         "logo": ""
       },
       {
+        "name": "Unitel Santa Cruz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Univalle Televisión (1080p)",
         "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
@@ -491,12 +509,6 @@
       {
         "name": "UPEA TV (720p)",
         "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Vos TV",
-        "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
