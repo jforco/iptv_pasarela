@@ -45,19 +45,7 @@
         "name": "SCZ 7",
         "url": "",
         "idVideo": "xarufnm",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gR7t5BdCZs3/120x120"
-      },
-      {
-        "name": "LA PAZ",
-        "url": "",
-        "idVideo": "xa0fwio",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gR7t5BdCZs3/120x120"
-      },
-      {
-        "name": "Cbba 3",
-        "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gR7t5BdCZs3/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gRBm7ky-W2C/120x120"
       }
     ]
   },
@@ -68,13 +56,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gR91AtHygPR/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gRA2Y7kTbsL/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gR91AtHygPR/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gRA2Y7kTbsL/120x120"
       }
     ]
   },
@@ -91,7 +79,7 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gR96fMbEu8A/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gR96fMbEu8A/120x120"
       }
     ]
   },
@@ -189,6 +177,12 @@
         "logo": ""
       },
       {
+        "name": "Delta TV",
+        "url": "https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Dmoda Channel (1080p)",
         "url": "https://master.tucableip.com/dmoda/index.m3u8",
         "idVideo": "",
@@ -261,12 +255,6 @@
         "logo": ""
       },
       {
-        "name": "Palenque TV",
-        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Poder de Dios TV (720p)",
         "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
         "idVideo": "",
@@ -315,12 +303,6 @@
         "logo": ""
       },
       {
-        "name": "Radio Uno PST (720p)",
-        "url": "https://master.tucableip.com/pstbolivia/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Red ADvenir TV (360p) [Not 24/7]",
         "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
         "idVideo": "",
@@ -365,6 +347,12 @@
       {
         "name": "Sucremanta TV (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TDT Multimedia (720p)",
+        "url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -447,6 +435,12 @@
         "logo": ""
       },
       {
+        "name": "Unica TV (720p)",
+        "url": "https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Unifranz (720p)",
         "url": "https://edge.enhdtv.com/8192/index.m3u8",
         "idVideo": "",
@@ -483,12 +477,6 @@
         "logo": ""
       },
       {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Univalle Televisión (1080p)",
         "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
@@ -497,6 +485,12 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UPEA TV (720p)",
+        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
