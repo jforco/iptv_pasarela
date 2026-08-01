@@ -39,24 +39,13 @@
     ]
   },
   {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "SCZ 7",
-        "url": "",
-        "idVideo": "xarufnm",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gRZOYZSO6i0/120x120"
-      }
-    ]
-  },
-  {
     "name": "ATB Bolivia",
     "signals": [
       {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gRVwr-fKFBz/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gRVwr-fKFBz/120x120"
       },
       {
         "name": "ATB BOLIVIA",
@@ -67,19 +56,13 @@
     ]
   },
   {
-    "name": "BoliviaTV",
+    "name": "Red Uno",
     "signals": [
       {
-        "name": "Sigue nuestra programación en 7.2",
+        "name": "SCZ 7",
         "url": "",
-        "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gRa3EAiL2Ma/120x120"
-      },
-      {
-        "name": "Sigue nuestra programación en 7.1",
-        "url": "",
-        "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gRa3EAiL2Ma/120x120"
+        "idVideo": "xarufnm",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gRZOYZSO6i0/120x120"
       }
     ]
   },
@@ -411,12 +394,6 @@
         "logo": ""
       },
       {
-        "name": "TV Show Oruro (720p)",
-        "url": "http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "TVU Sucre (720p)",
         "url": "https://edge.enhdtv.com/8214/index.m3u8",
         "idVideo": "",
@@ -467,12 +444,6 @@
       {
         "name": "Unitel La Paz (576p)",
         "url": "http://190.60.39.195:8000/play/a01r/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Univalle Televisión (1080p)",
-        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
