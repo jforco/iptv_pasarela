@@ -45,13 +45,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gRcAuI8bWZn/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gRcAuI8bWZn/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gRcAuI8bWZn/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gRcAuI8bWZn/120x120"
       }
     ]
   },
@@ -68,7 +68,7 @@
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gRVwr-fKFBz/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gRVwr-fKFBz/120x120"
       }
     ]
   },
@@ -79,7 +79,7 @@
         "name": "SCZ 7",
         "url": "",
         "idVideo": "xarufnm",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gRcVK-1lFG6/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gRcVK-1lFG6/120x120"
       }
     ]
   },
@@ -101,12 +101,6 @@
       {
         "name": "ATB La Paz (614p) [Not 24/7]",
         "url": "http://186.121.206.197/live/daniel/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "ATB La Paz",
-        "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -203,12 +197,6 @@
       {
         "name": "FAP TV (720p)",
         "url": "https://edge.enhdtv.com/faptv/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "FAP TV (480p)",
-        "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -461,6 +449,12 @@
       {
         "name": "Unitel La Paz (576p)",
         "url": "http://190.60.39.195:8000/play/a01r/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel Santa Cruz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
