@@ -17,17 +17,6 @@
     ]
   },
   {
-    "name": "Cadena A",
-    "signals": [
-      {
-        "name": "Señal en vivo",
-        "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "name": "RTP",
     "signals": [
       {
@@ -45,13 +34,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gRcAuI8bWZn/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gRgLEUtsdw-/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gRcAuI8bWZn/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gRgLEUtsdw-/120x120"
       }
     ]
   },
@@ -62,13 +51,13 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gRVwr-fKFBz/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gRgO9wCasJH/120x120"
       },
       {
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gRVwr-fKFBz/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gRgO9wCasJH/120x120"
       }
     ]
   },
@@ -79,7 +68,7 @@
         "name": "SCZ 7",
         "url": "",
         "idVideo": "xarufnm",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gRcVK-1lFG6/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gRgAB5AIb8K/120x120"
       }
     ]
   },
@@ -119,12 +108,6 @@
       {
         "name": "AYNI TV",
         "url": "https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Bolivia Punto TV",
-        "url": "https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -267,12 +250,6 @@
         "logo": ""
       },
       {
-        "name": "PTV (720p)",
-        "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Radio Centro (720p)",
         "url": "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8",
         "idVideo": "",
@@ -299,12 +276,6 @@
       {
         "name": "Red ADvenir TV (360p) [Not 24/7]",
         "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Red CCTV",
-        "url": "https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -339,12 +310,6 @@
         "logo": ""
       },
       {
-        "name": "SPC Canal 15 (720p)",
-        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Sucremanta TV (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8",
         "idVideo": "",
@@ -353,12 +318,6 @@
       {
         "name": "TDT Multimedia (720p)",
         "url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TELE 6 (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -467,12 +426,6 @@
       {
         "name": "Unitel La Paz (576p)",
         "url": "http://190.60.39.195:8000/play/a01r/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
