@@ -28,36 +28,36 @@
     ]
   },
   {
+    "name": "ATB Bolivia",
+    "signals": [
+      {
+        "name": "ATB BOLIVIA",
+        "url": "",
+        "idVideo": "x84eirw",
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gRhxiSPlA54/120x120"
+      },
+      {
+        "name": "Atb Cochabamba",
+        "url": "",
+        "idVideo": "x89sfvo",
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gRhxiSPlA54/120x120"
+      }
+    ]
+  },
+  {
     "name": "BoliviaTV",
     "signals": [
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gRgLEUtsdw-/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gRlkQha_5fR/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gRgLEUtsdw-/120x120"
-      }
-    ]
-  },
-  {
-    "name": "ATB Bolivia",
-    "signals": [
-      {
-        "name": "Atb Cochabamba",
-        "url": "",
-        "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gRhxiSPlA54/120x120"
-      },
-      {
-        "name": "ATB BOLIVIA",
-        "url": "",
-        "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gRhxiSPlA54/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gRlkQha_5fR/120x120"
       }
     ]
   },
@@ -68,7 +68,7 @@
         "name": "SCZ 7",
         "url": "",
         "idVideo": "xarufnm",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gRgAB5AIb8K/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gRgAB5AIb8K/120x120"
       }
     ]
   },
@@ -102,12 +102,6 @@
       {
         "name": "Audiokiss (1080p)",
         "url": "https://master.tucableip.com/audiokisstv/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "AYNI TV",
-        "url": "https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -274,12 +268,6 @@
         "logo": ""
       },
       {
-        "name": "Red Rubi (720p)",
-        "url": "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "RTP (480p)",
         "url": "https://rtp.noxun.net/hls480/stream2.m3u8",
         "idVideo": "",
@@ -310,20 +298,8 @@
         "logo": ""
       },
       {
-        "name": "Tele Fe Bolivia (720p)",
-        "url": "https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Tigo Sports (720p) [Geo-blocked]",
         "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TL Estrella (720p)",
-        "url": "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -384,12 +360,6 @@
       {
         "name": "UMSA TVU LP (720p)",
         "url": "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unica TV (720p)",
-        "url": "https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
