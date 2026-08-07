@@ -39,46 +39,6 @@
     ]
   },
   {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "Cbba 3",
-        "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gTZ7TJwp6q_/120x120"
-      },
-      {
-        "name": "LA PAZ",
-        "url": "",
-        "idVideo": "xa0fwio",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gTZ7TJwp6q_/120x120"
-      },
-      {
-        "name": "SCZ",
-        "url": "",
-        "idVideo": "xarufnm",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gTZ7TJwp6q_/120x120"
-      }
-    ]
-  },
-  {
-    "name": "BoliviaTV",
-    "signals": [
-      {
-        "name": "Sigue nuestra programación en 7.2",
-        "url": "",
-        "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gTZL_pl4M9Z/120x120"
-      },
-      {
-        "name": "Sigue nuestra programación en 7.1",
-        "url": "",
-        "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gTZL_pl4M9Z/120x120"
-      }
-    ]
-  },
-  {
     "name": "ATB Bolivia",
     "signals": [
       {
@@ -91,7 +51,47 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gTO4s6tj3AL/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gTO4s6tj3AL/120x120"
+      }
+    ]
+  },
+  {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gTa3CX-ObUk/120x120"
+      },
+      {
+        "name": "LA PAZ",
+        "url": "",
+        "idVideo": "xa0fwio",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gTa3CX-ObUk/120x120"
+      },
+      {
+        "name": "SCZ",
+        "url": "",
+        "idVideo": "xarufnm",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gTa3CX-ObUk/120x120"
+      }
+    ]
+  },
+  {
+    "name": "BoliviaTV",
+    "signals": [
+      {
+        "name": "Sigue nuestra programación en 7.2",
+        "url": "",
+        "idVideo": "x9ny70y",
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gTZZP-QQddT/120x120"
+      },
+      {
+        "name": "Sigue nuestra programación en 7.1",
+        "url": "",
+        "idVideo": "x9nzqpo",
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gTZZP-QQddT/120x120"
       }
     ]
   },
@@ -207,12 +207,6 @@
         "logo": ""
       },
       {
-        "name": "FAP TV (480p)",
-        "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "FTV (720p)",
         "url": "https://master.tucableip.com/ftvhd/index.m3u8",
         "idVideo": "",
@@ -287,6 +281,12 @@
       {
         "name": "Radio Clasica TV (720p)",
         "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Gente (720p)",
+        "url": "https://edge.enhdtv.com/8068/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
