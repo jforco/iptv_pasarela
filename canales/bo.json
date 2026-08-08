@@ -51,13 +51,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gTjHHonFoqu/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gTkbDhYm5Vj/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gTjHHonFoqu/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gTkbDhYm5Vj/120x120"
       }
     ]
   },
@@ -85,12 +85,6 @@
       {
         "name": "ATB La Paz (614p) [Not 24/7]",
         "url": "http://186.121.206.197/live/daniel/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "ATB La Paz",
-        "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
