@@ -45,7 +45,7 @@
         "name": "SCZ",
         "url": "",
         "idVideo": "xarufnm",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gTqyPu0ch3Z/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gTsMFB8mtPM/120x120"
       }
     ]
   },
@@ -56,13 +56,13 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gTe7dSVvZuW/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gTe7dSVvZuW/120x120"
       },
       {
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gTe7dSVvZuW/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gTe7dSVvZuW/120x120"
       }
     ]
   },
@@ -73,13 +73,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gTrWfSW4-gH/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gTs0AtNjaQc/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gTrWfSW4-gH/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gTs0AtNjaQc/120x120"
       }
     ]
   },
@@ -473,6 +473,12 @@
       {
         "name": "Unitel Cochabamba (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel Cochabamba (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
         "idVideo": "",
         "logo": ""
       },
