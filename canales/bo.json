@@ -51,7 +51,7 @@
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gTe7dSVvZuW/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gTe7dSVvZuW/120x120"
       }
     ]
   },
@@ -62,7 +62,7 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gU7IvqMFSVA/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gU7OurSQOSU/120x120"
       }
     ]
   },
@@ -244,6 +244,12 @@
         "logo": ""
       },
       {
+        "name": "Radio Gente (720p)",
+        "url": "https://edge.enhdtv.com/8068/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Radio Kollasuyo (720p)",
         "url": "https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8",
         "idVideo": "",
@@ -318,6 +324,12 @@
       {
         "name": "Sol TV (720p)",
         "url": "http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "SPC Canal 15 (720p)",
+        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -450,12 +462,6 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
