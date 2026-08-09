@@ -17,6 +17,17 @@
     ]
   },
   {
+    "name": "Cadena A",
+    "signals": [
+      {
+        "name": "Señal en vivo",
+        "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "name": "RTP",
     "signals": [
       {
@@ -179,6 +190,12 @@
         "logo": ""
       },
       {
+        "name": "Imperial TV (720p)",
+        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Interactivo Television (720p)",
         "url": "https://mist01.homestream.fun/hls/interactivotv2/index.m3u8",
         "idVideo": "",
@@ -187,6 +204,12 @@
       {
         "name": "Interactivo Television (720p)",
         "url": "https://mist01.homestream.fun/hls/interactivotv/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "MegaTV (576p)",
+        "url": "http://tv.istbolivia.com:1935/megatv/megatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -217,6 +240,12 @@
       {
         "name": "Radio Kollasuyo (720p)",
         "url": "https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Mega TV Amazonia (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
