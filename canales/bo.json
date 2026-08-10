@@ -39,19 +39,19 @@
     ]
   },
   {
-    "name": "Red Uno",
+    "name": "ATB Bolivia",
     "signals": [
       {
-        "name": "LA PAZ",
+        "name": "ATB BOLIVIA",
         "url": "",
-        "idVideo": "xa0fwio",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gUYCwOf2b1O/120x120"
+        "idVideo": "x84eirw",
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gUW9XsRRcyz/120x120"
       },
       {
-        "name": "SCZ",
+        "name": "Atb Cochabamba",
         "url": "",
-        "idVideo": "xarufnm",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gUYCwOf2b1O/120x120"
+        "idVideo": "x89sfvo",
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gUW9XsRRcyz/120x120"
       }
     ]
   },
@@ -68,18 +68,18 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gUX-OyFxh6K/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gUX-OyFxh6K/120x120"
       }
     ]
   },
   {
-    "name": "ATB Bolivia",
+    "name": "Red Uno",
     "signals": [
       {
-        "name": "Atb Cochabamba",
+        "name": "SCZ",
         "url": "",
-        "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gUW9XsRRcyz/120x120"
+        "idVideo": "xarufnm",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gUZMJipUiq0/120x120"
       }
     ]
   },
@@ -203,6 +203,12 @@
       {
         "name": "Gigavision (720p)",
         "url": "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "GTV (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -497,12 +503,6 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
