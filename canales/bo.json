@@ -7,12 +7,6 @@
         "url": "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8",
         "idVideo": "",
         "logo": ""
-      },
-      {
-        "name": "Señal LPZ",
-        "url": "https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8",
-        "idVideo": "",
-        "logo": ""
       }
     ]
   },
@@ -39,30 +33,30 @@
     ]
   },
   {
+    "name": "ATB Bolivia",
+    "signals": [
+      {
+        "name": "ATB BOLIVIA",
+        "url": "",
+        "idVideo": "x84eirw",
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gUHffF2lq8w/120x120"
+      },
+      {
+        "name": "Atb Cochabamba",
+        "url": "",
+        "idVideo": "x89sfvo",
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gUHffF2lq8w/120x120"
+      }
+    ]
+  },
+  {
     "name": "Red Uno",
     "signals": [
       {
         "name": "SCZ",
         "url": "",
         "idVideo": "xarufnm",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gUGVF2s4m2Z/120x120"
-      }
-    ]
-  },
-  {
-    "name": "ATB Bolivia",
-    "signals": [
-      {
-        "name": "Atb Cochabamba",
-        "url": "",
-        "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gTe7dSVvZuW/120x120"
-      },
-      {
-        "name": "ATB BOLIVIA",
-        "url": "",
-        "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gTe7dSVvZuW/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gUIKeLxVjsC/120x120"
       }
     ]
   },
@@ -73,7 +67,7 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gUG9haOS3qY/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gUHsYqvBagc/120x120"
       }
     ]
   },
@@ -119,12 +113,6 @@
       {
         "name": "AYNI TV",
         "url": "https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Bolivia Punto TV",
-        "url": "https://streaming.hostpannel.lat/hls/fc517baca1d452f22f56a2563f93f500/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -203,12 +191,6 @@
       {
         "name": "FTV (720p)",
         "url": "https://master.tucableip.com/ftvhd/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Gigavision (720p)",
-        "url": "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -321,12 +303,6 @@
         "logo": ""
       },
       {
-        "name": "RTV Norte (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/mbocayatyhd/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Sol TV (720p)",
         "url": "http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8",
         "idVideo": "",
@@ -347,12 +323,6 @@
       {
         "name": "TDT Multimedia (720p)",
         "url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TELE 6 (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -395,12 +365,6 @@
       {
         "name": "TV OFF (1080p)",
         "url": "https://edge.enhdtv.com/tvoff/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV Show Oruro (720p)",
-        "url": "http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -459,14 +423,14 @@
         "logo": ""
       },
       {
-        "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
-        "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "name": "Univalle Televisión (1080p)",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
+        "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
+        "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
