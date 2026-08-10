@@ -39,13 +39,36 @@
     ]
   },
   {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gUblB72K65d/120x120"
+      },
+      {
+        "name": "LA PAZ",
+        "url": "",
+        "idVideo": "xa0fwio",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gUblB72K65d/120x120"
+      },
+      {
+        "name": "SCZ",
+        "url": "",
+        "idVideo": "xarufnm",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gUblB72K65d/120x120"
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gUW9XsRRcyz/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gUW9XsRRcyz/120x120"
       },
       {
         "name": "Atb Cochabamba",
@@ -68,18 +91,7 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gUX-OyFxh6K/120x120"
-      }
-    ]
-  },
-  {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "SCZ",
-        "url": "",
-        "idVideo": "xarufnm",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gUauSVU3RJ-/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gUX-OyFxh6K/120x120"
       }
     ]
   },
@@ -219,6 +231,12 @@
         "logo": ""
       },
       {
+        "name": "GTV (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/guadalupetv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Imagen TV (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/imagentvpotosib/playlist.m3u8",
         "idVideo": "",
@@ -299,6 +317,12 @@
       {
         "name": "Radio Mega TV Amazonia (720p)",
         "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Universitaria San Andres (720p)",
+        "url": "https://edge.enhdtv.com/8054/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -467,18 +491,6 @@
       {
         "name": "Unica TV (720p)",
         "url": "https://59d39900ebfb8.streamlock.net/unicatv/unicatv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unifranz (720p)",
-        "url": "https://edge.enhdtv.com/8192/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unifranz (720p)",
-        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
