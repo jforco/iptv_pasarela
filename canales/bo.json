@@ -11,6 +11,17 @@
     ]
   },
   {
+    "name": "Cadena A",
+    "signals": [
+      {
+        "name": "Señal en vivo",
+        "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "name": "RTP",
     "signals": [
       {
@@ -45,7 +56,7 @@
         "name": "SCZ",
         "url": "",
         "idVideo": "xarufnm",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gUNUPr_ZOIz/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gUPI9h-vAOf/120x120"
       }
     ]
   },
@@ -56,7 +67,7 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gUNSzwGjTNq/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gUP6R8d5kzm/120x120"
       }
     ]
   },
@@ -204,12 +215,6 @@
       {
         "name": "Radio Clasica TV (720p)",
         "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Radio Kollasuyo (720p)",
-        "url": "https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -396,12 +401,6 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
