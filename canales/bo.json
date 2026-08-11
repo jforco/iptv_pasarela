@@ -1,5 +1,22 @@
 [
   {
+    "name": "PAT",
+    "signals": [
+      {
+        "name": "Señal SCZ",
+        "url": "https://www.redpat.tv:8000/play/110/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Señal LPZ",
+        "url": "https://www.redpat.tv:8000/play/12/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "name": "Gigavision",
     "signals": [
       {
@@ -45,7 +62,7 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gUrz-tvWFvz/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gUrz-tvWFvz/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
@@ -62,7 +79,7 @@
         "name": "SCZ",
         "url": "",
         "idVideo": "xarufnm",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gUsiYsMcAjd/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gUtmQCOmh01/120x120"
       }
     ]
   },
@@ -73,7 +90,7 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gUs206_51As/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gUs206_51As/120x120"
       }
     ]
   },
