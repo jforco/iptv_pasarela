@@ -1,5 +1,22 @@
 [
   {
+    "name": "PAT",
+    "signals": [
+      {
+        "name": "Señal SCZ",
+        "url": "https://www.redpat.tv:8000/play/110/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Señal LPZ",
+        "url": "https://www.redpat.tv:8000/play/12/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "name": "Gigavision",
     "signals": [
       {
@@ -7,15 +24,10 @@
         "url": "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8",
         "idVideo": "",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "name": "Cadena A",
-    "signals": [
+      },
       {
-        "name": "Señal en vivo",
-        "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
+        "name": "Señal LPZ",
+        "url": "https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8",
         "idVideo": "",
         "logo": ""
       }
@@ -45,7 +57,7 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gUy7dAN0R8C/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gUy7dAN0R8C/120x120"
       }
     ]
   },
@@ -56,13 +68,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gU-EnQaiP6E/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gV0hV-_VD42/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gU-EnQaiP6E/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gV0hV-_VD42/120x120"
       }
     ]
   },
@@ -144,12 +156,6 @@
       {
         "name": "Cadena A (576p)",
         "url": "http://15.204.246.24:8080/CadenaAHD/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Canal 15 Teleor (720p)",
-        "url": "https://ares.disfrutaenlared.com:1936/activatv/activatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -238,6 +244,12 @@
         "logo": ""
       },
       {
+        "name": "Gigavision (720p)",
+        "url": "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Interactivo Television (720p)",
         "url": "https://mist01.homestream.fun/hls/interactivotv2/index.m3u8",
         "idVideo": "",
@@ -310,12 +322,6 @@
         "logo": ""
       },
       {
-        "name": "Radio Mega TV Amazonia (720p)",
-        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Radio Universitaria San Andres (720p)",
         "url": "https://edge.enhdtv.com/8054/index.m3u8",
         "idVideo": "",
@@ -376,6 +382,12 @@
         "logo": ""
       },
       {
+        "name": "RTP (480p)",
+        "url": "https://rtp.noxun.net/hls480/stream2.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "RTP",
         "url": "https://rtp.noxun.net/hls/stream.m3u8",
         "idVideo": "",
@@ -420,12 +432,6 @@
       {
         "name": "TL Estrella (720p)",
         "url": "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TransMedia (720p)",
-        "url": "https://edge.enhdtv.com/8064/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -504,12 +510,6 @@
       {
         "name": "Unitel La Paz (576p)",
         "url": "http://190.60.39.195:8000/play/a01r/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
