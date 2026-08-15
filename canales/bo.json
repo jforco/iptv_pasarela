@@ -51,13 +51,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gV-sM8tDDl1/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gW0PsYdZUrF/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gV-sM8tDDl1/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gW0PsYdZUrF/120x120"
       }
     ]
   },
@@ -97,6 +97,12 @@
       {
         "name": "ATB La Paz",
         "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Audiokiss (1080p)",
+        "url": "https://master.tucableip.com/audiokisstv/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -157,12 +163,6 @@
       {
         "name": "CVC (1080p)",
         "url": "http://15.204.246.24:8080/CVCHD/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Delta TV",
-        "url": "https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -277,12 +277,6 @@
       {
         "name": "Radio Kollasuyo (720p)",
         "url": "https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Radio Mega TV Amazonia (720p)",
-        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
