@@ -62,7 +62,7 @@
         "name": "SCZ",
         "url": "",
         "idVideo": "xarufnm",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gW9EZ4hx2x9/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gW9EZ4hx2x9/120x120"
       }
     ]
   },
@@ -79,7 +79,7 @@
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gV-TRsGYOJ3/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gV-TRsGYOJ3/120x120"
       }
     ]
   },
@@ -90,7 +90,7 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gWAFeB3M0bD/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gWAFeB3M0bD/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
@@ -130,6 +130,12 @@
       {
         "name": "ATB La Paz (614p) [Not 24/7]",
         "url": "http://186.121.206.197/live/daniel/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "ATB La Paz",
+        "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -232,12 +238,6 @@
       {
         "name": "F10 HD [Geo-blocked]",
         "url": "https://tv2.bitstreaming.net:3235/multi_live/play.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "FAP TV (720p)",
-        "url": "https://edge.enhdtv.com/faptv/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -374,12 +374,6 @@
         "logo": ""
       },
       {
-        "name": "Red TV Shop (720p)",
-        "url": "https://master.tucableip.com/redtvshop/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Red Uno (720p)",
         "url": "http://190.181.18.82:4111/play/a005/index.m3u8",
         "idVideo": "",
@@ -472,12 +466,6 @@
       {
         "name": "TV Latina (1080p)",
         "url": "https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV Latina (1080p)",
-        "url": "https://master.tucableip.com/tvlatina/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
