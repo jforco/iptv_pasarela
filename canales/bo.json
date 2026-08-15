@@ -39,13 +39,24 @@
     ]
   },
   {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "SCZ",
+        "url": "",
+        "idVideo": "xarufnm",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gV-c4bVUJ92/120x120"
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gV-TRsGYOJ3/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gV-TRsGYOJ3/120x120"
       },
       {
         "name": "ATB BOLIVIA",
@@ -62,13 +73,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gW7z0_3v1Sw/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gW7z0_3v1Sw/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gW7z0_3v1Sw/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gW7z0_3v1Sw/120x120"
       }
     ]
   },
@@ -258,12 +269,6 @@
       {
         "name": "Palenque TV (576p)",
         "url": "http://15.204.246.24:8080/PalenqueTVSD/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Palenque TV",
-        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -534,12 +539,6 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
