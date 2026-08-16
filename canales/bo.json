@@ -45,13 +45,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gWH00ftfC_O/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gWIjqBcInIh/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gWH00ftfC_O/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gWIjqBcInIh/120x120"
       }
     ]
   },
@@ -68,7 +68,7 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gV-TRsGYOJ3/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gV-TRsGYOJ3/120x120"
       }
     ]
   },
@@ -79,13 +79,19 @@
         "name": "SCZ",
         "url": "",
         "idVideo": "xarufnm",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gWGvpveoRKc/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gWGvpveoRKc/120x120"
       }
     ]
   },
   {
     "name": "Otros Canales",
     "signals": [
+      {
+        "name": "Abya Yala TV (720p)",
+        "url": "http://15.204.246.24:8080/AbyaYalaTvHD/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
       {
         "name": "Alegria TV (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8",
@@ -123,8 +129,26 @@
         "logo": ""
       },
       {
+        "name": "AYNI TV (1080p)",
+        "url": "http://15.204.246.24:8080/AyniTVHD/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "AYNI TV",
         "url": "https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Bolivia TV (1080p)",
+        "url": "http://15.204.246.24:8080/BoliviaTvHD/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Cadena A (576p)",
+        "url": "http://15.204.246.24:8080/CadenaAHD/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -153,6 +177,12 @@
         "logo": ""
       },
       {
+        "name": "CTV (1080p)",
+        "url": "http://15.204.246.24:8080/CTVHD/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "CTV (720p)",
         "url": "https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8",
         "idVideo": "",
@@ -165,6 +195,12 @@
         "logo": ""
       },
       {
+        "name": "CVC (1080p)",
+        "url": "http://15.204.246.24:8080/CVCHD/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Delta TV",
         "url": "https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8",
         "idVideo": "",
@@ -173,6 +209,12 @@
       {
         "name": "EL DEBER (1080p)",
         "url": "https://master.tucableip.com/eldebertv/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "F10 HD (720p)",
+        "url": "http://15.204.246.24:8080/F10HD/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -207,12 +249,6 @@
         "logo": ""
       },
       {
-        "name": "Imperial TV (720p)",
-        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Interactivo Television (720p)",
         "url": "https://mist01.homestream.fun/hls/interactivotv2/index.m3u8",
         "idVideo": "",
@@ -225,8 +261,32 @@
         "logo": ""
       },
       {
+        "name": "Palenque TV (576p)",
+        "url": "http://15.204.246.24:8080/PalenqueTVSD/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Palenque TV",
         "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "PAT La Paz (576p)",
+        "url": "http://15.204.246.24:8080/PATSD/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Plus TLT (720p)",
+        "url": "http://15.204.246.24:8080/PlusTLTHD/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Poder de Dios TV (1080p)",
+        "url": "http://15.204.246.24:8080/PoderdeDiosHD/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -291,6 +351,12 @@
         "logo": ""
       },
       {
+        "name": "Red DTV (1080p)",
+        "url": "http://15.204.246.24:8080/DTVHD/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Red TV Shop (720p)",
         "url": "https://master.tucableip.com/redtvshop/index.m3u8",
         "idVideo": "",
@@ -333,12 +399,6 @@
         "logo": ""
       },
       {
-        "name": "Sucremanta TV (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "TDT Multimedia (720p)",
         "url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
         "idVideo": "",
@@ -371,6 +431,12 @@
       {
         "name": "TransMedia (720p)",
         "url": "https://edge.enhdtv.com/8064/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TV Culturas (576p)",
+        "url": "http://15.204.246.24:8080/TVCulturasSD/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -461,6 +527,12 @@
       {
         "name": "UPEA TV (720p)",
         "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Vos TV (720p)",
+        "url": "http://15.204.246.24:8080/VOSTVHD/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
