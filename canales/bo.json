@@ -39,6 +39,29 @@
     ]
   },
   {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "LA PAZ",
+        "url": "",
+        "idVideo": "xa0fwio",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gWvPs1PiFBp/120x120"
+      },
+      {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gWvPs1PiFBp/120x120"
+      },
+      {
+        "name": "SCZ",
+        "url": "",
+        "idVideo": "xarufnm",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gWvPs1PiFBp/120x120"
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
@@ -56,30 +79,13 @@
     ]
   },
   {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "SCZ",
-        "url": "",
-        "idVideo": "xarufnm",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gWuJcS08hOw/120x120"
-      }
-    ]
-  },
-  {
     "name": "BoliviaTV",
     "signals": [
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gWuITGnbH9F/120x120"
-      },
-      {
-        "name": "Sigue nuestra programación en 7.2",
-        "url": "",
-        "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gWuITGnbH9F/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gWvFS1q-_Vn/120x120"
       }
     ]
   },
@@ -237,6 +243,12 @@
         "logo": ""
       },
       {
+        "name": "FAP TV (480p)",
+        "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "FTV (720p)",
         "url": "https://master.tucableip.com/ftvhd/index.m3u8",
         "idVideo": "",
@@ -311,6 +323,12 @@
       {
         "name": "Radio Centro (720p)",
         "url": "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Clasica TV (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -551,6 +569,12 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UPEA TV (720p)",
+        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
