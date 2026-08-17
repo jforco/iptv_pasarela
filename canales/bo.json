@@ -45,7 +45,7 @@
         "name": "SCZ",
         "url": "",
         "idVideo": "xarufnm",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gWnSjyc3x3l/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gWoLwTanLDz/120x120"
       }
     ]
   },
@@ -62,7 +62,7 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gWku3XvKvgs/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gWku3XvKvgs/120x120"
       }
     ]
   },
@@ -73,13 +73,13 @@
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gWla3Gw1ojP/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gWoPJxchAza/120x120"
       },
       {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gWla3Gw1ojP/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gWoPJxchAza/120x120"
       }
     ]
   },
@@ -299,12 +299,6 @@
       {
         "name": "Poder de Dios TV (720p)",
         "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "PTV (720p)",
-        "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -539,12 +533,6 @@
       {
         "name": "Unitel La Paz (576p)",
         "url": "http://190.60.39.195:8000/play/a01r/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
