@@ -7,6 +7,12 @@
         "url": "https://www.redpat.tv:8000/play/110/index.m3u8",
         "idVideo": "",
         "logo": ""
+      },
+      {
+        "name": "Señal LPZ",
+        "url": "https://www.redpat.tv:8000/play/12/index.m3u8",
+        "idVideo": "",
+        "logo": ""
       }
     ]
   },
@@ -39,13 +45,36 @@
     ]
   },
   {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "SCZ",
+        "url": "",
+        "idVideo": "xarufnm",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gXO0IVGFV64/120x120"
+      },
+      {
+        "name": "LA PAZ",
+        "url": "",
+        "idVideo": "xa0fwio",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gXO0IVGFV64/120x120"
+      },
+      {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gXO0IVGFV64/120x120"
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gXDXxYYMXGH/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gXDXxYYMXGH/120x120"
       },
       {
         "name": "ATB BOLIVIA",
@@ -62,7 +91,7 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gXLeu3jBTg1/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gXLeu3jBTg1/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
@@ -124,14 +153,38 @@
         "logo": ""
       },
       {
+        "name": "Coral TV (720p)",
+        "url": "https://tv.mediacp.eu:8081/coraltv/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "CTV (1080p)",
         "url": "http://15.204.246.24:8080/CTVHD/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
+        "name": "CTV (720p)",
+        "url": "https://streaming.ctvbolivia.com/hlsweb/ctv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "CTV",
+        "url": "https://live.ctvbolivia.com/hls/ctv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "CVC (1080p)",
         "url": "http://15.204.246.24:8080/CVCHD/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Delta TV",
+        "url": "https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -232,6 +285,12 @@
         "logo": ""
       },
       {
+        "name": "Red TV Shop (720p)",
+        "url": "https://master.tucableip.com/redtvshop/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Red Uno (720p)",
         "url": "http://190.181.18.82:4111/play/a005/index.m3u8",
         "idVideo": "",
@@ -250,8 +309,32 @@
         "logo": ""
       },
       {
+        "name": "Sucremanta TV (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TDT Multimedia (720p)",
+        "url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TELE 6 (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Tele Fe Bolivia (720p)",
         "url": "https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Tigo Sports (720p) [Geo-blocked]",
+        "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -280,8 +363,56 @@
         "logo": ""
       },
       {
+        "name": "TV Latina (1080p)",
+        "url": "https://master.tucableip.com/tvlatina/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "TV OFF (1080p)",
         "url": "https://edge.enhdtv.com/tvoff/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TVU Sucre (720p)",
+        "url": "https://edge.enhdtv.com/8214/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UMSA TVU Internacional (720p)",
+        "url": "https://edge.enhdtv.com/8026/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UMSA TVU Internacional (720p)",
+        "url": "https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UMSA TVU LP (720p)",
+        "url": "https://edge.enhdtv.com/8190/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UMSA TVU LP (720p)",
+        "url": "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unifranz (720p)",
+        "url": "https://edge.enhdtv.com/8192/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unifranz (720p)",
+        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -292,8 +423,26 @@
         "logo": ""
       },
       {
+        "name": "Unitel Cochabamba (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel La Paz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Unitel La Paz (576p)",
         "url": "http://190.60.39.195:8000/play/a01r/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel Santa Cruz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -306,6 +455,12 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UPEA TV (720p)",
+        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
