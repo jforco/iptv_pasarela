@@ -28,24 +28,13 @@
     ]
   },
   {
-    "name": "RTP",
-    "signals": [
-      {
-        "name": "Señal en vivo",
-        "url": "https://rtp.noxun.net/hls720/stream3.m3u8",
-        "idVideo": "",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "name": "ATB Bolivia",
     "signals": [
       {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gXDXxYYMXGH/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gXDXxYYMXGH/120x120"
       },
       {
         "name": "ATB BOLIVIA",
@@ -62,19 +51,19 @@
         "name": "Cbba 3",
         "url": "",
         "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gXG_iXPwbaV/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gXHCPVxt7fe/120x120"
       },
       {
         "name": "LA PAZ",
         "url": "",
         "idVideo": "xa0fwio",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gXG_iXPwbaV/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gXHCPVxt7fe/120x120"
       },
       {
         "name": "SCZ",
         "url": "",
         "idVideo": "xarufnm",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gXG_iXPwbaV/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gXHCPVxt7fe/120x120"
       }
     ]
   },
@@ -85,13 +74,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gXDsbocKgRl/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gXIKfDLQZqk/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gXDsbocKgRl/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gXIKfDLQZqk/120x120"
       }
     ]
   },
@@ -261,12 +250,6 @@
         "logo": ""
       },
       {
-        "name": "Imperial TV (720p)",
-        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Interactivo Television (720p)",
         "url": "https://mist01.homestream.fun/hls/interactivotv2/index.m3u8",
         "idVideo": "",
@@ -405,6 +388,12 @@
         "logo": ""
       },
       {
+        "name": "RTP (576p)",
+        "url": "https://rtp.noxun.net/hls720/stream3.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "RTP (480p)",
         "url": "https://rtp.noxun.net/hls480/stream2.m3u8",
         "idVideo": "",
@@ -537,18 +526,6 @@
         "logo": ""
       },
       {
-        "name": "Unitel Cochabamba (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel La Paz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Unitel La Paz (576p)",
         "url": "http://190.60.39.195:8000/play/a01r/index.m3u8",
         "idVideo": "",
@@ -569,6 +546,12 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UPEA TV (720p)",
+        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
