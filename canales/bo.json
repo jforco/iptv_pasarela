@@ -45,7 +45,7 @@
         "name": "LA PAZ",
         "url": "",
         "idVideo": "xa0fwio",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gXjDbhTQzzO/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gXjDbhTQzzO/120x120"
       },
       {
         "name": "Cbba 3",
@@ -68,13 +68,13 @@
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gXT4Yf03tvC/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gXkye6b1PTt/120x120"
       },
       {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gXT4Yf03tvC/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gXkye6b1PTt/120x120"
       }
     ]
   },
@@ -85,13 +85,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gXjFJqvkfBM/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gXlGSPBRFvz/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gXjFJqvkfBM/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gXlGSPBRFvz/120x120"
       }
     ]
   },
@@ -257,6 +257,12 @@
       {
         "name": "Radio Kollasuyo (720p)",
         "url": "https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Mega TV Amazonia (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
