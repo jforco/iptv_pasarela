@@ -56,6 +56,29 @@
     ]
   },
   {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "LA PAZ",
+        "url": "",
+        "idVideo": "xa0fwio",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gXjDbhTQzzO/120x120"
+      },
+      {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gXjDbhTQzzO/120x120"
+      },
+      {
+        "name": "SCZ",
+        "url": "",
+        "idVideo": "xarufnm",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gXjDbhTQzzO/120x120"
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
@@ -73,30 +96,19 @@
     ]
   },
   {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "SCZ",
-        "url": "",
-        "idVideo": "xarufnm",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gXe7_bwMh80/120x120"
-      }
-    ]
-  },
-  {
     "name": "BoliviaTV",
     "signals": [
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gXiM0P20UUh/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gXjFJqvkfBM/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gXiM0P20UUh/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gXjFJqvkfBM/120x120"
       }
     ]
   },
@@ -500,8 +512,26 @@
         "logo": ""
       },
       {
+        "name": "Unitel Cochabamba (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel La Paz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Unitel La Paz (576p)",
         "url": "http://190.60.39.195:8000/play/a01r/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel Santa Cruz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
