@@ -3,6 +3,12 @@
     "name": "PAT",
     "signals": [
       {
+        "name": "Señal SCZ",
+        "url": "https://www.redpat.tv:8000/play/110/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Señal LPZ",
         "url": "https://www.redpat.tv:8000/play/12/index.m3u8",
         "idVideo": "",
@@ -16,17 +22,6 @@
       {
         "name": "Señal LPZ",
         "url": "https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8",
-        "idVideo": "",
-        "logo": ""
-      }
-    ]
-  },
-  {
-    "name": "Cadena A",
-    "signals": [
-      {
-        "name": "Señal en vivo",
-        "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       }
@@ -67,24 +62,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gXw0xs-K6RR/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gX-356NLsCo/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gXw0xs-K6RR/120x120"
-      }
-    ]
-  },
-  {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "SCZ",
-        "url": "",
-        "idVideo": "xarufnm",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gXzH-Kx0_um/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gX-356NLsCo/120x120"
       }
     ]
   },
@@ -302,12 +286,6 @@
         "logo": ""
       },
       {
-        "name": "Radio Mega TV Amazonia (720p)",
-        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Radio Universitaria San Andres (720p)",
         "url": "https://edge.enhdtv.com/8054/index.m3u8",
         "idVideo": "",
@@ -508,6 +486,12 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UPEA TV (720p)",
+        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
