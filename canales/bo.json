@@ -1,22 +1,5 @@
 [
   {
-    "name": "PAT",
-    "signals": [
-      {
-        "name": "Señal SCZ",
-        "url": "https://www.redpat.tv:8000/play/110/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Señal LPZ",
-        "url": "https://www.redpat.tv:8000/play/12/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "name": "Gigavision",
     "signals": [
       {
@@ -257,6 +240,12 @@
       {
         "name": "Palenque TV (576p)",
         "url": "http://15.204.246.24:8080/PalenqueTVSD/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Palenque TV",
+        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
         "idVideo": "",
         "logo": ""
       },
