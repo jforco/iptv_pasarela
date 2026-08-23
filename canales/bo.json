@@ -28,6 +28,23 @@
     ]
   },
   {
+    "name": "BoliviaTV",
+    "signals": [
+      {
+        "name": "Sigue nuestra programación en 7.1",
+        "url": "",
+        "idVideo": "x9nzqpo",
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gYt3OExy72B/120x120"
+      },
+      {
+        "name": "Sigue nuestra programación en 7.2",
+        "url": "",
+        "idVideo": "x9ny70y",
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gYt3OExy72B/120x120"
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
@@ -40,7 +57,7 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gY7eCpIwgxD/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gY7eCpIwgxD/120x120"
       }
     ]
   },
@@ -51,30 +68,13 @@
         "name": "SCZ",
         "url": "",
         "idVideo": "xarufnm",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gYpcgFoV1tZ/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gYshjW_K8dv/120x120"
       },
       {
         "name": "LA PAZ",
         "url": "",
         "idVideo": "xa0fwio",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gYpcgFoV1tZ/120x120"
-      }
-    ]
-  },
-  {
-    "name": "BoliviaTV",
-    "signals": [
-      {
-        "name": "Sigue nuestra programación en 7.1",
-        "url": "",
-        "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gYrV725RIcU/120x120"
-      },
-      {
-        "name": "Sigue nuestra programación en 7.2",
-        "url": "",
-        "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gYrV725RIcU/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gYshjW_K8dv/120x120"
       }
     ]
   },
@@ -216,6 +216,12 @@
       {
         "name": "F10 HD [Geo-blocked]",
         "url": "https://tv2.bitstreaming.net:3235/multi_live/play.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "FAP TV (720p)",
+        "url": "https://edge.enhdtv.com/faptv/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -498,6 +504,12 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UPEA TV (720p)",
+        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
