@@ -45,19 +45,19 @@
         "name": "Cbba 3",
         "url": "",
         "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gZ1pzNcNIiB/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gZ3iE6hHc8t/120x120"
       },
       {
         "name": "LA PAZ",
         "url": "",
         "idVideo": "xa0fwio",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gZ1pzNcNIiB/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gZ3iE6hHc8t/120x120"
       },
       {
         "name": "SCZ",
         "url": "",
         "idVideo": "xarufnm",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gZ1pzNcNIiB/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gZ3iE6hHc8t/120x120"
       }
     ]
   },
@@ -68,13 +68,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gZ0bA48mkNj/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gZ3fr1PTqDT/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gZ0bA48mkNj/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gZ3fr1PTqDT/120x120"
       }
     ]
   },
@@ -85,13 +85,13 @@
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gY7eCpIwgxD/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gZ3CGh9htZO/120x120"
       },
       {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gY7eCpIwgxD/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gZ3CGh9htZO/120x120"
       }
     ]
   },
@@ -315,6 +315,12 @@
         "logo": ""
       },
       {
+        "name": "Radio Mega TV Amazonia (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Radio Universitaria San Andres (720p)",
         "url": "https://edge.enhdtv.com/8054/index.m3u8",
         "idVideo": "",
@@ -375,8 +381,20 @@
         "logo": ""
       },
       {
+        "name": "Sucremanta TV (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "TDT Multimedia (720p)",
         "url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TELE 6 (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -509,6 +527,12 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UPEA TV (720p)",
+        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
