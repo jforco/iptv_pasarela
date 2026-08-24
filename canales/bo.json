@@ -39,19 +39,25 @@
     ]
   },
   {
-    "name": "BoliviaTV",
+    "name": "Red Uno",
     "signals": [
       {
-        "name": "Sigue nuestra programación en 7.2",
+        "name": "LA PAZ",
         "url": "",
-        "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gZ9079kJH_h/120x120"
+        "idVideo": "xa0fwio",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gZC-75DFNzY/120x120"
       },
       {
-        "name": "Sigue nuestra programación en 7.1",
+        "name": "Cbba 3",
         "url": "",
-        "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gZ9079kJH_h/120x120"
+        "idVideo": "xa0qka8",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gZC-75DFNzY/120x120"
+      },
+      {
+        "name": "SCZ",
+        "url": "",
+        "idVideo": "xarufnm",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gZC-75DFNzY/120x120"
       }
     ]
   },
@@ -59,27 +65,33 @@
     "name": "ATB Bolivia",
     "signals": [
       {
-        "name": "ATB BOLIVIA",
-        "url": "",
-        "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gZ6dQdkFSgB/120x120"
-      },
-      {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gZ6dQdkFSgB/120x120"
+      },
+      {
+        "name": "ATB BOLIVIA",
+        "url": "",
+        "idVideo": "x84eirw",
         "logo": "https://s2.dmcdn.net/u/1E8-X1gZ6dQdkFSgB/120x120"
       }
     ]
   },
   {
-    "name": "Red Uno",
+    "name": "BoliviaTV",
     "signals": [
       {
-        "name": "SCZ",
+        "name": "Sigue nuestra programación en 7.2",
         "url": "",
-        "idVideo": "xarufnm",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gZC93mWQiPF/120x120"
+        "idVideo": "x9ny70y",
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gZ9079kJH_h/120x120"
+      },
+      {
+        "name": "Sigue nuestra programación en 7.1",
+        "url": "",
+        "idVideo": "x9nzqpo",
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gZ9079kJH_h/120x120"
       }
     ]
   },
