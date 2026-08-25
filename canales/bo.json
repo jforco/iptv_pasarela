@@ -24,6 +24,12 @@
         "url": "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8",
         "idVideo": "",
         "logo": ""
+      },
+      {
+        "name": "Señal LPZ",
+        "url": "https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8",
+        "idVideo": "",
+        "logo": ""
       }
     ]
   },
@@ -79,13 +85,13 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gZ6dQdkFSgB/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gZOXOeaQFcd/120x120"
       },
       {
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gZ6dQdkFSgB/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gZOXOeaQFcd/120x120"
       }
     ]
   },
@@ -96,7 +102,7 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gZIxNxBpHgD/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gZIxNxBpHgD/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
@@ -160,6 +166,12 @@
       {
         "name": "Cadena A (576p)",
         "url": "http://15.204.246.24:8080/CadenaAHD/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Canal 15 Teleor (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/activatv/activatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -254,6 +266,12 @@
         "logo": ""
       },
       {
+        "name": "Gigavision (720p)",
+        "url": "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Imperial TV (720p)",
         "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
         "idVideo": "",
@@ -316,6 +334,12 @@
       {
         "name": "Radio Kollasuyo (720p)",
         "url": "https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Mega TV Amazonia (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -386,8 +410,8 @@
         "logo": ""
       },
       {
-        "name": "Sucremanta TV (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8",
+        "name": "SPC Canal 15 (720p)",
+        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -524,14 +548,14 @@
         "logo": ""
       },
       {
-        "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
-        "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "name": "Univalle Televisión (1080p)",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
+        "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
+        "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
