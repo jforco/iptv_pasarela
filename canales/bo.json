@@ -20,6 +20,12 @@
     "name": "Gigavision",
     "signals": [
       {
+        "name": "Señal SCZ",
+        "url": "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Señal LPZ",
         "url": "https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8",
         "idVideo": "",
@@ -50,19 +56,42 @@
     ]
   },
   {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gbrW-pJ2NPi/120x120"
+      },
+      {
+        "name": "LA PAZ",
+        "url": "",
+        "idVideo": "xa0fwio",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gbrW-pJ2NPi/120x120"
+      },
+      {
+        "name": "SCZ 2",
+        "url": "",
+        "idVideo": "xb0oth2",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gbrW-pJ2NPi/120x120"
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gboAxRugiBz/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gbpYGReNgAd/120x120"
       },
       {
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gboAxRugiBz/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gbpYGReNgAd/120x120"
       }
     ]
   },
@@ -73,24 +102,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gbouS3bn8QH/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gbpd8rS7MJw/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gbouS3bn8QH/120x120"
-      }
-    ]
-  },
-  {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "SCZ 2",
-        "url": "",
-        "idVideo": "xb0oth2",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gbp2yPnpiUP/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gbpd8rS7MJw/120x120"
       }
     ]
   },
@@ -224,6 +242,12 @@
         "logo": ""
       },
       {
+        "name": "FAP TV (720p)",
+        "url": "https://edge.enhdtv.com/faptv/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "FAP TV (480p)",
         "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
         "idVideo": "",
@@ -326,6 +350,12 @@
         "logo": ""
       },
       {
+        "name": "Red America TV (1080p)",
+        "url": "https://edge.enhdtv.com/redamerica/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Red DTV (1080p)",
         "url": "http://15.204.246.24:8080/DTVHD/index.m3u8",
         "idVideo": "",
@@ -356,12 +386,6 @@
         "logo": ""
       },
       {
-        "name": "RTP (480p)",
-        "url": "https://rtp.noxun.net/hls480/stream2.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "RTP",
         "url": "https://rtp.noxun.net/hls/stream.m3u8",
         "idVideo": "",
@@ -370,6 +394,12 @@
       {
         "name": "Sol TV (720p)",
         "url": "http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Sucremanta TV (720p)",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -422,6 +452,12 @@
         "logo": ""
       },
       {
+        "name": "TV OFF (1080p)",
+        "url": "https://edge.enhdtv.com/tvoff/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "TVU Sucre (720p)",
         "url": "https://edge.enhdtv.com/8214/index.m3u8",
         "idVideo": "",
@@ -465,13 +501,19 @@
       },
       {
         "name": "Unitel Cochabamba (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8",
+        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "Univalle Televisión (1080p)",
-        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
+        "name": "Unitel La Paz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel Santa Cruz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
