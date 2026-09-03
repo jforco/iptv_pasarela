@@ -1,5 +1,22 @@
 [
   {
+    "name": "PAT",
+    "signals": [
+      {
+        "name": "Señal SCZ",
+        "url": "https://www.redpat.tv:8000/play/110/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Señal LPZ",
+        "url": "https://www.redpat.tv:8000/play/12/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "name": "Gigavision",
     "signals": [
       {
@@ -39,19 +56,13 @@
     ]
   },
   {
-    "name": "ATB Bolivia",
+    "name": "TV Municipal Huanuni",
     "signals": [
       {
-        "name": "Atb Cochabamba",
-        "url": "",
-        "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gcMLMpX51Hh/120x120"
-      },
-      {
-        "name": "ATB BOLIVIA",
-        "url": "",
-        "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gcMLMpX51Hh/120x120"
+        "name": "Señal Huanuni",
+        "url": "https://vs20.live.opencaster.com/nicolas_0eb1f82e/index.m3u8",
+        "idVideo": "",
+        "logo": ""
       }
     ]
   },
@@ -59,22 +70,39 @@
     "name": "Red Uno",
     "signals": [
       {
-        "name": "SCZ 2",
-        "url": "",
-        "idVideo": "xb0oth2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gcKd-8dGGsp/120x120"
-      },
-      {
         "name": "Cbba 3",
         "url": "",
         "idVideo": "xa0qka8",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gcKd-8dGGsp/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gcQGALyHMTC/120x120"
       },
       {
         "name": "LA PAZ",
         "url": "",
         "idVideo": "xa0fwio",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gcKd-8dGGsp/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gcQGALyHMTC/120x120"
+      },
+      {
+        "name": "SCZ 2",
+        "url": "",
+        "idVideo": "xb0oth2",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gcQGALyHMTC/120x120"
+      }
+    ]
+  },
+  {
+    "name": "ATB Bolivia",
+    "signals": [
+      {
+        "name": "Atb Cochabamba",
+        "url": "",
+        "idVideo": "x89sfvo",
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gcPaDk_tHvq/120x120"
+      },
+      {
+        "name": "ATB BOLIVIA",
+        "url": "",
+        "idVideo": "x84eirw",
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gcPaDk_tHvq/120x120"
       }
     ]
   },
@@ -85,13 +113,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gcJV64pWilN/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gcQGlT6rrNB/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gcJV64pWilN/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gcQGlT6rrNB/120x120"
       }
     ]
   },
@@ -125,12 +153,6 @@
       {
         "name": "ATB La Paz",
         "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Audiokiss (1080p)",
-        "url": "https://master.tucableip.com/audiokisstv/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -243,8 +265,20 @@
         "logo": ""
       },
       {
+        "name": "FTV (720p)",
+        "url": "https://master.tucableip.com/ftvhd/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Gigavision (720p)",
         "url": "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Imperial TV (720p)",
+        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -321,6 +355,12 @@
         "logo": ""
       },
       {
+        "name": "Red ADvenir TV (360p) [Not 24/7]",
+        "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Red America TV (1080p)",
         "url": "https://edge.enhdtv.com/redamerica/index.m3u8",
         "idVideo": "",
@@ -371,6 +411,12 @@
       {
         "name": "Sol TV (720p)",
         "url": "http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "SPC Canal 15 (720p)",
+        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -431,12 +477,6 @@
       {
         "name": "TV Latina (1080p)",
         "url": "https://master.tucableip.com/tvlatina/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV OFF (1080p)",
-        "url": "https://edge.enhdtv.com/tvoff/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
