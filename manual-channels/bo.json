@@ -51,5 +51,11 @@
     "signals": [
       { "name": "Señal en vivo", "url": "https://rtp.noxun.net/hls720/stream3.m3u8" }
     ]
+  },
+  {
+    "name": "TV Municipal Huanuni",
+    "signals": [
+      { "name": "Señal Huanuni", "url": "https://vs20.live.opencaster.com/nicolas_0eb1f82e/index.m3u8" }
+    ]
   }
 ]
