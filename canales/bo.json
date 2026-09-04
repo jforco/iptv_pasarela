@@ -61,30 +61,42 @@
     ]
   },
   {
-    "name": "ATB Bolivia",
-    "signals": [
-      {
-        "name": "ATB BOLIVIA",
-        "url": "",
-        "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gcPaDk_tHvq/120x120"
-      },
-      {
-        "name": "Atb Cochabamba",
-        "url": "",
-        "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gcPaDk_tHvq/120x120"
-      }
-    ]
-  },
-  {
     "name": "Red Uno",
     "signals": [
+      {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gcVzInzkUJk/120x120"
+      },
+      {
+        "name": "LA PAZ",
+        "url": "",
+        "idVideo": "xa0fwio",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gcVzInzkUJk/120x120"
+      },
       {
         "name": "SCZ 2",
         "url": "",
         "idVideo": "xb0oth2",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gcUEYJ4WD5r/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gcVzInzkUJk/120x120"
+      }
+    ]
+  },
+  {
+    "name": "ATB Bolivia",
+    "signals": [
+      {
+        "name": "Atb Cochabamba",
+        "url": "",
+        "idVideo": "x89sfvo",
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gcPaDk_tHvq/120x120"
+      },
+      {
+        "name": "ATB BOLIVIA",
+        "url": "",
+        "idVideo": "x84eirw",
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gcPaDk_tHvq/120x120"
       }
     ]
   },
@@ -95,13 +107,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gcTA_qZG85p/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gcWyW2VbLHN/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gcTA_qZG85p/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gcWyW2VbLHN/120x120"
       }
     ]
   },
@@ -421,12 +433,6 @@
         "logo": ""
       },
       {
-        "name": "TL Estrella (720p)",
-        "url": "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "TransMedia (720p)",
         "url": "https://edge.enhdtv.com/8064/index.m3u8",
         "idVideo": "",
@@ -525,12 +531,6 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
