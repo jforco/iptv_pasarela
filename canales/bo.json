@@ -1,16 +1,5 @@
 [
   {
-    "name": "PAT",
-    "signals": [
-      {
-        "name": "Señal SCZ",
-        "url": "https://www.redpat.tv:8000/play/110/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "name": "Gigavision",
     "signals": [
       {
@@ -61,7 +50,7 @@
         "name": "SCZ 2",
         "url": "",
         "idVideo": "xb0oth2",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gd5sa2gfLb3/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gd5sa2gfLb3/120x120"
       }
     ]
   },
@@ -83,13 +72,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gd31hP3z7SD/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gd31hP3z7SD/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gd31hP3z7SD/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gd31hP3z7SD/120x120"
       }
     ]
   },
@@ -135,6 +124,12 @@
       {
         "name": "AYNI TV (1080p)",
         "url": "http://15.204.246.24:8080/AyniTVHD/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "AYNI TV",
+        "url": "https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -433,6 +428,12 @@
         "logo": ""
       },
       {
+        "name": "TV OFF (1080p)",
+        "url": "https://edge.enhdtv.com/tvoff/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "TVU Sucre (720p)",
         "url": "https://edge.enhdtv.com/8214/index.m3u8",
         "idVideo": "",
@@ -477,6 +478,12 @@
       {
         "name": "Unitel Cochabamba (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/tvjoaquiniana26/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Univalle Televisión (1080p)",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
