@@ -1,16 +1,5 @@
 [
   {
-    "name": "PAT",
-    "signals": [
-      {
-        "name": "Señal SCZ",
-        "url": "https://www.redpat.tv:8000/play/110/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "name": "Gigavision",
     "signals": [
       {
@@ -61,7 +50,7 @@
         "name": "SCZ 2",
         "url": "",
         "idVideo": "xb0oth2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gd5sa2gfLb3/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gdAoJU_MKul/120x120"
       }
     ]
   },
@@ -83,13 +72,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gd9OjEHoKhh/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gdApi7QVZBp/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gd9OjEHoKhh/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gdApi7QVZBp/120x120"
       }
     ]
   },
@@ -487,14 +476,38 @@
         "logo": ""
       },
       {
+        "name": "Unitel Cochabamba (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel La Paz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Unitel Santa Cruz (720p)",
         "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
+        "name": "Univalle Televisión (1080p)",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UPEA TV (720p)",
+        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
