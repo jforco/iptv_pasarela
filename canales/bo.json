@@ -50,36 +50,24 @@
     ]
   },
   {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "LA PAZ",
-        "url": "",
-        "idVideo": "xa0fwio",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1ge3nicMlT8P/120x120"
-      },
-      {
-        "name": "Cbba 3",
-        "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1ge3nicMlT8P/120x120"
-      },
-      {
-        "name": "SCZ 2",
-        "url": "",
-        "idVideo": "xb0oth2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1ge3nicMlT8P/120x120"
-      }
-    ]
-  },
-  {
     "name": "ATB Bolivia",
     "signals": [
       {
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1ge2lFIwX6yV/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1ge6ukPPHrIY/120x120"
+      }
+    ]
+  },
+  {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "SCZ 2",
+        "url": "",
+        "idVideo": "xb0oth2",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1ge73wfbtG5g/120x120"
       }
     ]
   },
@@ -90,13 +78,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1ge32S2ZLU7Y/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1ge5x_1IaOCF/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1ge32S2ZLU7Y/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1ge5x_1IaOCF/120x120"
       }
     ]
   },
@@ -308,6 +296,12 @@
         "logo": ""
       },
       {
+        "name": "Radio Clasica TV (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Radio Kollasuyo (720p)",
         "url": "https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8",
         "idVideo": "",
@@ -334,6 +328,12 @@
       {
         "name": "Red America TV (1080p)",
         "url": "https://edge.enhdtv.com/redamerica/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Red CCTV",
+        "url": "https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -382,12 +382,6 @@
       {
         "name": "Sol TV (720p)",
         "url": "http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "SPC Canal 15 (720p)",
-        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -500,32 +494,14 @@
         "logo": ""
       },
       {
-        "name": "Unitel Cochabamba (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel La Paz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
+        "name": "Univalle Televisión (1080p)",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
