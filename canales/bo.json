@@ -1,5 +1,22 @@
 [
   {
+    "name": "PAT",
+    "signals": [
+      {
+        "name": "Señal SCZ",
+        "url": "https://www.redpat.tv:8000/play/110/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Señal LPZ",
+        "url": "https://www.redpat.tv:8000/play/12/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "name": "Gigavision",
     "signals": [
       {
@@ -33,13 +50,13 @@
     ]
   },
   {
-    "name": "TV Municipal Huanuni",
+    "name": "ATB Bolivia",
     "signals": [
       {
-        "name": "Señal Huanuni",
-        "url": "https://vs20.live.opencaster.com/nicolas_0eb1f82e/index.m3u8",
-        "idVideo": "",
-        "logo": ""
+        "name": "ATB BOLIVIA",
+        "url": "",
+        "idVideo": "x84eirw",
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gejN1R4p-v9/120x120"
       }
     ]
   },
@@ -50,19 +67,13 @@
         "name": "LA PAZ",
         "url": "",
         "idVideo": "xa0fwio",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gejnVrLfkM3/120x120"
-      },
-      {
-        "name": "Cbba 3",
-        "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gejnVrLfkM3/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1genF6KkRpM6/120x120"
       },
       {
         "name": "SCZ 2",
         "url": "",
         "idVideo": "xb0oth2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gejnVrLfkM3/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1genF6KkRpM6/120x120"
       }
     ]
   },
@@ -73,24 +84,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gekiNmGsd4Q/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1genKWMYxWum/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gekiNmGsd4Q/120x120"
-      }
-    ]
-  },
-  {
-    "name": "ATB Bolivia",
-    "signals": [
-      {
-        "name": "ATB BOLIVIA",
-        "url": "",
-        "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gejN1R4p-v9/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1genKWMYxWum/120x120"
       }
     ]
   },
@@ -242,12 +242,6 @@
         "logo": ""
       },
       {
-        "name": "FTV (720p)",
-        "url": "https://master.tucableip.com/ftvhd/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Gigavision (720p)",
         "url": "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
         "idVideo": "",
@@ -368,6 +362,12 @@
         "logo": ""
       },
       {
+        "name": "Red Uno Santa Cruz (1080p)",
+        "url": "http://190.181.18.82:4111/play/a006/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "RTP (480p)",
         "url": "https://rtp.noxun.net/hls480/stream2.m3u8",
         "idVideo": "",
@@ -382,12 +382,6 @@
       {
         "name": "Sol TV (720p)",
         "url": "http://190.211.140.91:8081/SVTranscoder/SOLTVabr.stream/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "SPC Canal 15 (720p)",
-        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -496,24 +490,6 @@
       {
         "name": "Unifranz (720p)",
         "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel Cochabamba (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel La Paz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
