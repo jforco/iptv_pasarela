@@ -1,5 +1,22 @@
 [
   {
+    "name": "PAT",
+    "signals": [
+      {
+        "name": "Señal SCZ",
+        "url": "https://www.redpat.tv:8000/play/110/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Señal LPZ",
+        "url": "https://www.redpat.tv:8000/play/12/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "name": "Gigavision",
     "signals": [
       {
@@ -33,6 +50,34 @@
     ]
   },
   {
+    "name": "TV Municipal Huanuni",
+    "signals": [
+      {
+        "name": "Señal Huanuni",
+        "url": "https://vs20.live.opencaster.com/nicolas_0eb1f82e/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
+    "name": "BoliviaTV",
+    "signals": [
+      {
+        "name": "Sigue nuestra programación en 7.2",
+        "url": "",
+        "idVideo": "x9ny70y",
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gfM8kHMvhva/120x120"
+      },
+      {
+        "name": "Sigue nuestra programación en 7.1",
+        "url": "",
+        "idVideo": "x9nzqpo",
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gfM8kHMvhva/120x120"
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
@@ -46,23 +91,6 @@
         "url": "",
         "idVideo": "x84eirw",
         "logo": "https://s2.dmcdn.net/u/1E8-X1gf2LhjeAbAA/120x120"
-      }
-    ]
-  },
-  {
-    "name": "BoliviaTV",
-    "signals": [
-      {
-        "name": "Sigue nuestra programación en 7.1",
-        "url": "",
-        "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gfJ3D3ATxmh/120x120"
-      },
-      {
-        "name": "Sigue nuestra programación en 7.2",
-        "url": "",
-        "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gfJ3D3ATxmh/120x120"
       }
     ]
   },
@@ -364,6 +392,12 @@
         "logo": ""
       },
       {
+        "name": "SPC Canal 15 (720p)",
+        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Sucremanta TV (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8",
         "idVideo": "",
@@ -466,8 +500,8 @@
         "logo": ""
       },
       {
-        "name": "Univalle Televisión (1080p)",
-        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
+        "name": "Unitel La Paz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
         "idVideo": "",
         "logo": ""
       },
