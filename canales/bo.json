@@ -73,7 +73,7 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gfmpuLejlMQ/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gfmpuLejlMQ/120x120"
       }
     ]
   },
@@ -84,13 +84,13 @@
         "name": "LA PAZ",
         "url": "",
         "idVideo": "xa0fwio",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gfkZ6GimdQo/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gfpdL3qb_qk/120x120"
       },
       {
         "name": "SCZ 2",
         "url": "",
         "idVideo": "xb0oth2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gfkZ6GimdQo/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gfpdL3qb_qk/120x120"
       }
     ]
   },
@@ -496,6 +496,24 @@
       {
         "name": "Unifranz (720p)",
         "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel Cochabamba (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel La Paz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel Santa Cruz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
