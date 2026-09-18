@@ -53,22 +53,22 @@
     "name": "Red Uno",
     "signals": [
       {
-        "name": "Cbba 3",
-        "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1ghGpHUBKPSC/120x120"
-      },
-      {
         "name": "LA PAZ",
         "url": "",
         "idVideo": "xa0fwio",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1ghGpHUBKPSC/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1ghMRWHynH0O/120x120"
+      },
+      {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1ghMRWHynH0O/120x120"
       },
       {
         "name": "SCZ 2",
         "url": "",
         "idVideo": "xb0oth2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1ghGpHUBKPSC/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1ghMRWHynH0O/120x120"
       }
     ]
   },
@@ -85,7 +85,7 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1ghIeXfCddf4/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1ghIeXfCddf4/120x120"
       }
     ]
   },
@@ -96,13 +96,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1ghCPdrGtqE7/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1ghM1jY_M6yH/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1ghCPdrGtqE7/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1ghM1jY_M6yH/120x120"
       }
     ]
   },
@@ -128,6 +128,12 @@
         "logo": ""
       },
       {
+        "name": "As Contenidos (720p)",
+        "url": "https://master.tucableip.com/ascontenido/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "ATB La Paz",
         "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
         "idVideo": "",
@@ -142,6 +148,12 @@
       {
         "name": "AYNI TV (1080p)",
         "url": "http://15.204.246.24:8080/AyniTVHD/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "AYNI TV",
+        "url": "https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -200,12 +212,6 @@
         "logo": ""
       },
       {
-        "name": "Dmoda Channel (1080p)",
-        "url": "https://master.tucableip.com/dmoda/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "EL DEBER (1080p)",
         "url": "https://master.tucableip.com/eldebertv/index.m3u8",
         "idVideo": "",
@@ -242,6 +248,12 @@
         "logo": ""
       },
       {
+        "name": "Gigavision (720p)",
+        "url": "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Imperial TV (720p)",
         "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
         "idVideo": "",
@@ -250,12 +262,6 @@
       {
         "name": "Palenque TV (576p)",
         "url": "http://15.204.246.24:8080/PalenqueTVSD/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Palenque TV",
-        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -274,6 +280,12 @@
       {
         "name": "Poder de Dios TV (1080p)",
         "url": "http://15.204.246.24:8080/PoderdeDiosHD/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Poder de Dios TV (720p)",
+        "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -386,6 +398,12 @@
         "logo": ""
       },
       {
+        "name": "TDT Multimedia (720p)",
+        "url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "TELE 6 (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8",
         "idVideo": "",
@@ -458,18 +476,6 @@
         "logo": ""
       },
       {
-        "name": "UMSA TVU LP (720p)",
-        "url": "https://edge.enhdtv.com/8190/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UMSA TVU LP (720p)",
-        "url": "https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Unifranz (720p)",
         "url": "https://edge.enhdtv.com/8192/index.m3u8",
         "idVideo": "",
@@ -500,14 +506,8 @@
         "logo": ""
       },
       {
-        "name": "Univalle Televisión (1080p)",
-        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
-        "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "name": "UPEA TV (720p)",
+        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
