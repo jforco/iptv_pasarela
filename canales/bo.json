@@ -61,25 +61,19 @@
     ]
   },
   {
-    "name": "Red Uno",
+    "name": "BoliviaTV",
     "signals": [
       {
-        "name": "LA PAZ",
+        "name": "Sigue nuestra programación en 7.1",
         "url": "",
-        "idVideo": "xa0fwio",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gijA13ndXXW/120x120"
+        "idVideo": "x9nzqpo",
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gilio_3hiyX/120x120"
       },
       {
-        "name": "Cbba 3",
+        "name": "Sigue nuestra programación en 7.2",
         "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gijA13ndXXW/120x120"
-      },
-      {
-        "name": "SCZ 2",
-        "url": "",
-        "idVideo": "xb0oth2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gijA13ndXXW/120x120"
+        "idVideo": "x9ny70y",
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gilio_3hiyX/120x120"
       }
     ]
   },
@@ -87,21 +81,27 @@
     "name": "ATB Bolivia",
     "signals": [
       {
+        "name": "ATB BOLIVIA",
+        "url": "",
+        "idVideo": "x84eirw",
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gigXxM-8Ol4/120x120"
+      },
+      {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gigXxM-8Ol4/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gigXxM-8Ol4/120x120"
       }
     ]
   },
   {
-    "name": "BoliviaTV",
+    "name": "Red Uno",
     "signals": [
       {
-        "name": "Sigue nuestra programación en 7.2",
+        "name": "SCZ 2",
         "url": "",
-        "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gijBVHzjUfw/120x120"
+        "idVideo": "xb0oth2",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gikp-8LxnBR/120x120"
       }
     ]
   },
@@ -117,6 +117,12 @@
       {
         "name": "Amitel TV (720p)",
         "url": "https://stv2.boliviaplay.com.bo/hls/stream.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "ATB La Paz",
+        "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -199,8 +205,8 @@
         "logo": ""
       },
       {
-        "name": "Imperial TV (720p)",
-        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
+        "name": "Palenque TV",
+        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -295,12 +301,6 @@
         "logo": ""
       },
       {
-        "name": "SPC Canal 15 (720p)",
-        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Sucremanta TV (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8",
         "idVideo": "",
@@ -315,12 +315,6 @@
       {
         "name": "Tele Fe Bolivia (720p)",
         "url": "https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Tigo Sports (720p) [Geo-blocked]",
-        "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -393,6 +387,30 @@
       {
         "name": "Unifranz (720p)",
         "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel Cochabamba (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel La Paz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel Santa Cruz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Univalle Televisión (1080p)",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
