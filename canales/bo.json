@@ -56,7 +56,7 @@
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gjhW8_zlIYS/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gjhW8_zlIYS/120x120"
       },
       {
         "name": "Atb Cochabamba",
@@ -84,13 +84,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gkK8hPrrZ9O/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gkQTKzhavdP/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gkK8hPrrZ9O/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gkQTKzhavdP/120x120"
       }
     ]
   },
@@ -172,6 +172,12 @@
       {
         "name": "FAP TV (480p)",
         "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "FTV (720p)",
+        "url": "https://master.tucableip.com/ftvhd/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -386,14 +392,14 @@
         "logo": ""
       },
       {
-        "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
-        "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "name": "Univalle Televisión (1080p)",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
+        "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
+        "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
