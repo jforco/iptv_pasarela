@@ -1,30 +1,7 @@
 [
   {
-    "name": "PAT",
-    "signals": [
-      {
-        "name": "Señal SCZ",
-        "url": "https://www.redpat.tv:8000/play/110/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Señal LPZ",
-        "url": "https://www.redpat.tv:8000/play/12/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "name": "Gigavision",
     "signals": [
-      {
-        "name": "Señal SCZ",
-        "url": "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
       {
         "name": "Señal LPZ",
         "url": "https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8",
@@ -70,16 +47,22 @@
     "name": "Red Uno",
     "signals": [
       {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gkZxCMNM_el/120x120"
+      },
+      {
         "name": "SCZ 2",
         "url": "",
         "idVideo": "xb0oth2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gkRpP9qf5yL/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gkZxCMNM_el/120x120"
       },
       {
         "name": "LA PAZ",
         "url": "",
         "idVideo": "xa0fwio",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gkRpP9qf5yL/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gkZxCMNM_el/120x120"
       }
     ]
   },
@@ -107,13 +90,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gkTT86_75Id/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gkZ-Fx3vm2m/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gkTT86_75Id/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gkZ-Fx3vm2m/120x120"
       }
     ]
   },
@@ -147,12 +130,6 @@
       {
         "name": "Canal 56 Quiero TV (720p)",
         "url": "http://45.5.118.152:8000/play/a08z/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "CEACOM TV (1080p) [Not 24/7]",
-        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -211,6 +188,12 @@
         "logo": ""
       },
       {
+        "name": "Imperial TV (720p)",
+        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Palenque TV",
         "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
         "idVideo": "",
@@ -247,12 +230,6 @@
         "logo": ""
       },
       {
-        "name": "Radio Mega TV Amazonia (720p)",
-        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Radio Universitaria San Andres (720p)",
         "url": "https://edge.enhdtv.com/8054/index.m3u8",
         "idVideo": "",
@@ -279,12 +256,6 @@
       {
         "name": "Red Rubi (720p)",
         "url": "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Red Uno (720p)",
-        "url": "https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -397,6 +368,24 @@
         "logo": ""
       },
       {
+        "name": "Unitel Cochabamba (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel La Paz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel Santa Cruz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Univalle Televisión (1080p)",
         "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
@@ -405,18 +394,6 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Vos TV",
-        "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
