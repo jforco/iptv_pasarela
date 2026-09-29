@@ -39,6 +39,29 @@
     ]
   },
   {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "LA PAZ",
+        "url": "",
+        "idVideo": "xa0fwio",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gkuxsf5L5xX/120x120"
+      },
+      {
+        "name": "SCZ 2",
+        "url": "",
+        "idVideo": "xb0oth2",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gkuxsf5L5xX/120x120"
+      },
+      {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gkuxsf5L5xX/120x120"
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
@@ -51,30 +74,7 @@
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gkfKu26uu7x/120x120"
-      }
-    ]
-  },
-  {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "LA PAZ",
-        "url": "",
-        "idVideo": "xa0fwio",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gkoCpwuSQvA/120x120"
-      },
-      {
-        "name": "Cbba 3",
-        "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gkoCpwuSQvA/120x120"
-      },
-      {
-        "name": "SCZ 2",
-        "url": "",
-        "idVideo": "xb0oth2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gkoCpwuSQvA/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gkfKu26uu7x/120x120"
       }
     ]
   },
@@ -85,13 +85,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gkncIc8W3K9/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gkv2sWrasal/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gkncIc8W3K9/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gkv2sWrasal/120x120"
       }
     ]
   },
@@ -129,12 +129,6 @@
         "logo": ""
       },
       {
-        "name": "CEACOM TV (1080p) [Not 24/7]",
-        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Coral TV (720p)",
         "url": "https://tv.mediacp.eu:8081/coraltv/index.m3u8",
         "idVideo": "",
@@ -143,12 +137,6 @@
       {
         "name": "Delta TV",
         "url": "https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Dmoda Channel (1080p)",
-        "url": "https://master.tucableip.com/dmoda/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -189,6 +177,12 @@
         "logo": ""
       },
       {
+        "name": "Imperial TV (720p)",
+        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Palenque TV",
         "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
         "idVideo": "",
@@ -215,12 +209,6 @@
       {
         "name": "Radio Kollasuyo (720p)",
         "url": "https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Radio Mega TV Amazonia (720p)",
-        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -287,12 +275,6 @@
       {
         "name": "Sucremanta TV (720p)",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TDT Multimedia (720p)",
-        "url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
