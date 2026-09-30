@@ -1,10 +1,22 @@
 const fs = require('fs');
 const path = require('path');
 
-// ─── CONFIGURACIÓN ─────────────────────────────────────────────
-const M3U_URL = 'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/bo.m3u';
-const MANUAL_CHANNELS_PATH = path.join(__dirname, '..', 'manual-channels', 'bo.json');
-const OUTPUT_PATH = path.join(__dirname, '..', 'canales', 'bo.json');
+// ─── CONFIGURACIÓN DE PAÍSES ────────────────────────────────────
+const PAISES = {
+  bo: {
+    nombre: 'Bolivia',
+    m3uUrl: 'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/bo.m3u',
+    manualPath: path.join(__dirname, '..', 'manual-channels', 'bo.json'),
+    outputPath: path.join(__dirname, '..', 'canales', 'bo.json')
+  },
+  py: {
+    nombre: 'Paraguay',
+    m3uUrl: 'https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/py.m3u',
+    manualPath: path.join(__dirname, '..', 'manual-channels', 'py.json'),
+    outputPath: path.join(__dirname, '..', 'canales', 'py.json')
+  }
+};
+
 const VERIFY_TIMEOUT_MS = 4000; 
 const BATCH_SIZE = 15;
 
@@ -13,6 +25,25 @@ const HTTP_HEADERS = {
 };
 
 // ─── FUNCIONES DE VERIFICACIÓN ─────────────────────────────────
+
+/** Fetch resiliente con reintentos y backoff para conexiones remotas */
+async function fetchConReintentos(url, opciones = {}, maxIntentos = 3) {
+  let ultimoError;
+  for (let intento = 1; intento <= maxIntentos; intento++) {
+    try {
+      const res = await fetch(url, { ...opciones, signal: AbortSignal.timeout(10000) });
+      if (res.ok) return res;
+      if (res.status >= 500) throw new Error(`HTTP ${res.status}`);
+      return res;
+    } catch (err) {
+      ultimoError = err;
+      if (intento < maxIntentos) {
+        await new Promise(r => setTimeout(r, intento * 1000));
+      }
+    }
+  }
+  throw ultimoError;
+}
 
 /** Verifica flujos M3U8 usando HEAD con fallback a GET parcial (Range) */
 async function verificarUrl(url) {
@@ -48,7 +79,7 @@ async function obtenerCanalesDailyMotion(ownersIds) {
   const urlApi = `https://api.dailymotion.com/videos?owners=${ownersParam}&fields=id,title,owner,owner.avatar_120_url&flags=live_onair&limit=20`;
   
   try {
-    const res = await fetch(urlApi, { headers: HTTP_HEADERS });
+    const res = await fetchConReintentos(urlApi, { headers: HTTP_HEADERS });
     if (!res.ok) return [];
     const datos = await res.json();
     return datos.list || [];
@@ -75,23 +106,30 @@ function parsearM3U(contenido) {
   return canales;
 }
 
-// ─── PROCESO PRINCIPAL ─────────────────────────────────────────
+// ─── PROCESAMIENTO POR PAÍS ────────────────────────────────────
 
-async function main() {
-  console.log('=== Backend Pasarela Dinámico: Bolivia ===\n');
+async function procesarPais(codigo, config) {
+  console.log(`\n======================================================`);
+  console.log(`=== Backend Pasarela Dinámico: ${config.nombre} (${codigo.toUpperCase()}) ===`);
+  console.log(`======================================================\n`);
+
   const resultadoFinal = {};
 
   // 1. LEER CONFIGURACIÓN Y SEPARAR FUENTES
-  if (!fs.existsSync(MANUAL_CHANNELS_PATH)) {
-    throw new Error(`No se encontró el archivo de configuración en: ${MANUAL_CHANNELS_PATH}`);
+  let canalesManualesRaw = [];
+  if (fs.existsSync(config.manualPath)) {
+    try {
+      canalesManualesRaw = JSON.parse(fs.readFileSync(config.manualPath, 'utf-8'));
+    } catch (e) {
+      console.warn(`⚠ Advertencia al leer ${config.manualPath}: ${e.message}`);
+    }
   }
-  
-  const canalesManualesRaw = JSON.parse(fs.readFileSync(MANUAL_CHANNELS_PATH, 'utf-8'));
+
   const listaM3uAVerificar = [];
   const mapaDailyMotion = {}; // ownerId -> [{ grupo }]
 
   for (const grupo of canalesManualesRaw) {
-    for (const sig of grupo.signals) {
+    for (const sig of grupo.signals || []) {
       if (sig.url) {
         listaM3uAVerificar.push({ grupo: grupo.name, nombre: sig.name, url: sig.url });
       } else if (sig.dailymotionOwner) {
@@ -144,14 +182,13 @@ async function main() {
   }
 
   // 4. PROCESAR LISTA M3U PÚBLICA (IPTV-ORG)
-  console.log('\nDescargando e indexando lista M3U pública (iptv-org)...');
+  console.log(`\nDescargando e indexando lista M3U pública (iptv-org: ${config.m3uUrl})...`);
   try {
-    const resM3u = await fetch(M3U_URL, { headers: HTTP_HEADERS });
+    const resM3u = await fetchConReintentos(config.m3uUrl, { headers: HTTP_HEADERS });
     if (resM3u.ok) {
       const textoM3u = await resM3u.text();
       const canalesM3U = parsearM3U(textoM3u);
 
-      // Obtener set de URLs manuales ya procesadas para evitar duplicidad
       const normalizarUrl = (u) => u.replace(/:443\//, '/').replace(/:80\//, '/');
       const urlsExistentes = new Set();
       Object.values(resultadoFinal).flat().forEach(s => { if (s.url) urlsExistentes.add(normalizarUrl(s.url)); });
@@ -176,6 +213,19 @@ async function main() {
   }
 
   // 5. CONSTRUIR ESTRUCTURA DE SALIDA Y GUARDAR
+  const totalSenales = Object.values(resultadoFinal).reduce((acc, curr) => acc + curr.length, 0);
+  if (totalSenales === 0 && fs.existsSync(config.outputPath)) {
+    try {
+      const previo = JSON.parse(fs.readFileSync(config.outputPath, 'utf-8'));
+      if (Array.isArray(previo) && previo.length > 0) {
+        console.warn(`\n⚠ Alerta: No se encontraron canales online en esta ejecución para ${config.nombre}. Se preserva el archivo de producción previo (${previo.length} grupos).`);
+        return;
+      }
+    } catch {
+      // Ignorar error
+    }
+  }
+
   const jsonSalida = Object.entries(resultadoFinal).map(([groupName, signals]) => ({
     name: groupName,
     signals: signals
@@ -188,11 +238,27 @@ async function main() {
     return 0;
   });
 
-  const dir = path.dirname(OUTPUT_PATH);
+  const dir = path.dirname(config.outputPath);
   if (!fs.existsSync(dir)) fs.mkdirSync(dir, { recursive: true });
-  fs.writeFileSync(OUTPUT_PATH, JSON.stringify(jsonSalida, null, 2));
+  fs.writeFileSync(config.outputPath, JSON.stringify(jsonSalida, null, 2));
 
-  console.log(`\n✅ Archivo de producción generado con éxito en: ${OUTPUT_PATH}`);
+  console.log(`\n✅ Archivo de producción generado con éxito en: ${config.outputPath} (${totalSenales} señales)`);
+}
+
+// ─── PROCESO PRINCIPAL ─────────────────────────────────────────
+
+async function main() {
+  const argPais = process.argv[2]?.toLowerCase();
+  if (argPais && PAISES[argPais]) {
+    await procesarPais(argPais, PAISES[argPais]);
+  } else if (argPais && !PAISES[argPais]) {
+    console.error(`❌ País desconocido: "${argPais}". Países válidos: ${Object.keys(PAISES).join(', ')}`);
+    process.exit(1);
+  } else {
+    for (const [codigo, config] of Object.entries(PAISES)) {
+      await procesarPais(codigo, config);
+    }
+  }
 }
 
 main().catch(err => {

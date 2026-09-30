@@ -31,4 +31,6 @@ jobs:
           git diff --staged --quiet || (git commit -m "Cron: Canales actualizados automáticamente [skip ci]" && git push)
 
       - name: Purge CDN jsDelivr
-        run: curl -s https://purge.jsdelivr.net/gh/jforco/iptv_pasarela@main/canales/bo.json
+        run: |
+          curl -s https://purge.jsdelivr.net/gh/jforco/iptv_pasarela@main/canales/bo.json
+          curl -s https://purge.jsdelivr.net/gh/jforco/iptv_pasarela@main/canales/py.json
