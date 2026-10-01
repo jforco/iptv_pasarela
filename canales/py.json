@@ -9,6 +9,12 @@
         "logo": ""
       },
       {
+        "name": "AGR FM TV",
+        "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Alcance FM PLAY TV",
         "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
         "idVideo": "",
@@ -99,6 +105,12 @@
         "logo": ""
       },
       {
+        "name": "GO TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "HEi Now (1080p)",
         "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -131,12 +143,6 @@
       {
         "name": "Monumental TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Nande Portetepe TV",
-        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -297,8 +303,20 @@
         "logo": ""
       },
       {
+        "name": "UnionTV",
+        "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "UniRadio TV (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Venus Media (1080p)",
+        "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
