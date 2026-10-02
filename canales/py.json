@@ -237,6 +237,12 @@
         "logo": ""
       },
       {
+        "name": "Radio Guaira TV",
+        "url": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Radio San Cristobal 88.7 FM",
         "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
         "idVideo": "",
@@ -269,12 +275,6 @@
       {
         "name": "Red Interior TV",
         "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Regional TV Yaguaron (1080p)",
-        "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -377,12 +377,6 @@
       {
         "name": "Tigo Sports (1080p)",
         "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Paraguay TV (1080p)",
-        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
         "idVideo": "",
         "logo": ""
       },
