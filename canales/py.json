@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "AGR FM TV",
         "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
         "idVideo": "",
@@ -143,6 +137,12 @@
       {
         "name": "Monumental TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Nande Portetepe TV",
+        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -363,6 +363,12 @@
         "logo": ""
       },
       {
+        "name": "Tigo Sports+ (1080p) [Not 24/7]",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Tigo Sports (1080p)",
         "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
         "idVideo": "",
@@ -371,6 +377,18 @@
       {
         "name": "Paraguay TV (1080p)",
         "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TV Camara (1080p)",
+        "url": "http://158.172.217.18:8000/play/a00m/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Telefuturo (1080p)",
+        "url": "http://158.172.217.18:8000/play/a0ns/index.m3u8",
         "idVideo": "",
         "logo": ""
       }
