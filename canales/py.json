@@ -33,8 +33,8 @@
         "logo": ""
       },
       {
-        "name": "Canal 5 TV Max (1080p)",
-        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+        "name": "CAD TV",
+        "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -71,6 +71,12 @@
       {
         "name": "Del Rey TV (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Dismar Radio TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -359,6 +365,12 @@
       {
         "name": "Unicanal",
         "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Tigo Sports+ (1080p) [Not 24/7]",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
