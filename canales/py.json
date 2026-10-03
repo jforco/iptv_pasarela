@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "AGR FM TV",
         "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
         "idVideo": "",
@@ -35,12 +29,6 @@
       {
         "name": "C9N (480p)",
         "url": "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "CAD TV",
-        "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -195,12 +183,6 @@
         "logo": ""
       },
       {
-        "name": "Oasis TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Occidental TV",
         "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
         "idVideo": "",
@@ -249,12 +231,6 @@
         "logo": ""
       },
       {
-        "name": "Radio TV El Arca del Pacto (1080p)",
-        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "RB TV (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
         "idVideo": "",
@@ -275,6 +251,12 @@
       {
         "name": "Red Interior TV",
         "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Regional TV Yaguaron (1080p)",
+        "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -377,6 +359,12 @@
       {
         "name": "Tigo Sports (1080p)",
         "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Paraguay TV (1080p)",
+        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
         "idVideo": "",
         "logo": ""
       },
