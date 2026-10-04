@@ -27,12 +27,6 @@
         "logo": ""
       },
       {
-        "name": "Canal 8 C&C Producciones",
-        "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Canal 8 Vision TV (1080p)",
         "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
         "idVideo": "",
@@ -51,8 +45,8 @@
         "logo": ""
       },
       {
-        "name": "Del Rey TV (1080p)",
-        "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
+        "name": "Dismar Radio TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -153,12 +147,6 @@
         "logo": ""
       },
       {
-        "name": "Occidental TV",
-        "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Popu TV (1080p)",
         "url": "http://190.108.83.69:8000/play/a070/index.m3u8",
         "idVideo": "",
@@ -185,6 +173,12 @@
       {
         "name": "Radio Guaira TV",
         "url": "https://tvdatta.com:3991/live/guairatvlive.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio TV El Arca del Pacto (1080p)",
+        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -219,14 +213,14 @@
         "logo": ""
       },
       {
-        "name": "Suceso TV (720p) [Not 24/7]",
-        "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
+        "name": "Telefuturo (1080p)",
+        "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "Telefuturo (1080p)",
-        "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
+        "name": "TV Aire",
+        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -243,6 +237,12 @@
         "logo": ""
       },
       {
+        "name": "UniRadio TV (1080p)",
+        "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Venus Media (1080p)",
         "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
         "idVideo": "",
@@ -255,14 +255,20 @@
         "logo": ""
       },
       {
-        "name": "Paravision",
-        "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
+        "name": "SUR TV Itapua",
+        "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "SUR TV Itapua",
-        "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
+        "name": "TV Camara (1080p)",
+        "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Trece",
+        "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
         "idVideo": "",
         "logo": ""
       },
