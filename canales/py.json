@@ -33,6 +33,12 @@
         "logo": ""
       },
       {
+        "name": "Canal 8 C&C Producciones",
+        "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Canal 8 Vision TV (1080p)",
         "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
         "idVideo": "",
@@ -123,12 +129,6 @@
         "logo": ""
       },
       {
-        "name": "Nande Portetepe TV",
-        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Nandejara Ne'e TV",
         "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
@@ -177,6 +177,12 @@
         "logo": ""
       },
       {
+        "name": "Productiva TV",
+        "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Radio Colmenar 92.5 FM",
         "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
         "idVideo": "",
@@ -189,8 +195,20 @@
         "logo": ""
       },
       {
+        "name": "Radio San Cristobal 88.7 FM",
+        "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Radio TV El Arca del Pacto (1080p)",
         "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "RB TV (1080p)",
+        "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -227,6 +245,12 @@
       {
         "name": "SNT (480p)",
         "url": "https://d3epa8orr2qy3m.cloudfront.net/ts:abr.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Suceso TV (720p) [Not 24/7]",
+        "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
