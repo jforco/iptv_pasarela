@@ -3,20 +3,8 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "AGR FM TV",
-        "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Alcance FM PLAY TV",
         "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Alt Media TV",
-        "url": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -165,12 +153,6 @@
         "logo": ""
       },
       {
-        "name": "Oviedo TV",
-        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Popu TV (1080p)",
         "url": "http://190.108.83.69:8000/play/a070/index.m3u8",
         "idVideo": "",
@@ -209,12 +191,6 @@
       {
         "name": "RCC TV (1080p) [Not 24/7]",
         "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Red Interior TV",
-        "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -261,12 +237,6 @@
         "logo": ""
       },
       {
-        "name": "UniRadio TV (1080p)",
-        "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Venus Media (1080p)",
         "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
         "idVideo": "",
@@ -305,12 +275,6 @@
       {
         "name": "Unicanal",
         "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Tigo Sports+ (1080p) [Not 24/7]",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
