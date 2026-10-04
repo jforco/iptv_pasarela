@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "Alcance FM PLAY TV",
-        "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Bruno Masi TV (720p)",
         "url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
         "idVideo": "",
@@ -23,6 +17,12 @@
       {
         "name": "CAD TV",
         "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Canal 5 TV Max (1080p)",
+        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -147,6 +147,12 @@
         "logo": ""
       },
       {
+        "name": "Oasis TV (720p)",
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Occidental TV",
         "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
         "idVideo": "",
@@ -183,14 +189,20 @@
         "logo": ""
       },
       {
-        "name": "Radio San Cristobal 88.7 FM",
-        "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
+        "name": "RCC TV (1080p) [Not 24/7]",
+        "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "RCC TV (1080p) [Not 24/7]",
-        "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
+        "name": "Red Digital (1080p) [Not 24/7]",
+        "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Regional TV Yaguaron (1080p)",
+        "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -219,12 +231,6 @@
         "logo": ""
       },
       {
-        "name": "TV Aire",
-        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "TV Canindeyu (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
         "idVideo": "",
@@ -243,8 +249,8 @@
         "logo": ""
       },
       {
-        "name": "America Paraguay (720p)",
-        "url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
+        "name": "Villa Elisa Radio TV (1080p)",
+        "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
         "idVideo": "",
         "logo": ""
       },
@@ -257,18 +263,6 @@
       {
         "name": "SUR TV Itapua",
         "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV Camara (1080p)",
-        "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Trece",
-        "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
         "idVideo": "",
         "logo": ""
       },
