@@ -3,6 +3,12 @@
     "name": "Otros Canales",
     "signals": [
       {
+        "name": "Alcance FM PLAY TV",
+        "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Bruno Masi TV (720p)",
         "url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
         "idVideo": "",
@@ -41,6 +47,12 @@
       {
         "name": "Cosmos TV (720p)",
         "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Del Rey TV (1080p)",
+        "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -111,6 +123,12 @@
         "logo": ""
       },
       {
+        "name": "Nande Portetepe TV",
+        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Nandejara Ne'e TV",
         "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
@@ -159,12 +177,6 @@
         "logo": ""
       },
       {
-        "name": "Productiva TV",
-        "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Radio Colmenar 92.5 FM",
         "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
         "idVideo": "",
@@ -191,6 +203,12 @@
       {
         "name": "Red Digital (1080p) [Not 24/7]",
         "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Red Interior TV",
+        "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -251,6 +269,12 @@
       {
         "name": "Villa Elisa Radio TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Paravision",
+        "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
         "idVideo": "",
         "logo": ""
       },
