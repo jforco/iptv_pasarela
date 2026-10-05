@@ -99,6 +99,18 @@
         "logo": ""
       },
       {
+        "name": "Farra Play (720p) [Not 24/7]",
+        "url": "http://159.203.148.226/live/farra.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Farra Play (576p)",
+        "url": "https://stream.farra.com.py/live/farra_low.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "GO TV (720p)",
         "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "idVideo": "",
@@ -143,6 +155,12 @@
       {
         "name": "Monumental TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Nande Portetepe TV",
+        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -347,6 +365,12 @@
       {
         "name": "Unicanal",
         "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Tigo Sports+ (1080p) [Not 24/7]",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
