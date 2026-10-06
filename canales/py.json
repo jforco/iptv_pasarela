@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "AGR FM TV",
         "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
         "idVideo": "",
@@ -111,12 +105,6 @@
         "logo": ""
       },
       {
-        "name": "GO TV (720p)",
-        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "HEi Now (1080p)",
         "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -195,18 +183,6 @@
         "logo": ""
       },
       {
-        "name": "Oasis TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Occidental TV",
-        "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Popu TV (1080p)",
         "url": "http://190.108.83.69:8000/play/a070/index.m3u8",
         "idVideo": "",
@@ -251,18 +227,6 @@
       {
         "name": "RB TV (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "RCC TV (1080p) [Not 24/7]",
-        "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Red Digital (1080p) [Not 24/7]",
-        "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -369,12 +333,6 @@
         "logo": ""
       },
       {
-        "name": "Tigo Sports+ (1080p) [Not 24/7]",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Tigo Sports (1080p)",
         "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
         "idVideo": "",
@@ -395,6 +353,48 @@
       {
         "name": "Telefuturo (1080p)",
         "url": "http://158.172.217.18:8000/play/a0ns/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Productiva TV (1080p)",
+        "url": "http://190.128.214.97:64333/play/a04i/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Nanduti (1080p)",
+        "url": "http://190.128.214.97:64333/play/a02d/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Monumental TV (1080p)",
+        "url": "http://190.128.214.97:64333/play/a046/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "MiTV (1080p)",
+        "url": "http://190.128.214.97:64333/play/a02w/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Latele (1080p)",
+        "url": "http://190.128.214.97:64333/play/a03i/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Educanal (1080p)",
+        "url": "http://190.128.214.97:64333/play/a011/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "RCC TV",
+        "url": "https://xyktmobile00.s.gy/TICK_RCC",
         "idVideo": "",
         "logo": ""
       }
