@@ -21,6 +21,12 @@
         "logo": ""
       },
       {
+        "name": "Alt Media TV",
+        "url": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Bruno Masi TV (720p)",
         "url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
         "idVideo": "",
@@ -29,6 +35,12 @@
       {
         "name": "C9N (480p)",
         "url": "https://d174axghh54kh0.cloudfront.net/ts:abr.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "CAD TV",
+        "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -95,6 +107,12 @@
       {
         "name": "Farra Play (576p)",
         "url": "https://stream.farra.com.py/live/farra_low.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "GO TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -189,6 +207,12 @@
         "logo": ""
       },
       {
+        "name": "Oviedo TV",
+        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Popu TV (1080p)",
         "url": "http://190.108.83.69:8000/play/a070/index.m3u8",
         "idVideo": "",
@@ -245,6 +269,12 @@
       {
         "name": "Red Digital (1080p) [Not 24/7]",
         "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Red Interior TV",
+        "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -345,12 +375,6 @@
         "logo": ""
       },
       {
-        "name": "Tigo Sports (1080p)",
-        "url": "http://45.170.130.224:8000/play/a04k/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Paraguay TV (1080p)",
         "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
         "idVideo": "",
@@ -401,6 +425,12 @@
       {
         "name": "Latele (1080p)",
         "url": "http://190.128.214.97:64333/play/a03i/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Educanal (1080p)",
+        "url": "http://190.128.214.97:64333/play/a011/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
