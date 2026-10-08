@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "AGR FM TV",
         "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
         "idVideo": "",
@@ -17,12 +11,6 @@
       {
         "name": "Alcance FM PLAY TV",
         "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Alt Media TV",
-        "url": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -159,12 +147,6 @@
         "logo": ""
       },
       {
-        "name": "Nande Portetepe TV",
-        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Nandejara Ne'e TV",
         "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
@@ -191,12 +173,6 @@
       {
         "name": "NPY (1080p)",
         "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Oasis TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -437,6 +413,12 @@
       {
         "name": "TV Aire (1080p)",
         "url": "http://190.128.214.97:64333/play/a05y/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Tigo Sports",
+        "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
         "idVideo": "",
         "logo": ""
       }

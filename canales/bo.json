@@ -44,6 +44,29 @@
     ]
   },
   {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "LA PAZ",
+        "url": "",
+        "idVideo": "xa0fwio",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gnl3wOCRlUd/120x120"
+      },
+      {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gnl3wOCRlUd/120x120"
+      },
+      {
+        "name": "SCZ 2",
+        "url": "",
+        "idVideo": "xb0oth2",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gnl3wOCRlUd/120x120"
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
@@ -56,18 +79,7 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gncYsZy8BOs/120x120"
-      }
-    ]
-  },
-  {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "SCZ 2",
-        "url": "",
-        "idVideo": "xb0oth2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gnhjKnCsFLR/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gncYsZy8BOs/120x120"
       }
     ]
   },
@@ -78,13 +90,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gnerDRfm2zj/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gnl1-EJPmxj/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gnerDRfm2zj/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gnl1-EJPmxj/120x120"
       }
     ]
   },
@@ -188,12 +200,6 @@
         "logo": ""
       },
       {
-        "name": "Imperial TV (720p)",
-        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Palenque TV",
         "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
         "idVideo": "",
@@ -286,12 +292,6 @@
       {
         "name": "RTP",
         "url": "https://rtp.noxun.net/hls/stream.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "SPC Canal 15 (720p)",
-        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -398,14 +398,14 @@
         "logo": ""
       },
       {
-        "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
-        "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "name": "Univalle Televisión (1080p)",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
+        "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
+        "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
