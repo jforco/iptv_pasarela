@@ -123,12 +123,6 @@
         "logo": ""
       },
       {
-        "name": "MiTV (720p)",
-        "url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Monumental TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
@@ -161,6 +155,12 @@
       {
         "name": "NPY (1080p)",
         "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Oasis TV (720p)",
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -273,36 +273,6 @@
         "logo": ""
       },
       {
-        "name": "America Paraguay (720p)",
-        "url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Paravision",
-        "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "SUR TV Itapua",
-        "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV Camara (1080p)",
-        "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Trece",
-        "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Paraguay TV (1080p)",
         "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
         "idVideo": "",
@@ -341,12 +311,6 @@
       {
         "name": "Monumental TV (1080p)",
         "url": "http://190.128.214.97:64333/play/a046/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "MiTV (1080p)",
-        "url": "http://190.128.214.97:64333/play/a02w/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
