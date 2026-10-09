@@ -1,5 +1,16 @@
 [
   {
+    "name": "PAT",
+    "signals": [
+      {
+        "name": "Señal SCZ",
+        "url": "https://www.redpat.tv:8000/play/110/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "name": "Gigavision",
     "signals": [
       {
@@ -44,6 +55,35 @@
     ]
   },
   {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "Cbba 3",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1go4L3LYBQBj/120x120"
+      },
+      {
+        "name": "LA PAZ",
+        "url": "",
+        "idVideo": "xa0fwio",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1go4L3LYBQBj/120x120"
+      },
+      {
+        "name": "TEST",
+        "url": "",
+        "idVideo": "xbk01wa",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1go4L3LYBQBj/120x120"
+      },
+      {
+        "name": "SCZ 2",
+        "url": "",
+        "idVideo": "xb0oth2",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1go4L3LYBQBj/120x120"
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
@@ -61,36 +101,19 @@
     ]
   },
   {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "TEST",
-        "url": "",
-        "idVideo": "xbk01wa",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1go0MewlZTvM/120x120"
-      },
-      {
-        "name": "SCZ 2",
-        "url": "",
-        "idVideo": "xb0oth2",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1go0MewlZTvM/120x120"
-      }
-    ]
-  },
-  {
     "name": "BoliviaTV",
     "signals": [
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1go0ASFdgIX9/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1go4EC7SL-9a/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1go0ASFdgIX9/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1go4EC7SL-9a/120x120"
       }
     ]
   },
@@ -188,12 +211,6 @@
         "logo": ""
       },
       {
-        "name": "Imperial TV (720p)",
-        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Poder de Dios TV (720p)",
         "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
         "idVideo": "",
@@ -208,6 +225,12 @@
       {
         "name": "Radio Centro (720p)",
         "url": "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Clasica TV (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -362,6 +385,12 @@
         "logo": ""
       },
       {
+        "name": "Univalle Televisión (1080p)",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
         "idVideo": "",
@@ -376,12 +405,6 @@
       {
         "name": "Zuraca TV (720p)",
         "url": "https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Bolivia TV (720p) [Not 24/7]",
-        "url": "https://hls.tvabierta.net/hls/boliviatv.m3u8",
         "idVideo": "",
         "logo": ""
       },
