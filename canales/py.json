@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "AGR FM TV",
         "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
         "idVideo": "",
@@ -153,6 +147,12 @@
         "logo": ""
       },
       {
+        "name": "Nande Portetepe TV",
+        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Nandejara Ne'e TV",
         "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
@@ -195,6 +195,12 @@
         "logo": ""
       },
       {
+        "name": "Oviedo TV",
+        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Popu TV (1080p)",
         "url": "http://190.108.83.69:8000/play/a070/index.m3u8",
         "idVideo": "",
@@ -231,14 +237,14 @@
         "logo": ""
       },
       {
-        "name": "Radio TV El Arca del Pacto (1080p)",
-        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
+        "name": "RCC TV (1080p) [Not 24/7]",
+        "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "RCC TV (1080p) [Not 24/7]",
-        "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
+        "name": "Red Digital (1080p) [Not 24/7]",
+        "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -333,8 +339,8 @@
         "logo": ""
       },
       {
-        "name": "Unicanal",
-        "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+        "name": "Tigo Sports+ (1080p) [Not 24/7]",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
