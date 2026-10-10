@@ -339,6 +339,12 @@
         "logo": ""
       },
       {
+        "name": "America Paraguay (720p)",
+        "url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Paravision",
         "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
         "idVideo": "",
@@ -351,14 +357,20 @@
         "logo": ""
       },
       {
+        "name": "TV Camara (1080p)",
+        "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Trece",
         "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "Unicanal",
-        "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+        "name": "Tigo Sports+ (1080p) [Not 24/7]",
+        "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -425,12 +437,6 @@
       {
         "name": "TV Aire (1080p)",
         "url": "http://190.128.214.97:64333/play/a05y/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Tigo Sports",
-        "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
         "idVideo": "",
         "logo": ""
       }
