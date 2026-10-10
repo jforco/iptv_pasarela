@@ -81,12 +81,6 @@
         "logo": ""
       },
       {
-        "name": "Dismar Radio TV (720p)",
-        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "E40 (1080p)",
         "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
@@ -101,6 +95,12 @@
       {
         "name": "Farra Play (576p)",
         "url": "https://stream.farra.com.py/live/farra_low.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "GO TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -147,12 +147,6 @@
         "logo": ""
       },
       {
-        "name": "Nande Portetepe TV",
-        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Nandejara Ne'e TV",
         "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
@@ -179,12 +173,6 @@
       {
         "name": "NPY (1080p)",
         "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Oasis TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -233,6 +221,12 @@
       {
         "name": "Radio San Cristobal 88.7 FM",
         "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio TV El Arca del Pacto (1080p)",
+        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -339,6 +333,12 @@
         "logo": ""
       },
       {
+        "name": "Unicanal",
+        "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Tigo Sports+ (1080p) [Not 24/7]",
         "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
         "idVideo": "",
@@ -365,12 +365,6 @@
       {
         "name": "Regional TV Yaguaron (1080p)",
         "url": "http://190.128.214.97:64333/play/a05o/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Productiva TV (1080p)",
-        "url": "http://190.128.214.97:64333/play/a04i/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
