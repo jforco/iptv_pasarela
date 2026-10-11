@@ -81,12 +81,6 @@
         "logo": ""
       },
       {
-        "name": "Dismar Radio TV (720p)",
-        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "E40 (1080p)",
         "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
@@ -149,12 +143,6 @@
       {
         "name": "Monumental TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Nande Portetepe TV",
-        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -243,12 +231,6 @@
         "logo": ""
       },
       {
-        "name": "Radio TV El Arca del Pacto (1080p)",
-        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "RB TV (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
         "idVideo": "",
@@ -333,12 +315,6 @@
         "logo": ""
       },
       {
-        "name": "Villa Elisa Radio TV (1080p)",
-        "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "America Paraguay (720p)",
         "url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
         "idVideo": "",
@@ -365,12 +341,6 @@
       {
         "name": "Trece",
         "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Tigo Sports+ (1080p) [Not 24/7]",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
