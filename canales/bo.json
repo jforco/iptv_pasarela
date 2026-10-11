@@ -73,7 +73,7 @@
         "name": "SCZ 3",
         "url": "",
         "idVideo": "xbkgze2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gom89Lon49L/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gozsPjA-LFU/120x120"
       }
     ]
   },
@@ -84,13 +84,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1goqVkW9Gn5S/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gozh17v3212/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1goqVkW9Gn5S/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gozh17v3212/120x120"
       }
     ]
   },
@@ -142,6 +142,12 @@
       {
         "name": "Coral TV (720p)",
         "url": "https://tv.mediacp.eu:8081/coraltv/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Delta TV",
+        "url": "https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -238,6 +244,12 @@
       {
         "name": "Radio Universitaria San Andres (720p)",
         "url": "https://edge.enhdtv.com/8054/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Red ADvenir TV (360p) [Not 24/7]",
+        "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -388,12 +400,6 @@
       {
         "name": "Unifranz (720p)",
         "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
