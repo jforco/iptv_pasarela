@@ -3,14 +3,20 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "Alcance FM PLAY TV",
-        "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
+        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "Alt Media TV",
-        "url": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
+        "name": "AGR FM TV",
+        "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Alcance FM PLAY TV",
+        "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -243,12 +249,6 @@
         "logo": ""
       },
       {
-        "name": "Red Interior TV",
-        "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Regional TV Yaguaron (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
         "idVideo": "",
@@ -267,6 +267,12 @@
         "logo": ""
       },
       {
+        "name": "Suceso TV (720p) [Not 24/7]",
+        "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Telefuturo (1080p)",
         "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
         "idVideo": "",
@@ -275,12 +281,6 @@
       {
         "name": "TV Aire",
         "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV Canindeyu (1080p)",
-        "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -299,12 +299,6 @@
       {
         "name": "Venus Media (1080p)",
         "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Villa Elisa Radio TV (1080p)",
-        "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
         "idVideo": "",
         "logo": ""
       },
@@ -335,6 +329,12 @@
       {
         "name": "Trece",
         "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Paraguay TV (1080p)",
+        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
         "idVideo": "",
         "logo": ""
       },
