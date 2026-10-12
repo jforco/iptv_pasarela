@@ -225,6 +225,12 @@
         "logo": ""
       },
       {
+        "name": "RB TV (1080p)",
+        "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "RCC TV (1080p) [Not 24/7]",
         "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -285,6 +291,12 @@
         "logo": ""
       },
       {
+        "name": "UniRadio TV (1080p)",
+        "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Venus Media (1080p)",
         "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
         "idVideo": "",
@@ -323,24 +335,6 @@
       {
         "name": "Trece",
         "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unicanal",
-        "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Tigo Sports+ (1080p) [Not 24/7]",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/events2py/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Paraguay TV (1080p)",
-        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
         "idVideo": "",
         "logo": ""
       },
