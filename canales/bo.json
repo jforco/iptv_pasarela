@@ -56,19 +56,19 @@
         "name": "LA PAZ 2",
         "url": "",
         "idVideo": "xa0fwio",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gpPK6iNzqyW/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gpW4aKpUuzQ/120x120"
       },
       {
         "name": "Cbba 4",
         "url": "",
         "idVideo": "xa0qka8",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gpPK6iNzqyW/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gpW4aKpUuzQ/120x120"
       },
       {
         "name": "SCZ 3",
         "url": "",
         "idVideo": "xbkgze2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gpPK6iNzqyW/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gpW4aKpUuzQ/120x120"
       }
     ]
   },
@@ -85,7 +85,7 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gpGN8dK9vV-/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gpGN8dK9vV-/120x120"
       }
     ]
   },
@@ -96,13 +96,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gpOesM4Vjj0/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gpTmdqbYzZD/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gpOesM4Vjj0/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gpTmdqbYzZD/120x120"
       }
     ]
   },
@@ -148,12 +148,6 @@
       {
         "name": "Canal 56 Quiero TV (720p)",
         "url": "http://45.5.118.152:8000/play/a08z/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "CEACOM TV (1080p) [Not 24/7]",
-        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -212,20 +206,8 @@
         "logo": ""
       },
       {
-        "name": "Imperial TV (720p)",
-        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Palenque TV",
         "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Poder de Dios TV (720p)",
-        "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -250,12 +232,6 @@
       {
         "name": "Radio Kollasuyo (720p)",
         "url": "https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Radio Mega TV Amazonia (720p)",
-        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -430,12 +406,6 @@
       {
         "name": "Unitel Santa Cruz (720p)",
         "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Univalle Televisión (1080p)",
-        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
