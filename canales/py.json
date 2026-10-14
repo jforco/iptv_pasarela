@@ -39,12 +39,6 @@
         "logo": ""
       },
       {
-        "name": "Canal 5 TV Max (1080p)",
-        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Canal 8 C&C Producciones",
         "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
         "idVideo": "",
@@ -101,12 +95,6 @@
       {
         "name": "Farra Play (576p)",
         "url": "https://stream.farra.com.py/live/farra_low.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "GO TV (720p)",
-        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -197,6 +185,12 @@
       {
         "name": "Occidental TV",
         "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Oviedo TV",
+        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -303,12 +297,6 @@
         "logo": ""
       },
       {
-        "name": "UniRadio TV (1080p)",
-        "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Venus Media (1080p)",
         "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
         "idVideo": "",
@@ -317,36 +305,6 @@
       {
         "name": "Villa Elisa Radio TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "America Paraguay (720p)",
-        "url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Paravision",
-        "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "SUR TV Itapua",
-        "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV Camara (1080p)",
-        "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Trece",
-        "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
         "idVideo": "",
         "logo": ""
       },
