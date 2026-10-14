@@ -3,6 +3,12 @@
     "name": "Otros Canales",
     "signals": [
       {
+        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "AGR FM TV",
         "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
         "idVideo": "",
@@ -99,6 +105,12 @@
         "logo": ""
       },
       {
+        "name": "GO TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "HEi Now (1080p)",
         "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -177,6 +189,12 @@
         "logo": ""
       },
       {
+        "name": "Oasis TV (720p)",
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Occidental TV",
         "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
         "idVideo": "",
@@ -197,6 +215,12 @@
       {
         "name": "Productiva TV",
         "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Colmenar 92.5 FM",
+        "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -243,6 +267,12 @@
         "logo": ""
       },
       {
+        "name": "República TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Suceso TV (720p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
         "idVideo": "",
@@ -251,6 +281,12 @@
       {
         "name": "Telefuturo (1080p)",
         "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TV Aire",
+        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -309,8 +345,8 @@
         "logo": ""
       },
       {
-        "name": "Unicanal",
-        "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+        "name": "Trece",
+        "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
         "idVideo": "",
         "logo": ""
       },
@@ -333,6 +369,12 @@
         "logo": ""
       },
       {
+        "name": "Regional TV Yaguaron (1080p)",
+        "url": "http://190.128.214.97:64333/play/a05o/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Productiva TV (1080p)",
         "url": "http://190.128.214.97:64333/play/a04i/index.m3u8",
         "idVideo": "",
@@ -345,14 +387,32 @@
         "logo": ""
       },
       {
+        "name": "Monumental TV (1080p)",
+        "url": "http://190.128.214.97:64333/play/a046/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "MiTV (1080p)",
         "url": "http://190.128.214.97:64333/play/a02w/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
+        "name": "Latele (1080p)",
+        "url": "http://190.128.214.97:64333/play/a03i/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Educanal (1080p)",
         "url": "http://190.128.214.97:64333/play/a011/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TV Aire (1080p)",
+        "url": "http://190.128.214.97:64333/play/a05y/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
