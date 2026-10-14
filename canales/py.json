@@ -141,12 +141,6 @@
         "logo": ""
       },
       {
-        "name": "Nande Portetepe TV",
-        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Nandejara Ne'e TV",
         "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
@@ -185,12 +179,6 @@
       {
         "name": "Occidental TV",
         "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Oviedo TV",
-        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -279,12 +267,6 @@
         "logo": ""
       },
       {
-        "name": "TV Aire",
-        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "TV Canindeyu (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
         "idVideo": "",
@@ -297,6 +279,12 @@
         "logo": ""
       },
       {
+        "name": "UniRadio TV (1080p)",
+        "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Venus Media (1080p)",
         "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
         "idVideo": "",
@@ -305,6 +293,42 @@
       {
         "name": "Villa Elisa Radio TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "America Paraguay (720p)",
+        "url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Paravision",
+        "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "SUR TV Itapua",
+        "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TV Camara (1080p)",
+        "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Trece",
+        "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unicanal",
+        "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
         "idVideo": "",
         "logo": ""
       },
@@ -365,12 +389,6 @@
       {
         "name": "Educanal (1080p)",
         "url": "http://190.128.214.97:64333/play/a011/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV Aire (1080p)",
-        "url": "http://190.128.214.97:64333/play/a05y/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
