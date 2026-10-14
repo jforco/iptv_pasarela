@@ -11,17 +11,6 @@
     ]
   },
   {
-    "name": "Cadena A",
-    "signals": [
-      {
-        "name": "Señal en vivo",
-        "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "name": "RTP",
     "signals": [
       {
@@ -40,29 +29,6 @@
         "url": "https://vs20.live.opencaster.com/nicolas_0eb1f82e/index.m3u8",
         "idVideo": "",
         "logo": ""
-      }
-    ]
-  },
-  {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "SCZ 3",
-        "url": "",
-        "idVideo": "xbkgze2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gpjdub3a-Dt/120x120"
-      },
-      {
-        "name": "Cbba 4",
-        "url": "",
-        "idVideo": "xa0qka8",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gpjdub3a-Dt/120x120"
-      },
-      {
-        "name": "LA PAZ 2",
-        "url": "",
-        "idVideo": "xa0fwio",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gpjdub3a-Dt/120x120"
       }
     ]
   },
@@ -90,13 +56,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gpikhYU3tNc/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gpoDT2fWW3T/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gpikhYU3tNc/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gpoDT2fWW3T/120x120"
       }
     ]
   },
@@ -146,12 +112,6 @@
         "logo": ""
       },
       {
-        "name": "CEACOM TV (1080p) [Not 24/7]",
-        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Coral TV (720p)",
         "url": "https://tv.mediacp.eu:8081/coraltv/index.m3u8",
         "idVideo": "",
@@ -182,12 +142,6 @@
         "logo": ""
       },
       {
-        "name": "FAP TV (720p)",
-        "url": "https://edge.enhdtv.com/faptv/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "FAP TV (480p)",
         "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
         "idVideo": "",
@@ -206,14 +160,14 @@
         "logo": ""
       },
       {
-        "name": "Imperial TV (720p)",
-        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
+        "name": "Poder de Dios TV (720p)",
+        "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "Poder de Dios TV (720p)",
-        "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
+        "name": "PTV (720p)",
+        "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -244,12 +198,6 @@
       {
         "name": "Red ADvenir TV (360p) [Not 24/7]",
         "url": "http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Red America TV (1080p)",
-        "url": "https://edge.enhdtv.com/redamerica/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -344,12 +292,6 @@
         "logo": ""
       },
       {
-        "name": "TV OFF (1080p)",
-        "url": "https://edge.enhdtv.com/tvoff/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "TVU Sucre (720p)",
         "url": "https://edge.enhdtv.com/8214/index.m3u8",
         "idVideo": "",
@@ -388,12 +330,6 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
