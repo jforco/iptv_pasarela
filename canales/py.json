@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "AGR FM TV",
         "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
         "idVideo": "",
@@ -53,12 +47,6 @@
       {
         "name": "Canal Pro",
         "url": "https://www.desde-paraguay.com/pro.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Cáritas TV (1080p)",
-        "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -171,14 +159,14 @@
         "logo": ""
       },
       {
-        "name": "Oasis TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "name": "Occidental TV",
+        "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "Occidental TV",
-        "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+        "name": "Oviedo TV",
+        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
         "idVideo": "",
         "logo": ""
       },
