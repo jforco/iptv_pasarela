@@ -3,6 +3,12 @@
     "name": "Otros Canales",
     "signals": [
       {
+        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "AGR FM TV",
         "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
         "idVideo": "",
@@ -27,14 +33,32 @@
         "logo": ""
       },
       {
+        "name": "Canal 5 TV Max (1080p)",
+        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Canal 8 C&C Producciones",
         "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
+        "name": "Canal 8 Vision TV (1080p)",
+        "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Canal Pro",
         "url": "https://www.desde-paraguay.com/pro.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Cáritas TV (1080p)",
+        "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -71,6 +95,12 @@
       {
         "name": "Farra Play (576p)",
         "url": "https://stream.farra.com.py/live/farra_low.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "GO TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -117,6 +147,12 @@
         "logo": ""
       },
       {
+        "name": "Nande Portetepe TV",
+        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Nandejara Ne'e TV",
         "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
@@ -147,14 +183,14 @@
         "logo": ""
       },
       {
-        "name": "Occidental TV",
-        "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+        "name": "Oasis TV (720p)",
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "Oviedo TV",
-        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+        "name": "Occidental TV",
+        "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -201,6 +237,12 @@
         "logo": ""
       },
       {
+        "name": "RB TV (1080p)",
+        "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "RCC TV (1080p) [Not 24/7]",
         "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -243,6 +285,12 @@
         "logo": ""
       },
       {
+        "name": "TV Aire",
+        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "TV Canindeyu (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
         "idVideo": "",
@@ -251,12 +299,6 @@
       {
         "name": "UnionTV",
         "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UniRadio TV (1080p)",
-        "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -305,12 +347,6 @@
       {
         "name": "Unicanal",
         "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Paraguay TV (1080p)",
-        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -365,6 +401,12 @@
       {
         "name": "Educanal (1080p)",
         "url": "http://190.128.214.97:64333/play/a011/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TV Aire (1080p)",
+        "url": "http://190.128.214.97:64333/play/a05y/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
