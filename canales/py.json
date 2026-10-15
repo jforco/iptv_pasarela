@@ -87,18 +87,6 @@
         "logo": ""
       },
       {
-        "name": "Farra Play (720p) [Not 24/7]",
-        "url": "http://159.203.148.226/live/farra.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Farra Play (576p)",
-        "url": "https://stream.farra.com.py/live/farra_low.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "GO TV (720p)",
         "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "idVideo": "",
@@ -143,6 +131,12 @@
       {
         "name": "Monumental TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Nande Portetepe TV",
+        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -209,12 +203,6 @@
       {
         "name": "Productiva TV",
         "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Radio Colmenar 92.5 FM",
-        "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -419,6 +407,12 @@
       {
         "name": "TV Aire (1080p)",
         "url": "http://190.128.214.97:64333/play/a05y/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Tigo Sports",
+        "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
         "idVideo": "",
         "logo": ""
       }
