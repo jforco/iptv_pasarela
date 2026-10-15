@@ -87,12 +87,6 @@
         "logo": ""
       },
       {
-        "name": "GO TV (720p)",
-        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "HEi Now (1080p)",
         "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -203,6 +197,12 @@
       {
         "name": "Productiva TV",
         "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Colmenar 92.5 FM",
+        "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
         "idVideo": "",
         "logo": ""
       },

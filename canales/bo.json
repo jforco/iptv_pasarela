@@ -1,5 +1,16 @@
 [
   {
+    "name": "PAT",
+    "signals": [
+      {
+        "name": "Señal SCZ",
+        "url": "https://www.redpat.tv:8000/play/110/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "name": "Gigavision",
     "signals": [
       {
@@ -50,13 +61,36 @@
     ]
   },
   {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "Cbba 4",
+        "url": "",
+        "idVideo": "xa0qka8",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gqLrqRFjjkN/120x120"
+      },
+      {
+        "name": "LA PAZ 2",
+        "url": "",
+        "idVideo": "xa0fwio",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gqLrqRFjjkN/120x120"
+      },
+      {
+        "name": "SCZ 3",
+        "url": "",
+        "idVideo": "xbkgze2",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gqLrqRFjjkN/120x120"
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gqFBJTGEDvz/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gqFBJTGEDvz/120x120"
       },
       {
         "name": "Atb Cochabamba",
@@ -67,42 +101,25 @@
     ]
   },
   {
-    "name": "Red Uno",
-    "signals": [
-      {
-        "name": "SCZ 3",
-        "url": "",
-        "idVideo": "xbkgze2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gqJk53RaUaf/120x120"
-      }
-    ]
-  },
-  {
     "name": "BoliviaTV",
     "signals": [
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gqJSGInmMDt/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gqJw3f--Exu/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gqJSGInmMDt/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gqJw3f--Exu/120x120"
       }
     ]
   },
   {
     "name": "Otros Canales",
     "signals": [
-      {
-        "name": "Alegria TV (720p)",
-        "url": "https://lbgo.bozztv.com/ssh101/ssh101/confirmatv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
       {
         "name": "Amitel TV (720p)",
         "url": "https://stv2.boliviaplay.com.bo/hls/stream.m3u8",
@@ -226,12 +243,6 @@
       {
         "name": "Radio Centro (720p)",
         "url": "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Radio Clasica TV (720p)",
-        "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -406,6 +417,30 @@
       {
         "name": "Unifranz (720p)",
         "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel Cochabamba (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel La Paz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel Santa Cruz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Univalle Televisión (1080p)",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
