@@ -1,16 +1,5 @@
 [
   {
-    "name": "PAT",
-    "signals": [
-      {
-        "name": "Señal SCZ",
-        "url": "https://www.redpat.tv:8000/play/110/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "name": "Gigavision",
     "signals": [
       {
@@ -67,19 +56,19 @@
         "name": "Cbba 4",
         "url": "",
         "idVideo": "xa0qka8",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gqLrqRFjjkN/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gqP14Yjg0zy/120x120"
       },
       {
         "name": "LA PAZ 2",
         "url": "",
         "idVideo": "xa0fwio",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gqLrqRFjjkN/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gqP14Yjg0zy/120x120"
       },
       {
         "name": "SCZ 3",
         "url": "",
         "idVideo": "xbkgze2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gqLrqRFjjkN/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gqP14Yjg0zy/120x120"
       }
     ]
   },
@@ -107,13 +96,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gqJw3f--Exu/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gqNtHD7hHAO/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gqJw3f--Exu/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gqNtHD7hHAO/120x120"
       }
     ]
   },
@@ -223,12 +212,6 @@
         "logo": ""
       },
       {
-        "name": "Palenque TV",
-        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Poder de Dios TV (720p)",
         "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
         "idVideo": "",
@@ -243,6 +226,12 @@
       {
         "name": "Radio Centro (720p)",
         "url": "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Clasica TV (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -309,12 +298,6 @@
       {
         "name": "RTP",
         "url": "https://rtp.noxun.net/hls/stream.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "SPC Canal 15 (720p)",
-        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -447,6 +430,12 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UPEA TV (720p)",
+        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },
