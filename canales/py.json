@@ -69,6 +69,12 @@
         "logo": ""
       },
       {
+        "name": "Dismar Radio TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "HEi Now (1080p)",
         "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
         "idVideo": "",
