@@ -50,6 +50,17 @@
     ]
   },
   {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "SCZ 3",
+        "url": "",
+        "idVideo": "xbkgze2",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gr1qMrTCNbY/120x120"
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
@@ -62,7 +73,7 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gqiP0T-cuoQ/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gqiP0T-cuoQ/120x120"
       }
     ]
   },
@@ -73,13 +84,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gr35W2QydNE/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1grD9bAiYl2w/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gr35W2QydNE/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1grD9bAiYl2w/120x120"
       }
     ]
   },
@@ -119,6 +130,12 @@
       {
         "name": "Canal 56 Quiero TV (720p)",
         "url": "http://45.5.118.152:8000/play/a08z/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "CEACOM TV (1080p) [Not 24/7]",
+        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -177,6 +194,12 @@
         "logo": ""
       },
       {
+        "name": "Imperial TV (720p)",
+        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Palenque TV",
         "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
         "idVideo": "",
@@ -213,6 +236,12 @@
         "logo": ""
       },
       {
+        "name": "Radio Mega TV Amazonia (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Radio Universitaria San Andres (720p)",
         "url": "https://edge.enhdtv.com/8054/index.m3u8",
         "idVideo": "",
@@ -225,6 +254,12 @@
         "logo": ""
       },
       {
+        "name": "Red CCTV",
+        "url": "https://ares.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Red Rubi (720p)",
         "url": "https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8",
         "idVideo": "",
@@ -233,6 +268,12 @@
       {
         "name": "Red TV Shop (720p)",
         "url": "https://master.tucableip.com/redtvshop/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Red Uno (720p)",
+        "url": "https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -281,6 +322,12 @@
       {
         "name": "Tigo Sports (720p) [Geo-blocked]",
         "url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TL Estrella (720p)",
+        "url": "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -357,12 +404,6 @@
         "logo": ""
       },
       {
-        "name": "Univalle Televisión (1080p)",
-        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
         "idVideo": "",
@@ -371,12 +412,6 @@
       {
         "name": "UPEA TV (720p)",
         "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Vos TV",
-        "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
