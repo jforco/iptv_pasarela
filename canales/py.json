@@ -75,6 +75,12 @@
         "logo": ""
       },
       {
+        "name": "E40 (1080p)",
+        "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "GO TV (720p)",
         "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "idVideo": "",
@@ -221,12 +227,6 @@
       {
         "name": "Red Digital (1080p) [Not 24/7]",
         "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Red Interior TV",
-        "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
         "idVideo": "",
         "logo": ""
       },
