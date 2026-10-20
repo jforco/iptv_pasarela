@@ -73,19 +73,19 @@
         "name": "LA PAZ 2",
         "url": "",
         "idVideo": "xa0fwio",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1grfIpJlcY_s/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1grh_cBcvDtm/120x120"
       },
       {
         "name": "Cochabamba 2",
         "url": "",
         "idVideo": "x9mlxpe",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1grfIpJlcY_s/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1grh_cBcvDtm/120x120"
       },
       {
         "name": "SCZ 3",
         "url": "",
         "idVideo": "xbkgze2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1grfIpJlcY_s/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1grh_cBcvDtm/120x120"
       }
     ]
   },
@@ -96,7 +96,7 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1graIkwdj0mU/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1graIkwdj0mU/120x120"
       },
       {
         "name": "ATB BOLIVIA",
@@ -113,13 +113,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1greMfcEjXBQ/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1grh_u6PfBVf/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1greMfcEjXBQ/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1grh_u6PfBVf/120x120"
       }
     ]
   },
@@ -207,12 +207,6 @@
       {
         "name": "FAP TV (480p)",
         "url": "https://nd106.republicaservers.com/hls/c7284/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "FTV (720p)",
-        "url": "https://master.tucableip.com/ftvhd/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -367,12 +361,6 @@
         "logo": ""
       },
       {
-        "name": "TL Estrella (720p)",
-        "url": "https://59d39900ebfb8.streamlock.net/teleestrella/teleestrella/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "TransMedia (720p)",
         "url": "https://edge.enhdtv.com/8064/index.m3u8",
         "idVideo": "",
@@ -439,20 +427,8 @@
         "logo": ""
       },
       {
-        "name": "Unitel Cochabamba (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel La Paz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
+        "name": "Univalle Televisión (1080p)",
+        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -465,12 +441,6 @@
       {
         "name": "UPEA TV (720p)",
         "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Vos TV",
-        "url": "https://59d39900ebfb8.streamlock.net/vostv/vostv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
