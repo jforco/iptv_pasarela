@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "AGR FM TV",
-        "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Alcance FM PLAY TV",
         "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
         "idVideo": "",
@@ -35,12 +29,6 @@
       {
         "name": "Canal 5 TV Max (1080p)",
         "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Canal 8 C&C Producciones",
-        "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -81,6 +69,12 @@
         "logo": ""
       },
       {
+        "name": "E40 (1080p)",
+        "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "HEi Now (1080p)",
         "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -89,6 +83,12 @@
       {
         "name": "Invasiva TV (720p)",
         "url": "https://tv-omega-nine.vercel.app/hls/live.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Latele (1080p)",
+        "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
         "logo": ""
       },
@@ -107,6 +107,12 @@
       {
         "name": "MiTV (720p)",
         "url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Monumental TV (1080p)",
+        "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
         "logo": ""
       },
@@ -131,6 +137,12 @@
       {
         "name": "Next HD (480p)",
         "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "NPY (1080p)",
+        "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
         "logo": ""
       },
@@ -177,6 +189,12 @@
         "logo": ""
       },
       {
+        "name": "RCC TV (1080p) [Not 24/7]",
+        "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Red Digital (1080p) [Not 24/7]",
         "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
         "idVideo": "",
@@ -203,6 +221,12 @@
       {
         "name": "Suceso TV (720p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Telefuturo (1080p)",
+        "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
