@@ -81,18 +81,6 @@
         "logo": ""
       },
       {
-        "name": "E40 (1080p)",
-        "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "GO TV (720p)",
-        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "HEi Now (1080p)",
         "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -101,12 +89,6 @@
       {
         "name": "Invasiva TV (720p)",
         "url": "https://tv-omega-nine.vercel.app/hls/live.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Latele (1080p)",
-        "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
         "logo": ""
       },
@@ -125,12 +107,6 @@
       {
         "name": "MiTV (720p)",
         "url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Monumental TV (1080p)",
-        "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
         "logo": ""
       },
@@ -159,18 +135,6 @@
         "logo": ""
       },
       {
-        "name": "NPY (1080p)",
-        "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Oasis TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Occidental TV",
         "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
         "idVideo": "",
@@ -179,18 +143,6 @@
       {
         "name": "Oviedo TV",
         "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Popu TV (1080p)",
-        "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Productiva TV",
-        "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
         "idVideo": "",
         "logo": ""
       },
@@ -225,12 +177,6 @@
         "logo": ""
       },
       {
-        "name": "RCC TV (1080p) [Not 24/7]",
-        "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Red Digital (1080p) [Not 24/7]",
         "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
         "idVideo": "",
@@ -257,12 +203,6 @@
       {
         "name": "Suceso TV (720p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Telefuturo (1080p)",
-        "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -359,12 +299,6 @@
       {
         "name": "Regional TV Yaguaron (1080p)",
         "url": "http://190.128.214.97:64333/play/a05o/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Productiva TV (1080p)",
-        "url": "http://190.128.214.97:64333/play/a04i/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
