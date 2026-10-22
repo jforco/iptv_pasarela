@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "AGR FM TV",
         "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
         "idVideo": "",
@@ -183,6 +177,12 @@
         "logo": ""
       },
       {
+        "name": "Oasis TV (720p)",
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Occidental TV",
         "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
         "idVideo": "",
@@ -225,8 +225,8 @@
         "logo": ""
       },
       {
-        "name": "RB TV (1080p)",
-        "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
+        "name": "Radio TV El Arca del Pacto (1080p)",
+        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -299,12 +299,6 @@
       {
         "name": "Venus Media (1080p)",
         "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Villa Elisa Radio TV (1080p)",
-        "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
         "idVideo": "",
         "logo": ""
       },
@@ -407,6 +401,12 @@
       {
         "name": "TV Aire (1080p)",
         "url": "http://190.128.214.97:64333/play/a05y/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Tigo Sports",
+        "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
         "idVideo": "",
         "logo": ""
       }
