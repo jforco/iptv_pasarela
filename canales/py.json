@@ -3,6 +3,12 @@
     "name": "Otros Canales",
     "signals": [
       {
+        "name": "AGR FM TV",
+        "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Alcance FM PLAY TV",
         "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
         "idVideo": "",
@@ -71,18 +77,6 @@
       {
         "name": "E40 (1080p)",
         "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Farra Play (720p) [Not 24/7]",
-        "url": "http://159.203.148.226/live/farra.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Farra Play (576p)",
-        "url": "https://stream.farra.com.py/live/farra_low.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -311,6 +305,12 @@
       {
         "name": "Unicanal",
         "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Paraguay TV (1080p)",
+        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
         "idVideo": "",
         "logo": ""
       },

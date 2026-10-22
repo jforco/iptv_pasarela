@@ -17,6 +17,17 @@
     ]
   },
   {
+    "name": "Cadena A",
+    "signals": [
+      {
+        "name": "Señal en vivo",
+        "url": "https://5fe2654d6127d.streamlock.net:443/cadenaa/videocadenaa/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "name": "RTP",
     "signals": [
       {
@@ -39,13 +50,36 @@
     ]
   },
   {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "SCZ 3",
+        "url": "",
+        "idVideo": "xbkgze2",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gsUGyBUV1L5/120x120"
+      },
+      {
+        "name": "LA PAZ 2",
+        "url": "",
+        "idVideo": "xa0fwio",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gsUGyBUV1L5/120x120"
+      },
+      {
+        "name": "CBBA 5",
+        "url": "",
+        "idVideo": "xbpxgda",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gsUGyBUV1L5/120x120"
+      }
+    ]
+  },
+  {
     "name": "ATB Bolivia",
     "signals": [
       {
         "name": "ATB BOLIVIA",
         "url": "",
         "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gsKl8y7v6rC/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gsKl8y7v6rC/120x120"
       },
       {
         "name": "Atb Cochabamba",
@@ -62,13 +96,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gsQ1ZCkA558/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gsRNmEUunKT/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gsQ1ZCkA558/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gsRNmEUunKT/120x120"
       }
     ]
   },
@@ -108,6 +142,12 @@
       {
         "name": "Canal 56 Quiero TV (720p)",
         "url": "http://45.5.118.152:8000/play/a08z/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "CEACOM TV (1080p) [Not 24/7]",
+        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -166,6 +206,12 @@
         "logo": ""
       },
       {
+        "name": "Imperial TV (720p)",
+        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Palenque TV",
         "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
         "idVideo": "",
@@ -186,6 +232,12 @@
       {
         "name": "Radio Centro (720p)",
         "url": "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Clasica TV (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -228,6 +280,12 @@
       {
         "name": "Red TV Shop (720p)",
         "url": "https://master.tucableip.com/redtvshop/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Red Uno (720p)",
+        "url": "https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -346,8 +404,20 @@
         "logo": ""
       },
       {
-        "name": "Univalle Televisión (1080p)",
-        "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
+        "name": "Unitel Cochabamba (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel La Paz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel Santa Cruz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
