@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "AGR FM TV",
-        "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Alcance FM PLAY TV",
         "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
         "idVideo": "",
@@ -71,12 +65,6 @@
       {
         "name": "Del Rey TV (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Dismar Radio TV (720p)",
-        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -177,12 +165,6 @@
         "logo": ""
       },
       {
-        "name": "Oasis TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Occidental TV",
         "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
         "idVideo": "",
@@ -245,12 +227,6 @@
       {
         "name": "Red Interior TV",
         "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Regional TV Yaguaron (1080p)",
-        "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -339,12 +315,6 @@
         "logo": ""
       },
       {
-        "name": "Paraguay TV (1080p)",
-        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "TV Camara (1080p)",
         "url": "http://158.172.217.18:8000/play/a00m/index.m3u8",
         "idVideo": "",
@@ -353,12 +323,6 @@
       {
         "name": "Telefuturo (1080p)",
         "url": "http://158.172.217.18:8000/play/a0ns/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Regional TV Yaguaron (1080p)",
-        "url": "http://190.128.214.97:64333/play/a05o/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
