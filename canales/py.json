@@ -15,6 +15,12 @@
         "logo": ""
       },
       {
+        "name": "Alt Media TV",
+        "url": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "CAD TV",
         "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
         "idVideo": "",
@@ -29,6 +35,12 @@
       {
         "name": "Canal 8 C&C Producciones",
         "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Canal 8 Vision TV (1080p)",
+        "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -129,6 +141,12 @@
         "logo": ""
       },
       {
+        "name": "Nande Portetepe TV",
+        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Nandejara Ne'e TV",
         "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
@@ -147,14 +165,14 @@
         "logo": ""
       },
       {
-        "name": "Next HD (480p)",
-        "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
+        "name": "NPY (1080p)",
+        "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "NPY (1080p)",
-        "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
+        "name": "Oasis TV (720p)",
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -191,12 +209,6 @@
       {
         "name": "Radio San Cristobal 88.7 FM",
         "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Radio TV El Arca del Pacto (1080p)",
-        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -329,48 +341,6 @@
       {
         "name": "Telefuturo (1080p)",
         "url": "http://158.172.217.18:8000/play/a0ns/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Regional TV Yaguaron (1080p)",
-        "url": "http://190.128.214.97:64333/play/a05o/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Nanduti (1080p)",
-        "url": "http://190.128.214.97:64333/play/a02d/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Monumental TV (1080p)",
-        "url": "http://190.128.214.97:64333/play/a046/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "MiTV (1080p)",
-        "url": "http://190.128.214.97:64333/play/a02w/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Latele (1080p)",
-        "url": "http://190.128.214.97:64333/play/a03i/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Educanal (1080p)",
-        "url": "http://190.128.214.97:64333/play/a011/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV Aire (1080p)",
-        "url": "http://190.128.214.97:64333/play/a05y/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
