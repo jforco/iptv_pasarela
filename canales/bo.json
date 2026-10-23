@@ -1,5 +1,22 @@
 [
   {
+    "name": "PAT",
+    "signals": [
+      {
+        "name": "Señal SCZ",
+        "url": "https://www.redpat.tv:8000/play/110/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Señal LPZ",
+        "url": "https://www.redpat.tv:8000/play/12/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      }
+    ]
+  },
+  {
     "name": "Gigavision",
     "signals": [
       {
@@ -53,10 +70,16 @@
     "name": "ATB Bolivia",
     "signals": [
       {
+        "name": "ATB BOLIVIA",
+        "url": "",
+        "idVideo": "x84eirw",
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gsuupAdV3pp/120x120"
+      },
+      {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1gsuupAdV3pp/120x120"
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gsuupAdV3pp/120x120"
       }
     ]
   },
@@ -64,22 +87,10 @@
     "name": "Red Uno",
     "signals": [
       {
-        "name": "LA PAZ 2",
-        "url": "",
-        "idVideo": "xa0fwio",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gswap77Qxsp/120x120"
-      },
-      {
-        "name": "CBBA 5",
-        "url": "",
-        "idVideo": "xbpxgda",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gswap77Qxsp/120x120"
-      },
-      {
         "name": "SCZ 3",
         "url": "",
         "idVideo": "xbkgze2",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1gswap77Qxsp/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gsykgLu8kF5/120x120"
       }
     ]
   },
@@ -112,6 +123,12 @@
       {
         "name": "As Contenidos (720p)",
         "url": "https://master.tucableip.com/ascontenido/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "ATB La Paz",
+        "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -208,6 +225,12 @@
       {
         "name": "Poder de Dios TV (720p)",
         "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "PTV (720p)",
+        "url": "https://giatv.bozztv.com/giatv/giatv-PTVonLINE/PTVonLINE/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -380,18 +403,6 @@
         "logo": ""
       },
       {
-        "name": "Unifranz (720p)",
-        "url": "https://edge.enhdtv.com/8192/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unifranz (720p)",
-        "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Univalle Televisión (1080p)",
         "url": "https://master.tucableip.com/univalletv/playlist.m3u8",
         "idVideo": "",
@@ -400,12 +411,6 @@
       {
         "name": "UniversidadMayordeSanAndres (1080p) [Not 24/7]",
         "url": "https://live.enhdtv.com:8081/8190/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UPEA TV (720p)",
-        "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
         "idVideo": "",
         "logo": ""
       },

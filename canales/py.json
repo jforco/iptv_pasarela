@@ -363,18 +363,6 @@
         "logo": ""
       },
       {
-        "name": "TV Camara (1080p)",
-        "url": "http://158.172.217.18:8000/play/a00m/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Telefuturo (1080p)",
-        "url": "http://158.172.217.18:8000/play/a0ns/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Regional TV Yaguaron (1080p)",
         "url": "http://190.128.214.97:64333/play/a05o/index.m3u8",
         "idVideo": "",
