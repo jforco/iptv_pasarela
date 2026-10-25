@@ -177,6 +177,12 @@
         "logo": ""
       },
       {
+        "name": "Oviedo TV",
+        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Popu TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -231,20 +237,8 @@
         "logo": ""
       },
       {
-        "name": "Red Interior TV",
-        "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Regional TV Yaguaron (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "República TV (720p)",
-        "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
