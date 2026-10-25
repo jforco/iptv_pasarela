@@ -87,12 +87,6 @@
         "logo": ""
       },
       {
-        "name": "GO TV (720p)",
-        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "HEi Now (1080p)",
         "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -243,6 +237,12 @@
         "logo": ""
       },
       {
+        "name": "Red Interior TV",
+        "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Regional TV Yaguaron (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
         "idVideo": "",
@@ -365,12 +365,6 @@
       {
         "name": "Monumental TV (1080p)",
         "url": "http://190.128.214.97:64333/play/a046/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "MiTV (1080p)",
-        "url": "http://190.128.214.97:64333/play/a02w/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
