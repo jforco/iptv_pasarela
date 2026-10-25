@@ -3,6 +3,12 @@
     "name": "Otros Canales",
     "signals": [
       {
+        "name": "AGR FM TV",
+        "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Alcance FM PLAY TV",
         "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
         "idVideo": "",
@@ -215,12 +221,6 @@
       {
         "name": "Radio TV El Arca del Pacto (1080p)",
         "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "RB TV (1080p)",
-        "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
         "idVideo": "",
         "logo": ""
       },
