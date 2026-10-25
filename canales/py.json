@@ -225,6 +225,12 @@
         "logo": ""
       },
       {
+        "name": "RB TV (1080p)",
+        "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "RCC TV (1080p) [Not 24/7]",
         "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -239,6 +245,12 @@
       {
         "name": "Regional TV Yaguaron (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "República TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
