@@ -69,12 +69,6 @@
         "logo": ""
       },
       {
-        "name": "Cosmos TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Del Rey TV (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
         "idVideo": "",
@@ -93,8 +87,14 @@
         "logo": ""
       },
       {
-        "name": "GO TV (720p)",
-        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
+        "name": "Farra Play (720p) [Not 24/7]",
+        "url": "http://159.203.148.226/live/farra.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Farra Play (576p)",
+        "url": "https://stream.farra.com.py/live/farra_low.m3u8",
         "idVideo": "",
         "logo": ""
       },
