@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "AGR FM TV",
         "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
         "idVideo": "",
@@ -101,6 +95,12 @@
       {
         "name": "Farra Play (576p)",
         "url": "https://stream.farra.com.py/live/farra_low.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "GO TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -353,54 +353,6 @@
       {
         "name": "Telefuturo (1080p)",
         "url": "http://158.172.217.18:8000/play/a0ns/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Regional TV Yaguaron (1080p)",
-        "url": "http://190.128.214.97:64333/play/a05o/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Productiva TV (1080p)",
-        "url": "http://190.128.214.97:64333/play/a04i/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Nanduti (1080p)",
-        "url": "http://190.128.214.97:64333/play/a02d/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Monumental TV (1080p)",
-        "url": "http://190.128.214.97:64333/play/a046/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "MiTV (1080p)",
-        "url": "http://190.128.214.97:64333/play/a02w/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Latele (1080p)",
-        "url": "http://190.128.214.97:64333/play/a03i/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Educanal (1080p)",
-        "url": "http://190.128.214.97:64333/play/a011/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV Aire (1080p)",
-        "url": "http://190.128.214.97:64333/play/a05y/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
