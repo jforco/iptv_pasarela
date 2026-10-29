@@ -33,12 +33,6 @@
         "logo": ""
       },
       {
-        "name": "Canal 5 TV Max (1080p)",
-        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Canal 8 C&C Producciones",
         "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
         "idVideo": "",
@@ -345,6 +339,12 @@
         "logo": ""
       },
       {
+        "name": "TV Camara (1080p)",
+        "url": "http://158.172.217.18:8000/play/a00m/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Telefuturo (1080p)",
         "url": "http://158.172.217.18:8000/play/a0ns/index.m3u8",
         "idVideo": "",
@@ -383,12 +383,6 @@
       {
         "name": "Latele (1080p)",
         "url": "http://190.128.214.97:64333/play/a03i/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Educanal (1080p)",
-        "url": "http://190.128.214.97:64333/play/a011/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
