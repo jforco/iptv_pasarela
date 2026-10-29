@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "AGR FM TV",
         "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
         "idVideo": "",
@@ -105,12 +99,6 @@
         "logo": ""
       },
       {
-        "name": "GO TV (720p)",
-        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "HEi Now (1080p)",
         "url": "https://copacogen.desdeparaguay.net/heitv/heitv_py_alta/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -153,12 +141,6 @@
         "logo": ""
       },
       {
-        "name": "Nande Portetepe TV",
-        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Nandejara Ne'e TV",
         "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
@@ -197,12 +179,6 @@
       {
         "name": "Occidental TV",
         "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Oviedo TV",
-        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -257,6 +233,12 @@
       {
         "name": "Red Digital (1080p) [Not 24/7]",
         "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Red Interior TV",
+        "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -363,12 +345,6 @@
         "logo": ""
       },
       {
-        "name": "TV Camara (1080p)",
-        "url": "http://158.172.217.18:8000/play/a00m/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Telefuturo (1080p)",
         "url": "http://158.172.217.18:8000/play/a0ns/index.m3u8",
         "idVideo": "",
@@ -419,6 +395,12 @@
       {
         "name": "TV Aire (1080p)",
         "url": "http://190.128.214.97:64333/play/a05y/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Tigo Sports",
+        "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
         "idVideo": "",
         "logo": ""
       }
