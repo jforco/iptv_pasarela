@@ -93,18 +93,6 @@
         "logo": ""
       },
       {
-        "name": "Farra Play (720p) [Not 24/7]",
-        "url": "http://159.203.148.226/live/farra.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Farra Play (576p)",
-        "url": "https://stream.farra.com.py/live/farra_low.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "GO TV (720p)",
         "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "idVideo": "",
@@ -173,18 +161,6 @@
       {
         "name": "NPY (1080p)",
         "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Oasis TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Oviedo TV",
-        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
         "idVideo": "",
         "logo": ""
       },

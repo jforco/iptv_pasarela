@@ -1,16 +1,5 @@
 [
   {
-    "name": "PAT",
-    "signals": [
-      {
-        "name": "Señal LPZ",
-        "url": "https://www.redpat.tv:8000/play/12/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "name": "Gigavision",
     "signals": [
       {
@@ -70,10 +59,22 @@
     "name": "Red Uno",
     "signals": [
       {
+        "name": "CBBA 5",
+        "url": "",
+        "idVideo": "xbpxgda",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gvJqU2ETrku/120x120"
+      },
+      {
+        "name": "La Paz 2",
+        "url": "",
+        "idVideo": "xbrsofi",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gvJqU2ETrku/120x120"
+      },
+      {
         "name": "SCZ 3",
         "url": "",
         "idVideo": "xbkgze2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gvGPUIvydrY/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gvJqU2ETrku/120x120"
       }
     ]
   },
@@ -84,13 +85,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gvGUsGhFWXH/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gvK95o-T6_Z/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gvGUsGhFWXH/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gvK95o-T6_Z/120x120"
       }
     ]
   },
@@ -124,12 +125,6 @@
       {
         "name": "AYNI TV",
         "url": "https://59d39900ebfb8.streamlock.net/Aynitv/Aynitv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Canal 56 Quiero TV (720p)",
-        "url": "http://45.5.118.152:8000/play/a08z/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
