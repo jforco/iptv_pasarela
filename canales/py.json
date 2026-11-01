@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "AGR FM TV",
-        "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Alcance FM PLAY TV",
         "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
         "idVideo": "",
@@ -29,6 +23,12 @@
       {
         "name": "CAD TV",
         "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Canal 5 TV Max (1080p)",
+        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -65,12 +65,6 @@
       {
         "name": "Del Rey TV (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Dismar Radio TV (720p)",
-        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -153,12 +147,6 @@
         "logo": ""
       },
       {
-        "name": "Oasis TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Popu TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -185,12 +173,6 @@
       {
         "name": "Radio San Cristobal 88.7 FM",
         "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Radio TV El Arca del Pacto (1080p)",
-        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -269,12 +251,6 @@
       {
         "name": "Venus Media (1080p)",
         "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Villa Elisa Radio TV (1080p)",
-        "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
         "idVideo": "",
         "logo": ""
       },
