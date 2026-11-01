@@ -33,12 +33,6 @@
         "logo": ""
       },
       {
-        "name": "Canal 5 TV Max (1080p)",
-        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Canal 8 C&C Producciones",
         "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
         "idVideo": "",
@@ -165,12 +159,6 @@
         "logo": ""
       },
       {
-        "name": "Oasis TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Popu TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -291,12 +279,6 @@
         "logo": ""
       },
       {
-        "name": "America Paraguay (720p)",
-        "url": "http://45.170.130.224:8000/play/a02o/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Paravision",
         "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
         "idVideo": "",
@@ -311,18 +293,6 @@
       {
         "name": "TV Camara (1080p)",
         "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Trece",
-        "url": "http://45.170.130.224:8000/play/a050/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unicanal",
-        "url": "http://45.170.130.224:8000/play/a04y/index.m3u8?hls",
         "idVideo": "",
         "logo": ""
       },
@@ -389,6 +359,60 @@
       {
         "name": "Tigo Sports",
         "url": "http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "ABC-TV Paraguay",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "5Dias TV",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Tropicalia 93.9 FM",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unicanal",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Trece",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/82.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "America Paraguay",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "SNT",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TV Camara",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/119.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Paravision",
+        "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8",
         "idVideo": "",
         "logo": ""
       }
