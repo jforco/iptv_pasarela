@@ -3,6 +3,12 @@
     "name": "Otros Canales",
     "signals": [
       {
+        "name": "AGR FM TV",
+        "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Alcance FM PLAY TV",
         "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
         "idVideo": "",
@@ -69,8 +75,32 @@
         "logo": ""
       },
       {
+        "name": "Dismar Radio TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "E40 (1080p)",
         "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Farra Play (720p) [Not 24/7]",
+        "url": "http://159.203.148.226/live/farra.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Farra Play (576p)",
+        "url": "https://stream.farra.com.py/live/farra_low.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "GO TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -147,6 +177,18 @@
         "logo": ""
       },
       {
+        "name": "Occidental TV",
+        "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Oviedo TV",
+        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Popu TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/universotv/universotv_py_alta/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -183,20 +225,8 @@
         "logo": ""
       },
       {
-        "name": "RB TV (1080p)",
-        "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "RCC TV (1080p) [Not 24/7]",
         "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Red Digital (1080p) [Not 24/7]",
-        "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -237,8 +267,20 @@
         "logo": ""
       },
       {
+        "name": "TV Canindeyu (1080p)",
+        "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "UnionTV",
         "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UniRadio TV (1080p)",
+        "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
         "idVideo": "",
         "logo": ""
       },
