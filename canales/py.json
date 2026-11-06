@@ -3,6 +3,12 @@
     "name": "Otros Canales",
     "signals": [
       {
+        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "5Dias TV",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8",
         "idVideo": "",
@@ -39,6 +45,12 @@
         "logo": ""
       },
       {
+        "name": "Bruno Masi TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "CAD TV",
         "url": "https://videoserver.tmcreativos.com:19360/dcsajkpvrh/dcsajkpvrh.m3u8",
         "idVideo": "",
@@ -69,6 +81,12 @@
         "logo": ""
       },
       {
+        "name": "Cáritas TV (1080p)",
+        "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Cosmos TV (720p)",
         "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
         "idVideo": "",
@@ -77,6 +95,12 @@
       {
         "name": "Del Rey TV (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Dismar Radio TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -95,6 +119,12 @@
       {
         "name": "Farra Play (720p) [Not 24/7]",
         "url": "http://159.203.148.226/live/farra.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "GO TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -131,6 +161,18 @@
       {
         "name": "Mega TV (1080p)",
         "url": "https://www.desde-paraguay.com/mega.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "MiTV (1080p)",
+        "url": "http://190.128.214.97:64333/play/a02w/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "MiTV (720p)",
+        "url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -225,6 +267,12 @@
         "logo": ""
       },
       {
+        "name": "Productiva TV (720p)",
+        "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Radio Colmenar 92.5 FM",
         "url": "https://tvdatta.com:3041/live/colmenarlive.m3u8",
         "idVideo": "",
@@ -243,8 +291,8 @@
         "logo": ""
       },
       {
-        "name": "Radio TV El Arca del Pacto (1080p)",
-        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
+        "name": "RCC TV (1080p) [Not 24/7]",
+        "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
         "idVideo": "",
         "logo": ""
       },
@@ -273,6 +321,12 @@
         "logo": ""
       },
       {
+        "name": "República TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "SNT",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8",
         "idVideo": "",
@@ -287,6 +341,12 @@
       {
         "name": "SUR TV Itapua",
         "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Telefuturo (1080p)",
+        "url": "http://158.172.217.18:8000/play/a0ns/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -323,6 +383,12 @@
       {
         "name": "TV Camara (1080p)",
         "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TV Camara (1080p)",
+        "url": "http://158.172.217.18:8000/play/a00m/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
