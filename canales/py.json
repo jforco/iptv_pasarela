@@ -15,6 +15,12 @@
         "logo": ""
       },
       {
+        "name": "AGR FM TV",
+        "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Alcance FM PLAY TV",
         "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
         "idVideo": "",
@@ -29,6 +35,12 @@
       {
         "name": "America Paraguay",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Bruno Masi TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/brunomasitv/brunomasitv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -59,6 +71,12 @@
       {
         "name": "Canal Pro",
         "url": "https://www.desde-paraguay.com/pro.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Cáritas TV (1080p)",
+        "url": "https://rds3.desdeparaguay.net/caritastv/caritastv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -143,12 +161,6 @@
       {
         "name": "Monumental TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Nande Portetepe TV",
-        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -261,6 +273,12 @@
         "logo": ""
       },
       {
+        "name": "Radio TV El Arca del Pacto (1080p)",
+        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "RCC TV (1080p) [Not 24/7]",
         "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -269,6 +287,12 @@
       {
         "name": "Red Digital (1080p) [Not 24/7]",
         "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Red Interior TV",
+        "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -377,6 +401,12 @@
       {
         "name": "UnionTV (1080p)",
         "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UniRadio TV (1080p)",
+        "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
         "idVideo": "",
         "logo": ""
       },
