@@ -213,12 +213,6 @@
         "logo": ""
       },
       {
-        "name": "Oviedo TV",
-        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Paraguay TV (1080p)",
         "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
         "idVideo": "",
@@ -327,12 +321,6 @@
         "logo": ""
       },
       {
-        "name": "SUR TV Itapua",
-        "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Telefuturo (1080p)",
         "url": "http://158.172.217.18:8000/play/a0ns/index.m3u8",
         "idVideo": "",
@@ -365,12 +353,6 @@
       {
         "name": "TV Aire",
         "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV Camara (1080p)",
-        "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
         "idVideo": "",
         "logo": ""
       },
