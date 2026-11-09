@@ -53,10 +53,22 @@
     "name": "Red Uno",
     "signals": [
       {
+        "name": "CBBA 5",
+        "url": "",
+        "idVideo": "xbpxgda",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gyHlisOBEBX/120x120"
+      },
+      {
+        "name": "La Paz 2",
+        "url": "",
+        "idVideo": "xbrsofi",
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gyHlisOBEBX/120x120"
+      },
+      {
         "name": "SCZ 3",
         "url": "",
         "idVideo": "xbkgze2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gyEB2fgZWra/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gyHlisOBEBX/120x120"
       }
     ]
   },
@@ -73,7 +85,7 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1gxgdRoKQW-i/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1gxgdRoKQW-i/120x120"
       }
     ]
   },
@@ -84,13 +96,13 @@
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gyDDE_oO30h/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gyHrUIxdPVd/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1gyDDE_oO30h/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gyHrUIxdPVd/120x120"
       }
     ]
   },
@@ -232,6 +244,12 @@
       {
         "name": "Radio Kollasuyo (720p)",
         "url": "https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio Mega TV Amazonia (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
