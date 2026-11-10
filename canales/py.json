@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "5Dias TV",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8",
         "idVideo": "",
@@ -107,18 +101,6 @@
       {
         "name": "E40 (1080p)",
         "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Farra Play (576p)",
-        "url": "https://stream.farra.com.py/live/farra_low.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Farra Play (720p) [Not 24/7]",
-        "url": "http://159.203.148.226/live/farra.m3u8",
         "idVideo": "",
         "logo": ""
       },
