@@ -189,12 +189,6 @@
         "logo": ""
       },
       {
-        "name": "Nande Portetepe TV",
-        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Nandejara Ne'e TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
@@ -303,12 +297,6 @@
         "logo": ""
       },
       {
-        "name": "Radio TV El Arca del Pacto (1080p)",
-        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "RCC TV (1080p) [Not 24/7]",
         "url": "https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -371,12 +359,6 @@
       {
         "name": "Telefuturo (1080p)",
         "url": "https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Tigo Sports+ (1280p)",
-        "url": "https://stmv7.voxtvhd.com.br/xxvideo/xxvideo/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
