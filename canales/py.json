@@ -21,12 +21,6 @@
         "logo": ""
       },
       {
-        "name": "AGR FM TV",
-        "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Alcance FM PLAY TV",
         "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
         "idVideo": "",
@@ -87,12 +81,6 @@
         "logo": ""
       },
       {
-        "name": "Cosmos TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Del Rey TV (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
         "idVideo": "",
@@ -119,6 +107,12 @@
       {
         "name": "Farra Play (720p) [Not 24/7]",
         "url": "http://159.203.148.226/live/farra.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "GO TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -183,12 +177,6 @@
         "logo": ""
       },
       {
-        "name": "Nande Portetepe TV",
-        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Nandejara Ne'e TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
@@ -233,6 +221,12 @@
       {
         "name": "Occidental TV",
         "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Oviedo TV",
+        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -303,6 +297,12 @@
         "logo": ""
       },
       {
+        "name": "Red Digital (1080p) [Not 24/7]",
+        "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Red Interior TV",
         "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
         "idVideo": "",
@@ -365,12 +365,6 @@
       {
         "name": "Tropicalia 93.9 FM",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV Aire (1080p)",
-        "url": "http://190.128.214.97:64333/play/a05y/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
