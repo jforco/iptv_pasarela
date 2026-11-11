@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "5Dias TV",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8",
         "idVideo": "",
@@ -207,20 +201,8 @@
         "logo": ""
       },
       {
-        "name": "Oasis TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Occidental TV",
         "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Oviedo TV",
-        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
         "idVideo": "",
         "logo": ""
       },
