@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "5Dias TV",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8",
         "idVideo": "",
@@ -17,6 +11,12 @@
       {
         "name": "ABC-TV Paraguay",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/7.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "AGR FM TV",
+        "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -81,6 +81,12 @@
         "logo": ""
       },
       {
+        "name": "Cosmos TV (720p)",
+        "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Del Rey TV (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
         "idVideo": "",
@@ -95,18 +101,6 @@
       {
         "name": "E40 (1080p)",
         "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Farra Play (576p)",
-        "url": "https://stream.farra.com.py/live/farra_low.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Farra Play (720p) [Not 24/7]",
-        "url": "http://159.203.148.226/live/farra.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -173,6 +167,12 @@
       {
         "name": "Monumental TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Nande Portetepe TV",
+        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -369,6 +369,12 @@
         "logo": ""
       },
       {
+        "name": "TV Aire (1080p)",
+        "url": "http://190.128.214.97:64333/play/a05y/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "TV Aire",
         "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
         "idVideo": "",
@@ -431,6 +437,30 @@
       {
         "name": "Senado TV (576p)",
         "url": "https://vid.hls.protv.ro/liveibu6/liveibu6_highw/index.m3u8?1",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "America Paraguay",
+        "url": "https://tv.mitvparaguay.com/hls?type=hls&id=americatv",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "A24 Paraguay",
+        "url": "https://tv.mitvparaguay.com/hls?type=hls&id=a24",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Gen",
+        "url": "https://tv.mitvparaguay.com/hls?type=hls&url=https%3A%2F%2Fcopacogen.desdeparaguay.net%2Fgentv%2Fgentv_py_baja%2Fchunklist_w2016222336.m3u8%3Fk%3D6de8e821fe4afa30bafdeab37d3d09300b830f37e1c3a1499ce23c9220df2ba8%26exp%3D1794402945&referer=https%3A//gentv.desdepylabs.com/External/gentv&origin=https%3A//www.gen.com.py",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Trece",
+        "url": "https://tv.mitvparaguay.com/hls?type=hls&id=trece",
         "idVideo": "",
         "logo": ""
       }

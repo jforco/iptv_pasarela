@@ -1,18 +1,13 @@
 [
   {
-    "name": "PAT",
-    "signals": [
-      {
-        "name": "Señal LPZ",
-        "url": "https://www.redpat.tv:8000/play/12/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "name": "Gigavision",
     "signals": [
+      {
+        "name": "Señal SCZ",
+        "url": "https://tv.bitstreaming.net:3348/live/gigavisionlive.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
       {
         "name": "Señal LPZ",
         "url": "https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8",
@@ -61,6 +56,12 @@
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
+        "logo": "https://s2.dmcdn.net/u/1E8-X1gz9BgP_gBjm/120x120"
+      },
+      {
+        "name": "ATB BOLIVIA",
+        "url": "",
+        "idVideo": "x84eirw",
         "logo": "https://s1.dmcdn.net/u/1E8-X1gz9BgP_gBjm/120x120"
       }
     ]
@@ -69,10 +70,22 @@
     "name": "Red Uno",
     "signals": [
       {
+        "name": "CBBA 5",
+        "url": "",
+        "idVideo": "xbpxgda",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gzH7TTzNwK0/120x120"
+      },
+      {
+        "name": "La Paz 2",
+        "url": "",
+        "idVideo": "xbrsofi",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1gzH7TTzNwK0/120x120"
+      },
+      {
         "name": "SCZ 3",
         "url": "",
         "idVideo": "xbkgze2",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1gzC9nt5B1lN/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1gzH7TTzNwK0/120x120"
       }
     ]
   },
@@ -83,13 +96,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gzBa1OIFFCK/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1gzGZG-ntOp2/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1gzBa1OIFFCK/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1gzGZG-ntOp2/120x120"
       }
     ]
   },
@@ -105,6 +118,12 @@
       {
         "name": "As Contenidos (720p)",
         "url": "https://master.tucableip.com/ascontenido/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "ATB La Paz",
+        "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -307,12 +326,6 @@
         "logo": ""
       },
       {
-        "name": "SPC Canal 15 (720p)",
-        "url": "https://tv.centaurychile.com/magicatv/streams/22AdscM3Y6Un17Zo4747081346569358.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "TDT Multimedia (720p)",
         "url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
         "idVideo": "",
@@ -391,8 +404,14 @@
         "logo": ""
       },
       {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
+        "name": "Unitel Cochabamba (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel La Paz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
         "idVideo": "",
         "logo": ""
       },
