@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "5Dias TV",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8",
         "idVideo": "",
@@ -153,12 +147,6 @@
         "logo": ""
       },
       {
-        "name": "MiTV (1080p)",
-        "url": "http://190.128.214.97:64333/play/a02w/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "MiTV (720p)",
         "url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
         "idVideo": "",
@@ -215,12 +203,6 @@
       {
         "name": "NPY (1080p)",
         "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Oasis TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -287,6 +269,12 @@
       {
         "name": "Radio San Cristobal 88.7 FM",
         "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio TV El Arca del Pacto (1080p)",
+        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
         "idVideo": "",
         "logo": ""
       },
