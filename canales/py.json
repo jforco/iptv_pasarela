@@ -27,12 +27,6 @@
         "logo": ""
       },
       {
-        "name": "Alt Media TV",
-        "url": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "America Paraguay",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8",
         "idVideo": "",
@@ -172,6 +166,12 @@
       },
       {
         "name": "Nanduti (1080p)",
+        "url": "http://190.128.214.97:64333/play/a02d/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Nanduti (1080p)",
         "url": "https://nanduti.b-cdn.net/Source.m3u8",
         "idVideo": "",
         "logo": ""
@@ -195,8 +195,20 @@
         "logo": ""
       },
       {
+        "name": "Oasis TV (720p)",
+        "url": "https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Occidental TV",
         "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Oviedo TV",
+        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
         "idVideo": "",
         "logo": ""
       },
