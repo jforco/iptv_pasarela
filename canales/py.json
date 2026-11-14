@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "5Dias TV",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8",
         "idVideo": "",
@@ -57,6 +51,12 @@
         "logo": ""
       },
       {
+        "name": "Canal 5 TV Max (1080p)",
+        "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Canal 8 C&C Producciones",
         "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
         "idVideo": "",
@@ -101,24 +101,6 @@
       {
         "name": "E40 (1080p)",
         "url": "https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Farra Play (576p)",
-        "url": "https://stream.farra.com.py/live/farra_low.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Farra Play (720p) [Not 24/7]",
-        "url": "http://159.203.148.226/live/farra.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "GO TV (720p)",
-        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -233,6 +215,12 @@
       {
         "name": "Occidental TV",
         "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Oviedo TV",
+        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -371,6 +359,18 @@
       {
         "name": "Tropicalia 93.9 FM",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TV Aire (1080p)",
+        "url": "http://190.128.214.97:64333/play/a05y/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TV Aire",
+        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
         "idVideo": "",
         "logo": ""
       },
