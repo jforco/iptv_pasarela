@@ -15,12 +15,6 @@
         "logo": ""
       },
       {
-        "name": "AGR FM TV",
-        "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Alcance FM PLAY TV",
         "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
         "idVideo": "",
@@ -47,12 +41,6 @@
       {
         "name": "Canal 5 TV Max (1080p)",
         "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Canal 8 C&C Producciones",
-        "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -401,12 +389,6 @@
       {
         "name": "UnionTV (1080p)",
         "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UniRadio TV (1080p)",
-        "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
         "idVideo": "",
         "logo": ""
       },
