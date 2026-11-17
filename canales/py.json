@@ -3,6 +3,12 @@
     "name": "Otros Canales",
     "signals": [
       {
+        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
+        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "5Dias TV",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8",
         "idVideo": "",
@@ -57,12 +63,6 @@
         "logo": ""
       },
       {
-        "name": "Canal 8 C&C Producciones",
-        "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Canal 8 Vision TV (1080p)",
         "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
         "idVideo": "",
@@ -105,6 +105,18 @@
         "logo": ""
       },
       {
+        "name": "Farra Play (576p)",
+        "url": "https://stream.farra.com.py/live/farra_low.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Farra Play (720p) [Not 24/7]",
+        "url": "http://159.203.148.226/live/farra.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "GO TV (720p)",
         "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "idVideo": "",
@@ -143,18 +155,6 @@
       {
         "name": "Mega TV (1080p)",
         "url": "https://www.desde-paraguay.com/mega.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "MiTV (1080p)",
-        "url": "http://190.128.214.97:64333/play/a02w/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "MiTV (720p)",
-        "url": "https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -221,6 +221,12 @@
       {
         "name": "Occidental TV",
         "url": "https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Oviedo TV",
+        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -419,12 +425,6 @@
       {
         "name": "Venus Media (1080p)",
         "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Villa Elisa Radio TV (1080p)",
-        "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
         "idVideo": "",
         "logo": ""
       },
