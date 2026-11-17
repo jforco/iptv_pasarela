@@ -3,12 +3,6 @@
     "name": "Otros Canales",
     "signals": [
       {
-        "name": "4DmásNoticias TV (1080p) [Not 24/7]",
-        "url": "https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "5Dias TV",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/13.m3u8",
         "idVideo": "",
@@ -59,6 +53,12 @@
       {
         "name": "Canal 5 TV Max (1080p)",
         "url": "https://tvmaxsa.com.py/hls/FB-430927919930380-0-AbzjnbAzAIR0NaFg.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Canal 8 C&C Producciones",
+        "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -136,12 +136,6 @@
       },
       {
         "name": "Latele (1080p)",
-        "url": "http://190.128.214.97:64333/play/a03i/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Latele (1080p)",
         "url": "https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
         "logo": ""
@@ -160,31 +154,13 @@
       },
       {
         "name": "Monumental TV (1080p)",
-        "url": "http://190.128.214.97:64333/play/a046/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Monumental TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Nande Portetepe TV",
-        "url": "https://video.hostingcaaguazu.com:19360/nandeportetepe/nandeportetepe.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
         "name": "Nandejara Ne'e TV (1080p)",
         "url": "https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Nanduti (1080p)",
-        "url": "http://190.128.214.97:64333/play/a02d/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -255,12 +231,6 @@
         "logo": ""
       },
       {
-        "name": "Productiva TV (1080p)",
-        "url": "http://190.128.214.97:64333/play/a04i/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Productiva TV (720p)",
         "url": "https://copacoradios.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8?admin=nacion",
         "idVideo": "",
@@ -285,8 +255,8 @@
         "logo": ""
       },
       {
-        "name": "Radio TV El Arca del Pacto (1080p)",
-        "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
+        "name": "RB TV (1080p)",
+        "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -297,20 +267,8 @@
         "logo": ""
       },
       {
-        "name": "Red Digital (1080p) [Not 24/7]",
-        "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Red Interior TV",
         "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Regional TV Yaguaron (1080p)",
-        "url": "http://190.128.214.97:64333/play/a05o/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -365,12 +323,6 @@
       {
         "name": "Tropicalia 93.9 FM",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/67.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV Aire (1080p)",
-        "url": "http://190.128.214.97:64333/play/a05y/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
