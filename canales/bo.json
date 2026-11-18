@@ -1,16 +1,5 @@
 [
   {
-    "name": "Gigavision",
-    "signals": [
-      {
-        "name": "Señal LPZ",
-        "url": "https://tv2.bitstreaming.net:3576/live/gigavisionlplive.m3u8",
-        "idVideo": "",
-        "logo": ""
-      }
-    ]
-  },
-  {
     "name": "Cadena A",
     "signals": [
       {
@@ -44,13 +33,42 @@
     ]
   },
   {
+    "name": "ATB Bolivia",
+    "signals": [
+      {
+        "name": "Atb Cochabamba",
+        "url": "",
+        "idVideo": "x89sfvo",
+        "logo": "https://s2.dmcdn.net/u/1E8-X1g_GANPhVZ8s/120x120"
+      },
+      {
+        "name": "ATB BOLIVIA",
+        "url": "",
+        "idVideo": "x84eirw",
+        "logo": "https://s2.dmcdn.net/u/1E8-X1g_GANPhVZ8s/120x120"
+      }
+    ]
+  },
+  {
     "name": "Red Uno",
     "signals": [
+      {
+        "name": "La Paz 2",
+        "url": "",
+        "idVideo": "xbrsofi",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1g_GQbWXowHS/120x120"
+      },
+      {
+        "name": "CBBA 5",
+        "url": "",
+        "idVideo": "xbpxgda",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1g_GQbWXowHS/120x120"
+      },
       {
         "name": "SCZ 3",
         "url": "",
         "idVideo": "xbkgze2",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1g_AGR6KZVIN/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1g_GQbWXowHS/120x120"
       }
     ]
   },
@@ -61,24 +79,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1g_87pYsW97I/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1g_FxzkQqnv3/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1g_87pYsW97I/120x120"
-      }
-    ]
-  },
-  {
-    "name": "ATB Bolivia",
-    "signals": [
-      {
-        "name": "Atb Cochabamba",
-        "url": "",
-        "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1g_7TlXuCbt9/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1g_FxzkQqnv3/120x120"
       }
     ]
   },
@@ -94,6 +101,12 @@
       {
         "name": "As Contenidos (720p)",
         "url": "https://master.tucableip.com/ascontenido/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "ATB La Paz",
+        "url": "https://stream.atb.com.bo/live/daniel/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -118,6 +131,12 @@
       {
         "name": "Coral TV (720p)",
         "url": "https://tv.mediacp.eu:8081/coraltv/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Delta TV",
+        "url": "https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -160,12 +179,6 @@
       {
         "name": "Gigavision (1080p)",
         "url": "http://158.172.155.130:8000/play/a0e7/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Gigavision (720p)",
-        "url": "https://tv2.bitstreaming.net:3576/multi_live/play.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -350,8 +363,14 @@
         "logo": ""
       },
       {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
+        "name": "Unitel Cochabamba (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel La Paz (720p)",
+        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
         "idVideo": "",
         "logo": ""
       },
