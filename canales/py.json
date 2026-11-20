@@ -27,12 +27,6 @@
         "logo": ""
       },
       {
-        "name": "AGR FM TV",
-        "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Alcance FM PLAY TV",
         "url": "https://video.wilohosting.com:19360/alcancefmtv/alcancefmtv.m3u8",
         "idVideo": "",
@@ -99,20 +93,8 @@
         "logo": ""
       },
       {
-        "name": "Cosmos TV (720p)",
-        "url": "https://video.hostingcaaguazu.com:19360/cosmostv/cosmostv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Del Rey TV (1080p)",
         "url": "https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Dismar Radio TV (720p)",
-        "url": "https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -195,12 +177,6 @@
         "logo": ""
       },
       {
-        "name": "Next HD (480p)",
-        "url": "https://live.enhdtv.com:19360/nexthd/nexthd.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "NPY (1080p)",
         "url": "https://copacogen.desdeparaguay.net/npy/npy_py_alta/playlist.m3u8?admin=tvaccion",
         "idVideo": "",
@@ -221,18 +197,6 @@
       {
         "name": "Oviedo TV",
         "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Paraguay TV (1080p)",
-        "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Paravision",
-        "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
         "idVideo": "",
         "logo": ""
       },
@@ -267,12 +231,6 @@
         "logo": ""
       },
       {
-        "name": "Radio San Cristobal 88.7 FM",
-        "url": "https://video.wilohosting.com:19360/sancristobalfm/sancristobalfm.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Radio TV El Arca del Pacto (1080p)",
         "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
         "idVideo": "",
@@ -287,6 +245,12 @@
       {
         "name": "Red Digital (1080p) [Not 24/7]",
         "url": "https://video.hostingcaaguazu.com:19360/reddigitalsanpedro/reddigitalsanpedro.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Red Interior TV",
+        "url": "https://video.wilohosting.com:19360/redinteriortv/redinteriortv.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -317,12 +281,6 @@
       {
         "name": "SNT",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/113.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Suceso TV (720p) [Not 24/7]",
-        "url": "https://live.enhdtv.com:8081/8060/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -363,18 +321,6 @@
         "logo": ""
       },
       {
-        "name": "TV Aire",
-        "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV Camara (1080p)",
-        "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "TV Camara (1080p)",
         "url": "http://158.172.217.18:8000/play/a00m/index.m3u8",
         "idVideo": "",
@@ -387,12 +333,6 @@
         "logo": ""
       },
       {
-        "name": "TV Canindeyu (1080p)",
-        "url": "https://video.hostingcaaguazu.com:19360/tvcanindeyu/tvcanindeyu.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Unicanal",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/72.m3u8",
         "idVideo": "",
@@ -401,12 +341,6 @@
       {
         "name": "UnionTV (1080p)",
         "url": "https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "UniRadio TV (1080p)",
-        "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
         "idVideo": "",
         "logo": ""
       },
