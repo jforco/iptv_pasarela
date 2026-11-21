@@ -64,15 +64,15 @@
     "name": "ATB Bolivia",
     "signals": [
       {
-        "name": "ATB BOLIVIA",
-        "url": "",
-        "idVideo": "x84eirw",
-        "logo": "https://s1.dmcdn.net/u/1E8-X1h072R9bIk5a/120x120"
-      },
-      {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
+        "logo": "https://s1.dmcdn.net/u/1E8-X1h072R9bIk5a/120x120"
+      },
+      {
+        "name": "ATB BOLIVIA",
+        "url": "",
+        "idVideo": "x84eirw",
         "logo": "https://s1.dmcdn.net/u/1E8-X1h072R9bIk5a/120x120"
       }
     ]
@@ -84,7 +84,7 @@
         "name": "SCZ 3",
         "url": "",
         "idVideo": "xbkgze2",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1h0J2gtZa8R6/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1h0U2er-aoUZ/120x120"
       }
     ]
   },
@@ -95,13 +95,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1h0OOdjd6BUH/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1h0SMm-yJMNi/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s2.dmcdn.net/u/BVvRY1h0OOdjd6BUH/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1h0SMm-yJMNi/120x120"
       }
     ]
   },
@@ -117,12 +117,6 @@
       {
         "name": "Amitel TV (720p)",
         "url": "https://stv2.boliviaplay.com.bo/hls/stream.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "As Contenidos (720p)",
-        "url": "https://master.tucableip.com/ascontenido/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -183,6 +177,12 @@
       {
         "name": "Canal Guia ABE (1080p)",
         "url": "http://190.181.61.93:8000/play/a00q/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "CEACOM TV (1080p) [Not 24/7]",
+        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -337,6 +337,18 @@
         "logo": ""
       },
       {
+        "name": "Radio Mega TV Amazonia (720p)",
+        "url": "https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Radio TV Mega (720p)",
+        "url": "https://183.giatvcdn.com/ssh101/ssh101/radiotvmega26/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Radio Universitaria San Andres (720p)",
         "url": "https://edge.enhdtv.com/8054/index.m3u8",
         "idVideo": "",
@@ -421,8 +433,20 @@
         "logo": ""
       },
       {
+        "name": "Sucremanta TV (1080p)",
+        "url": "https://183.giatvcdn.com/ssh101/ssh101/ok2026/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "TDT Multimedia (720p)",
         "url": "https://video01.brascast.com/juan6318/juan6318/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TELE 6 (1080p)",
+        "url": "https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
