@@ -57,6 +57,12 @@
         "logo": ""
       },
       {
+        "name": "Canal 8 C&C Producciones",
+        "url": "https://video.hostingcaaguazu.com:19360/canal8cvs/canal8cvs.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Canal 8 Vision TV (1080p)",
         "url": "https://tigocloudgen.desdeparaguay.net/satelitaltv/satelitaltv/playlist.m3u8",
         "idVideo": "",
@@ -202,12 +208,6 @@
       },
       {
         "name": "Paravision",
-        "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Paravision",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8",
         "idVideo": "",
         "logo": ""
@@ -309,12 +309,6 @@
         "logo": ""
       },
       {
-        "name": "SUR TV Itapua",
-        "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Telefuturo (1080p)",
         "url": "http://158.172.217.18:8000/play/a0ns/index.m3u8",
         "idVideo": "",
@@ -347,12 +341,6 @@
       {
         "name": "TV Aire",
         "url": "https://video.hostingcaaguazu.com:19360/tvairepy/tvairepy.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "TV Camara (1080p)",
-        "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
         "idVideo": "",
         "logo": ""
       },
