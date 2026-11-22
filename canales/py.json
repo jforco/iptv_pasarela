@@ -21,7 +21,7 @@
         "logo": ""
       },
       {
-        "name": "AGR FM TV",
+        "name": "AGR FM TV (720p)",
         "url": "https://tigocloud.desdeparaguay.net/agrtv/agrtv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
@@ -208,6 +208,12 @@
       },
       {
         "name": "Paravision",
+        "url": "http://45.170.130.224:8000/play/a032/index.m3u8?hls",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Paravision",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/120.m3u8",
         "idVideo": "",
         "logo": ""
@@ -292,7 +298,7 @@
       },
       {
         "name": "SNT (720p)",
-        "url": "https://tv.mitvparaguay.com/hls?id=snt&device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525",
+        "url": "https://tv.mitvparaguay.com/hls?device_id=dev-461bff6d-cacc-48ea-94b8-02271afb3525&id=snt",
         "idVideo": "",
         "logo": ""
       },
@@ -309,8 +315,8 @@
         "logo": ""
       },
       {
-        "name": "Telefuturo (1080p)",
-        "url": "http://158.172.217.18:8000/play/a0ns/index.m3u8",
+        "name": "SUR TV Itapua",
+        "url": "http://45.170.130.224:8000/play/a036/index.m3u8?hls",
         "idVideo": "",
         "logo": ""
       },
@@ -346,7 +352,7 @@
       },
       {
         "name": "TV Camara (1080p)",
-        "url": "http://158.172.217.18:8000/play/a00m/index.m3u8",
+        "url": "http://45.170.130.224:8000/play/a03x/index.m3u8?hls",
         "idVideo": "",
         "logo": ""
       },
@@ -375,20 +381,8 @@
         "logo": ""
       },
       {
-        "name": "UniRadio TV (1080p)",
-        "url": "https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Venus Media (1080p)",
         "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Villa Elisa Radio TV (1080p)",
-        "url": "https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion",
         "idVideo": "",
         "logo": ""
       }
