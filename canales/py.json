@@ -39,6 +39,12 @@
         "logo": ""
       },
       {
+        "name": "Alt Media TV",
+        "url": "https://video.hostingcaaguazu.com:19360/altmedia/altmedia.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "America Paraguay",
         "url": "http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/83.m3u8",
         "idVideo": "",
@@ -119,6 +125,12 @@
       {
         "name": "Gen",
         "url": "https://tv.mitvparaguay.com/hls?origin=https%3A//www.gen.com.py&referer=https%3A//gentv.desdepylabs.com/External/gentv&type=hls&url=https%3A%2F%2Fcopacogen.desdeparaguay.net%2Fgentv%2Fgentv_py_baja%2Fchunklist_w2016222336.m3u8%3Fk%3D6de8e821fe4afa30bafdeab37d3d09300b830f37e1c3a1499ce23c9220df2ba8%26exp%3D1794402945",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "GO TV (720p)",
+        "url": "https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -207,6 +219,12 @@
         "logo": ""
       },
       {
+        "name": "Oviedo TV",
+        "url": "https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Paraguay TV (1080p)",
         "url": "https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8",
         "idVideo": "",
@@ -257,6 +275,12 @@
       {
         "name": "Radio TV El Arca del Pacto (1080p)",
         "url": "https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "RB TV (1080p)",
+        "url": "https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8",
         "idVideo": "",
         "logo": ""
       },
