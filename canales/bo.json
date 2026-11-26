@@ -64,16 +64,27 @@
     "name": "ATB Bolivia",
     "signals": [
       {
-        "name": "ATB BOLIVIA",
-        "url": "",
-        "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1h1renW6jH4I/120x120"
-      },
-      {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1h1renW6jH4I/120x120"
+        "logo": "https://s1.dmcdn.net/u/1E8-X1h22CZFq4B-f/120x120"
+      },
+      {
+        "name": "ATB BOLIVIA",
+        "url": "",
+        "idVideo": "x84eirw",
+        "logo": "https://s2.dmcdn.net/u/1E8-X1h22CZFq4B-f/120x120"
+      }
+    ]
+  },
+  {
+    "name": "Red Uno",
+    "signals": [
+      {
+        "name": "SCZ 4",
+        "url": "",
+        "idVideo": "xbzwtyy",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1h23-hpWEHdg/120x120"
       }
     ]
   },
@@ -84,19 +95,25 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1h1xKXI75UTV/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1h221TfaM4ug/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1h1xKXI75UTV/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1h221TfaM4ug/120x120"
       }
     ]
   },
   {
     "name": "Otros Canales",
     "signals": [
+      {
+        "name": "Abya Yala TV (720p)",
+        "url": "http://190.181.61.93:8000/play/a00m/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
       {
         "name": "Amitel TV (720p)",
         "url": "https://stv2.boliviaplay.com.bo/hls/stream.m3u8",
@@ -106,6 +123,12 @@
       {
         "name": "As Contenidos (720p)",
         "url": "https://master.tucableip.com/ascontenido/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Asi es mi Pueblo TV (720p)",
+        "url": "http://190.181.61.93:8000/play/a00g/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -128,8 +151,44 @@
         "logo": ""
       },
       {
+        "name": "Bolivia TV (1080p)",
+        "url": "http://190.181.61.93:8000/play/a001/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Bolivia TV (576p)",
+        "url": "http://190.181.61.93:8000/play/a00u/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Bolivision (1080p)",
+        "url": "http://190.181.61.93:8000/play/a00j/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Cadena A (576p)",
+        "url": "http://190.181.61.93:8000/play/a00k/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Canal 14 Valle Alto Television (720p)",
         "url": "https://stmv1.voxtvhd.com.br/vavizacli/vavizacli/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Canal Guia ABE (1080p)",
+        "url": "http://190.181.61.93:8000/play/a00q/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "CEACOM TV (1080p) [Not 24/7]",
+        "url": "https://eu1.servers10.com:8081/ceacom/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -146,8 +205,20 @@
         "logo": ""
       },
       {
+        "name": "CTV (1080p)",
+        "url": "http://190.181.61.93:8000/play/a005/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "CTV (720p)",
         "url": "https://streaming.ctvbolivia.com/app/ctv/ts:master.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "CVC (1080p)",
+        "url": "http://190.181.61.93:8000/play/a00p/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -166,6 +237,12 @@
       {
         "name": "EL DEBER (1080p)",
         "url": "https://master.tucableip.com/eldebertv/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "En Vivo TV (1080p)",
+        "url": "http://190.181.61.93:8000/play/1520/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -200,14 +277,32 @@
         "logo": ""
       },
       {
+        "name": "Gigavision La Paz (1080p)",
+        "url": "http://190.181.61.93:8000/play/a00i/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "GoGoPlayTV (720p)",
+        "url": "http://190.181.61.93:8000/play/a00d/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Imperial TV (720p)",
+        "url": "https://tv.centaurychile.com/imperial/streams/EnCyCiwNLsqEQ2kv2852222720686498.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "La Exitosa TV Riberalta (720p)",
         "url": "https://ares.disfrutaenlared.com:1936/exitosa/exitosa/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "Palenque TV",
-        "url": "https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8",
+        "name": "Palenque TV (576p)",
+        "url": "http://190.181.61.93:8000/play/a009/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -218,8 +313,20 @@
         "logo": ""
       },
       {
+        "name": "Plus TLT (720p)",
+        "url": "http://190.181.61.93:8000/play/a007/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Poder de Dios TV (720p)",
         "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "RA Television (720p)",
+        "url": "https://183.giatvcdn.com/ssh101/ssh101/ratvbol/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -272,14 +379,32 @@
         "logo": ""
       },
       {
+        "name": "Red Uno (1080p)",
+        "url": "http://190.181.61.93:8000/play/a002/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Red Uno (720p)",
         "url": "https://tv.centaurychile.com/interactiva/streams/KIgB6QvZ0L8XaSLd3211668845221245.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
+        "name": "Red Uno La Paz (1080p)",
+        "url": "http://190.181.61.93:8000/play/a003/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Red Uno Santa Cruz (1080p)",
         "url": "http://190.181.18.82:4111/play/a006/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "RTP (1080p)",
+        "url": "http://190.181.61.93:8000/play/a00n/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -302,8 +427,26 @@
         "logo": ""
       },
       {
+        "name": "Siglo XXI TV (576p)",
+        "url": "http://190.181.61.93:8000/play/a00b/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Sol TV (720p)",
         "url": "https://edge.enhdtv.com/soltv/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "SPC Canal 15 (1080p)",
+        "url": "https://183.giatvcdn.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Sucremanta TV (1080p)",
+        "url": "https://183.giatvcdn.com/ssh101/ssh101/ok2026/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -356,6 +499,18 @@
         "logo": ""
       },
       {
+        "name": "TV Universitaria (720p)",
+        "url": "http://190.181.61.93:8000/play/a006/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "TVU Sucre (720p)",
+        "url": "http://190.181.61.93:8000/play/a008/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "TVU Sucre (720p)",
         "url": "https://edge.enhdtv.com/8214/index.m3u8",
         "idVideo": "",
@@ -386,6 +541,12 @@
         "logo": ""
       },
       {
+        "name": "UMSA TVU LP (576p)",
+        "url": "http://190.181.61.93:8000/play/a00s/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
         "name": "Unifranz (720p)",
         "url": "https://edge.enhdtv.com/8192/index.m3u8",
         "idVideo": "",
@@ -394,6 +555,36 @@
       {
         "name": "Unifranz (720p)",
         "url": "https://live.enhdtv.com:8081/8192/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel (1080p)",
+        "url": "http://190.181.61.93:8000/play/1909/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel (1080p)",
+        "url": "http://190.181.61.93:8000/play/a00r/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel Cochabamba (1080p)",
+        "url": "http://190.181.61.93:8000/play/1913/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel La Paz (1080p)",
+        "url": "http://190.181.61.93:8000/play/1910/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Unitel La Paz (576p)",
+        "url": "http://190.181.61.93:8000/play/a00t/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -411,7 +602,25 @@
       },
       {
         "name": "UPEA TV (720p)",
+        "url": "http://190.181.61.93:8000/play/a00h/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "UPEA TV (720p)",
         "url": "https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "Vos TV (720p)",
+        "url": "http://190.181.61.93:8000/play/a00a/index.m3u8",
+        "idVideo": "",
+        "logo": ""
+      },
+      {
+        "name": "VTV Canal 17 (720p)",
+        "url": "http://190.181.61.93:8000/play/a00f/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
