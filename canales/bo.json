@@ -53,22 +53,22 @@
     "name": "Red Uno",
     "signals": [
       {
-        "name": "La Paz 3",
-        "url": "",
-        "idVideo": "xbzxr3y",
-        "logo": "https://s2.dmcdn.net/u/1KNmY1h2RGTM2aRJx/120x120"
-      },
-      {
         "name": "CBBA 5",
         "url": "",
         "idVideo": "xbpxgda",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1h2RGTM2aRJx/120x120"
+        "logo": "https://s1.dmcdn.net/u/1KNmY1h2YQvGPwFUa/120x120"
+      },
+      {
+        "name": "La Paz 3",
+        "url": "",
+        "idVideo": "xbzxr3y",
+        "logo": "https://s2.dmcdn.net/u/1KNmY1h2YQvGPwFUa/120x120"
       },
       {
         "name": "SCZ 4",
         "url": "",
         "idVideo": "xbzwtyy",
-        "logo": "https://s1.dmcdn.net/u/1KNmY1h2RGTM2aRJx/120x120"
+        "logo": "https://s2.dmcdn.net/u/1KNmY1h2YQvGPwFUa/120x120"
       }
     ]
   },
@@ -76,16 +76,16 @@
     "name": "ATB Bolivia",
     "signals": [
       {
+        "name": "ATB BOLIVIA",
+        "url": "",
+        "idVideo": "x84eirw",
+        "logo": "https://s1.dmcdn.net/u/1E8-X1h2QUSIOCqJL/120x120"
+      },
+      {
         "name": "Atb Cochabamba",
         "url": "",
         "idVideo": "x89sfvo",
         "logo": "https://s1.dmcdn.net/u/1E8-X1h2QUSIOCqJL/120x120"
-      },
-      {
-        "name": "ATB BOLIVIA",
-        "url": "",
-        "idVideo": "x84eirw",
-        "logo": "https://s2.dmcdn.net/u/1E8-X1h2QUSIOCqJL/120x120"
       }
     ]
   },
@@ -96,13 +96,13 @@
         "name": "Sigue nuestra programación en 7.2",
         "url": "",
         "idVideo": "x9ny70y",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1h2Qq1U6PsJs/120x120"
+        "logo": "https://s2.dmcdn.net/u/BVvRY1h2Y5-NyobRP/120x120"
       },
       {
         "name": "Sigue nuestra programación en 7.1",
         "url": "",
         "idVideo": "x9nzqpo",
-        "logo": "https://s1.dmcdn.net/u/BVvRY1h2Qq1U6PsJs/120x120"
+        "logo": "https://s1.dmcdn.net/u/BVvRY1h2Y5-NyobRP/120x120"
       }
     ]
   },
@@ -334,12 +334,6 @@
       {
         "name": "Poder de Dios TV (720p)",
         "url": "https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "RA Television (720p)",
-        "url": "https://183.giatvcdn.com/ssh101/ssh101/ratvbol/playlist.m3u8",
         "idVideo": "",
         "logo": ""
       },
@@ -602,32 +596,14 @@
         "logo": ""
       },
       {
-        "name": "Unitel Cochabamba (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Unitel La Paz (1080p)",
         "url": "http://190.181.61.93:8000/play/1910/index.m3u8",
         "idVideo": "",
         "logo": ""
       },
       {
-        "name": "Unitel La Paz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
         "name": "Unitel La Paz (576p)",
         "url": "http://190.181.61.93:8000/play/a00t/index.m3u8",
-        "idVideo": "",
-        "logo": ""
-      },
-      {
-        "name": "Unitel Santa Cruz (720p)",
-        "url": "https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8",
         "idVideo": "",
         "logo": ""
       },
